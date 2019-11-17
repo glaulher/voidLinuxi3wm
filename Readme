@@ -1,6 +1,7 @@
 ## git
 #######
 git init
+git pull
 git add .
 git commit -m "first commit"
 git remote add origin https://github.com/glaulher/voidLinuxi3wm.git
