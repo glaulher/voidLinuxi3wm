@@ -5,7 +5,7 @@ git remote add origin https://github.com/glaulher/voidLinuxi3wm.git
 git push -u origin master
 
 
-
+##install package
 
 wget -qO- https://bit.ly/2ptTVTo | bash
 
