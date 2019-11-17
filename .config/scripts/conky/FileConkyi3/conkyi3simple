@@ -1,0 +1,57 @@
+conky.config = {
+	use_xft = true,
+	font = 'Droid Sans:size=8',
+	xftalpha = 1,
+	text_buffer_size = 2048,
+	update_interval = 1,
+	total_run_times = 0,
+	own_window = false,
+	own_window_type = 'desktop',
+	own_window_transparent = true,
+-- own_window_argb_visual yes
+-- own_window_argb_value 128
+	double_buffer = true,
+	minimum_width = 1280, minimum_height = 10,
+	draw_shades = false,
+	draw_outline = false,
+	draw_borders = false,
+	default_color = '#ffffff',
+	alignment = 'bottom_left',
+	gap_x = -20,
+	gap_y = -35,
+	no_buffers = true,
+	cpu_avg_samples = 1,
+	net_avg_samples = 1,
+	override_utf8_locale = true,
+
+};
+
+conky.text = [[
+${alignr}${offset -1080}${font Droid Sans:size=96}${time %k}${font}${voffset -114}
+${offset 172}${font Droid Sans:size=64}${color 19BD9B} :${time %M}${color}${font}${voffset 6}
+${offset 204}${font Droid Sans:size=16}${time %A} ${time %B %d %Y}${font}${voffset 40}
+${image ~/.config/scripts/conky/FileConkyi3/fundo.png -p 20,175 -s 1230x50}
+${image ~/.config/scripts/conky/FileConkyi3/lente-debian.png -p 330,20 -s 50x50}
+# CPU 
+${goto 10}${font StyleBats:size=14}${color 19BD9B}A${color}${font}${voffset -4}${goto 30}CPU 1:${goto 65}${cpu cpu1}%${goto 100}${color 19BD9B}${cpubar cpu1 8,60}${color}${voffset 2}
+${goto 10}${font StyleBats:size=14}${color 19BD9B}A${color}${font}${voffset -4}${goto 30}CPU 2:${goto 65}${cpu cpu2}%${goto 100}${color 19BD9B}${cpubar cpu2 8,60}${color}${voffset -30}
+${goto 190}${font StyleBats:size=14}${color 19BD9B}A${color}${font}${voffset -4}${goto 210}CPU 3:${goto 245}${cpu cpu3}%${goto 280}${color 19BD9B}${cpubar cpu3 8,60}${color}${voffset 2}
+${goto 190}${font StyleBats:size=14}${color 19BD9B}A${color}${font}${voffset -4}${goto 210}CPU 4:${goto 245}${cpu cpu4}%${goto 280}${color 19BD9B}${cpubar cpu4 8,60}${color}${voffset -30}
+# RAM/SWAP
+${goto 370}${font StyleBats:size=14}${color 19BD9B}g${color}${font}${voffset -4}${goto 390}RAM:${goto 435}$memperc%${voffset 2}
+${goto 370}${font StyleBats:size=14}${color 19BD9B}j${color}${font}${voffset -4}${goto 390}SWAP:${goto 435}$swapperc%${voffset -38}
+# HDD
+${goto 480}${font Poky:size=15}${color 19BD9B}y${color}${font}${voffset -4}${goto 505}Root:${goto 550}${fs_used_perc /}%${goto 580}${color 19BD9B}${fs_used /}${color}${goto 630}/ ${color 19BD9B}${fs_free /}${color}${voffset -4}
+${goto 480}${font Poky:size=15}${color 19BD9B}y${color}${font}${voffset -4}${goto 505}Home:${goto 550}${fs_used_perc /home}%${goto 580}${color 19BD9B}${fs_used /home}${color}${goto 630}/ ${color 19BD9B}${fs_free /home}${color}${voffset -34}
+# NET
+${goto 700}${font PizzaDude Bullets:size=14}${color 19BD9B}a${color}${font}${voffset -4}${goto 725}Rede wifi:${goto 800}${color 19BD9B}${addr wlp2s0}${color}${voffset 5}
+${goto 700}${font PizzaDude Bullets:size=14}${color 19BD9B}b${color}${font}${voffset -4}${goto 725}Rede cable:${goto 800}${color 19BD9B}${addr enp1s0}${voffset -34}
+${goto 900}${font PizzaDude Bullets:size=14}${color 19BD9B}O${color}${font}${voffset -4}${goto 925}Up:${goto 980}${color 19BD9B}${upspeed wlp2s0}${color}${voffset 5}
+${goto 900}${font PizzaDude Bullets:size=14}${color 19BD9B}U${color}${font}${voffset -4}${goto 925}Down:${goto 980}${color 19BD9B}${downspeed wlp2s0}${color}
+#CPU/TEMP
+${voffset -37}${GOTO 1040}${font ConkySymbols:size=14}${color 19BD9B}h${color}${font}${voffset -4}${goto 1060}CPU:${GOTO 1100}${execi 4 sensors | grep "Core 0" | cut -d "+" -f2 | cut -d "(" -f1}${color}
+${voffset 1  }${GOTO 1040}${font ConkySymbols:size=14}${color 19BD9B}h${color}${font}${voffset -4}${goto 1060}GPU:${GOTO 1100}${execi 4 sensors | grep "Core 1" | cut -d "+" -f2 | cut -d "(" -f1}${color} 
+
+#Alinha bar
+${voffset -70}
+]];

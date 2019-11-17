@@ -1,0 +1,26 @@
+[2019-08-22 23:49:22.972] [sharedprocess] [info] main {"machineId":"15ca4dbb3fc2ad93d80e7da0470b5570f213298efdb138ee8a17336fa593b476"}
+[2019-08-22 23:49:50.749] [sharedprocess] [info] Installing extension: ms-azuretools.vscode-docker
+[2019-08-22 23:49:54.126] [sharedprocess] [info] Downloaded extension: ms-azuretools.vscode-docker /tmp/9ce9da35-a604-4b4a-9445-d8d251acc1b7
+[2019-08-22 23:49:55.125] [sharedprocess] [info] Extracted extension to /home/glaulher/.vscode/extensions/.ms-azuretools.vscode-docker-0.7.0: ms-azuretools.vscode-docker
+[2019-08-22 23:49:55.125] [sharedprocess] [info] Renamed to /home/glaulher/.vscode/extensions/ms-azuretools.vscode-docker-0.7.0
+[2019-08-22 23:49:55.129] [sharedprocess] [info] Installation completed. ms-azuretools.vscode-docker
+[2019-08-22 23:49:55.270] [sharedprocess] [info] Extensions installed successfully: ms-azuretools.vscode-docker
+[2019-08-22 23:50:02.957] [sharedprocess] [info] Starting to clean up unused language packs.
+[2019-08-22 23:50:55.879] [sharedprocess] [info] Installing extension: ms-vscode.csharp
+[2019-08-22 23:50:56.311] [sharedprocess] [info] Downloaded extension: ms-vscode.csharp /tmp/b5b711ba-4488-419b-939f-e886f830a4f1
+[2019-08-22 23:50:56.391] [sharedprocess] [info] Extracted extension to /home/glaulher/.vscode/extensions/.ms-vscode.csharp-1.21.1: ms-vscode.csharp
+[2019-08-22 23:50:56.391] [sharedprocess] [info] Renamed to /home/glaulher/.vscode/extensions/ms-vscode.csharp-1.21.1
+[2019-08-22 23:50:56.399] [sharedprocess] [info] Installation completed. ms-vscode.csharp
+[2019-08-22 23:50:56.467] [sharedprocess] [info] Extensions installed successfully: ms-vscode.csharp
+[2019-08-22 23:56:05.711] [sharedprocess] [info] Installing extension: vscode-icons-team.vscode-icons
+[2019-08-22 23:56:07.627] [sharedprocess] [info] Downloaded extension: vscode-icons-team.vscode-icons /tmp/c5bdb232-da35-4234-9b75-02a7fa22b075
+[2019-08-22 23:56:10.197] [sharedprocess] [info] Extracted extension to /home/glaulher/.vscode/extensions/.vscode-icons-team.vscode-icons-9.2.0: vscode-icons-team.vscode-icons
+[2019-08-22 23:56:10.198] [sharedprocess] [info] Renamed to /home/glaulher/.vscode/extensions/vscode-icons-team.vscode-icons-9.2.0
+[2019-08-22 23:56:10.201] [sharedprocess] [info] Installation completed. vscode-icons-team.vscode-icons
+[2019-08-22 23:56:10.264] [sharedprocess] [info] Extensions installed successfully: vscode-icons-team.vscode-icons
+[2019-08-22 23:56:19.522] [sharedprocess] [info] Installing extension: pkief.material-icon-theme
+[2019-08-22 23:56:21.073] [sharedprocess] [info] Downloaded extension: pkief.material-icon-theme /tmp/7557257b-6e4d-4989-b0c9-22814184e73f
+[2019-08-22 23:56:22.863] [sharedprocess] [info] Extracted extension to /home/glaulher/.vscode/extensions/.pkief.material-icon-theme-3.8.1: pkief.material-icon-theme
+[2019-08-22 23:56:22.863] [sharedprocess] [info] Renamed to /home/glaulher/.vscode/extensions/pkief.material-icon-theme-3.8.1
+[2019-08-22 23:56:22.865] [sharedprocess] [info] Installation completed. pkief.material-icon-theme
+[2019-08-22 23:56:22.921] [sharedprocess] [info] Extensions installed successfully: pkief.material-icon-theme

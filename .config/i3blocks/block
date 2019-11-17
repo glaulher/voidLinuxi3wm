@@ -1,0 +1,126 @@
+# i3blocks config file
+#
+# Please see man i3blocks for a complete reference!
+# The man page is also hosted at http://vivien.github.io/i3blocks
+#
+# List of valid properties:
+#
+# align
+# color
+# command
+# full_text
+# instance
+# interval
+# label
+# min_width
+# name
+# separator
+# separator_block_width
+# short_text
+# signal
+# urgent
+
+# Global properties
+#
+# The top properties below are applied to every block, but can be overridden.
+# Each block command defaults to the script name to avoid boilerplate.
+#command=/usr/lib/i3blocks/$BLOCK_NAME
+#command=~/code/shell/i3-blocks/blocks/$BLOCK_NAME
+command=~/.config/i3blocks/$BLOCK_NAME
+separator_block_width=15
+markup=none
+
+# Part 1
+
+#[window]
+#command=~/.config/i3blocks/scroll $BLOCK_NAME
+#label=
+#markup=pango
+#min_width=400
+#align=left
+#interval=repeat
+
+
+
+[window]
+command=~/.config/i3blocks/window
+label=
+interval=1
+markup=none
+min_width=400
+align=left
+
+
+# Part 5
+
+
+
+[memory]
+command=~/.config/i3blocks/memory $BLOCK_NAME
+label= Ram
+interval=30
+color=#e97ac8
+
+#[memory]
+#command=~/.config/i3blocks/memory $BLOCK_NAME
+#label= Swap
+#instance=swap
+#interval=30
+
+#[cpu_usage]
+#command=~/.config/i3blocks/cpu_usage
+#interval=10
+#label=
+
+
+[temperature]
+command=~/.config/i3blocks/temperature $BLOCK_NAME
+label=
+interval=5
+
+
+[xbacklight]
+command=~/.config/i3blocks/xbacklight
+label=
+interval=1
+color=#859900
+
+[volume-pulseaudio]
+command=~/.config/i3blocks/volume-pulseaudio $BLOCK_NAME
+interval=1
+signal=1
+
+
+[network]
+label=
+instance=wlp2s0
+interval=60
+color=#00FF00
+
+[battery2]
+command=~/.config/i3blocks/battery2
+markup=pango
+interval=5
+
+[calendar]
+command=~/.config/i3blocks/calendar
+interval=5
+#label= 
+label=
+color=#bf616a
+
+[shutdown_menu]
+full_text= Power
+# If you are using FontAwesome, we recommend the power-off icon:
+# http://fontawesome.io/icon/power-off/
+command=~/.config/i3blocks/shutdown_menu $BLOCK_NAME
+interval=0
+color=#d70a53
+
+[scriptrofi]
+full_text=
+command=~/.config/i3blocks/scriptrofi
+interval=0
+
+#######
+#######

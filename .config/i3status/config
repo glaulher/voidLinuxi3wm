@@ -1,0 +1,84 @@
+# i3status configuration file.
+# see "man i3status" for documentation.
+
+# It is important that this file is edited as UTF-8.
+# The following line should contain a sharp s:
+# ß
+# If the above line is not correctly displayed, fix your editor first!
+
+general {
+         output_format = "none"
+        separator = "  "
+        colors = true
+        markup = pango
+        interval = 5
+        color_good = '#2f343f'
+		color_degraded = '#ebcb8b'
+		color_bad = '#ba5e57'
+}
+
+order += "load"
+order += "cpu_temperature 0"
+order += "cpu_usage"
+order += "disk /"
+#order += "disk /home"
+order += "ethernet enp1s0"
+order += "wireless wlp2s0"
+order += "volume master"
+order += "battery 0"
+order += "tztime local"
+
+load {
+        format = "   %5min Load "
+}
+
+cpu_temperature 0 {
+        format = "  %degrees °C "
+        path = "/sys/class/thermal/thermal_zone0/temp"
+}
+cpu_usage {
+	format = "  %usage "
+}
+
+disk "/" {
+        format = "  %used / %free  "
+}
+
+#disk "/home" {
+#        format = "<span foreground='#a1d569'>  %free Free </span>"
+#}
+
+ethernet enp1s0 {
+        format_up = "  %ip "
+        format_down = "  Disconnected "
+}
+
+wireless wlp2s0 {
+        format_up = " %quality "
+        format_down = " Disconnected "
+}
+
+volume master {
+        format = "%volume"
+        format_muted = " Muted "
+        device = "default"
+        mixer = "Master"
+        mixer_idx = 0
+}
+
+battery 0 {
+	last_full_capacity = true
+        format = "%status %percentage"
+        format_down = "No Battery"
+        status_chr = "⚡  CHR"
+        status_bat = "🔋  BAT"
+        status_unk = "? "
+        status_full = "☻  FULL"
+        path = "/sys/class/power_supply/BAT%d/uevent"
+        low_threshold = 10
+}
+
+tztime local {
+		format = "%time"
+		format_time = "%a %-d %b %H:%M"
+}

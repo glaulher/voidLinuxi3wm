@@ -1,0 +1,3 @@
+#rofi.theme: ~/.config/rofi/i3-Dark.rasi
+#rofi.theme: ~/.config/rofi/leve-froly.rasi
+rofi.theme: ~/.config/rofi/grm.rasi

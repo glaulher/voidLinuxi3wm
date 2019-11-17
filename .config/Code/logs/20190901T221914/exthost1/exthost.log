@@ -1,0 +1,69 @@
+[2019-09-01 22:19:18.654] [exthost] [info] extension host started
+[2019-09-01 22:19:18.681] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2019-09-01 22:19:18.681] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/configuration-editing/dist/extension
+[2019-09-01 22:19:18.693] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2019-09-01 22:19:18.693] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/json-language-features/client/dist/jsonMain
+[2019-09-01 22:19:18.848] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2019-09-01 22:19:18.848] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/typescript-language-features/dist/extension
+[2019-09-01 22:19:18.986] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2019-09-01 22:19:18.986] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2019-09-01 22:19:18.992] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2019-09-01 22:19:18.992] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/dist/extension
+[2019-09-01 22:19:19.111] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2019-09-01 22:19:19.111] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/dist/main
+[2019-09-01 22:19:19.282] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2019-09-01 22:19:19.282] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2019-09-01 22:19:19.297] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":true,"activationEvent":"*"}
+[2019-09-01 22:19:19.297] [exthost] [info] ExtensionService#loadCommonJSModule /home/glaulher/.vscode/extensions/dbaeumer.vscode-eslint-1.9.1/client/out/extension
+[2019-09-01 22:19:19.367] [exthost] [info] ExtensionService#_doActivateExtension EditorConfig.EditorConfig {"startup":true,"activationEvent":"*"}
+[2019-09-01 22:19:19.367] [exthost] [info] ExtensionService#loadCommonJSModule /home/glaulher/.vscode/extensions/editorconfig.editorconfig-0.13.0/out/src/editorConfigMain
+[2019-09-01 22:19:19.418] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":true,"activationEvent":"*"}
+[2019-09-01 22:19:19.418] [exthost] [info] ExtensionService#loadCommonJSModule /home/glaulher/.vscode/extensions/esbenp.prettier-vscode-2.2.2/out/extension
+[2019-09-01 22:19:19.751] [exthost] [info] ExtensionService#_doActivateExtension naumovs.color-highlight {"startup":true,"activationEvent":"*"}
+[2019-09-01 22:19:19.751] [exthost] [info] ExtensionService#loadCommonJSModule /home/glaulher/.vscode/extensions/naumovs.color-highlight-2.3.0/dist/extension
+[2019-09-01 22:19:19.819] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme {"startup":true,"activationEvent":"*"}
+[2019-09-01 22:19:19.819] [exthost] [info] ExtensionService#loadCommonJSModule /home/glaulher/.vscode/extensions/pkief.material-icon-theme-3.9.0/dist/extension
+[2019-09-01 22:19:19.862] [exthost] [info] ExtensionService#_doActivateExtension vscode-icons-team.vscode-icons {"startup":true,"activationEvent":"*"}
+[2019-09-01 22:19:19.862] [exthost] [info] ExtensionService#loadCommonJSModule /home/glaulher/.vscode/extensions/vscode-icons-team.vscode-icons-9.3.0/dist/src/vscode-icons.bundle.js
+[2019-09-01 22:19:20.035] [exthost] [info] eager extensions activated
+[2019-09-01 22:46:21.690] [exthost] [info] extension host started
+[2019-09-01 22:46:21.777] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2019-09-01 22:46:21.783] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2019-09-01 22:46:21.794] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2019-09-01 22:46:21.794] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/dist/extension
+[2019-09-01 22:46:21.961] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2019-09-01 22:46:21.961] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/dist/main
+[2019-09-01 22:46:22.232] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2019-09-01 22:46:22.232] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2019-09-01 22:46:22.248] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":true,"activationEvent":"*"}
+[2019-09-01 22:46:22.248] [exthost] [info] ExtensionService#loadCommonJSModule /home/glaulher/.vscode/extensions/dbaeumer.vscode-eslint-1.9.1/client/out/extension
+[2019-09-01 22:46:22.357] [exthost] [info] ExtensionService#_doActivateExtension EditorConfig.EditorConfig {"startup":true,"activationEvent":"*"}
+[2019-09-01 22:46:22.357] [exthost] [info] ExtensionService#loadCommonJSModule /home/glaulher/.vscode/extensions/editorconfig.editorconfig-0.13.0/out/src/editorConfigMain
+[2019-09-01 22:46:22.418] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":true,"activationEvent":"*"}
+[2019-09-01 22:46:22.418] [exthost] [info] ExtensionService#loadCommonJSModule /home/glaulher/.vscode/extensions/esbenp.prettier-vscode-2.2.2/out/extension
+[2019-09-01 22:46:22.954] [exthost] [info] ExtensionService#_doActivateExtension naumovs.color-highlight {"startup":true,"activationEvent":"*"}
+[2019-09-01 22:46:22.954] [exthost] [info] ExtensionService#loadCommonJSModule /home/glaulher/.vscode/extensions/naumovs.color-highlight-2.3.0/dist/extension
+[2019-09-01 22:46:23.028] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme {"startup":true,"activationEvent":"*"}
+[2019-09-01 22:46:23.028] [exthost] [info] ExtensionService#loadCommonJSModule /home/glaulher/.vscode/extensions/pkief.material-icon-theme-3.9.0/dist/extension
+[2019-09-01 22:46:23.104] [exthost] [info] ExtensionService#_doActivateExtension vscode-icons-team.vscode-icons {"startup":true,"activationEvent":"*"}
+[2019-09-01 22:46:23.104] [exthost] [info] ExtensionService#loadCommonJSModule /home/glaulher/.vscode/extensions/vscode-icons-team.vscode-icons-9.3.0/dist/src/vscode-icons.bundle.js
+[2019-09-01 22:46:25.030] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.csharp {"startup":true,"activationEvent":"workspaceContains:*.csproj,*.sln,*.csx,*.cake,**/*.csproj,**/*.sln,**/*.csx,**/*.cake"}
+[2019-09-01 22:46:25.031] [exthost] [info] ExtensionService#loadCommonJSModule /home/glaulher/.vscode/extensions/ms-vscode.csharp-1.21.1/dist/extension
+[2019-09-01 22:46:30.617] [exthost] [info] eager extensions activated
+[2019-09-01 22:46:38.200] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features {"startup":false,"activationEvent":"onLanguage:html"}
+[2019-09-01 22:46:38.200] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/html-language-features/client/dist/htmlMain
+[2019-09-01 22:48:17.111] [exthost] [info] extension host started
+[2019-09-01 22:48:17.317] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2019-09-01 22:48:17.319] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2019-09-01 22:48:17.394] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2019-09-01 22:48:17.394] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/dist/extension
+[2019-09-01 22:48:18.495] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2019-09-01 22:48:18.496] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/dist/main
+[2019-09-01 22:48:20.504] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2019-09-01 22:48:20.504] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2019-09-01 22:48:20.630] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":true,"activationEvent":"*"}
+[2019-09-01 22:48:20.631] [exthost] [info] ExtensionService#loadCommonJSModule /home/glaulher/.vscode/extensions/dbaeumer.vscode-eslint-1.9.1/client/out/extension
+[2019-09-01 22:48:21.509] [exthost] [info] ExtensionService#_doActivateExtension EditorConfig.EditorConfig {"startup":true,"activationEvent":"*"}
+[2019-09-01 22:48:21.509] [exthost] [info] ExtensionService#loadCommonJSModule /home/glaulher/.vscode/extensions/editorconfig.editorconfig-0.13.0/out/src/editorConfigMain
+[2019-09-01 22:48:22.035] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":true,"activationEvent":"*"}
+[2019-09-01 22:48:22.035] [exthost] [info] ExtensionService#loadCommonJSModule /home/glaulher/.vscode/extensions/esbenp.prettier-vscode-2.2.2/out/extension

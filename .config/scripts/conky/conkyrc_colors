@@ -1,0 +1,53 @@
+conky.config = { 
+
+	background = true,
+	use_xft = true,
+	font = 'Technical CE:bold:size=10',
+	xftalpha = 0.8,
+	update_interval = 1.0,
+	total_run_times = 0,
+	own_window = true,
+	own_window_transparent = true,
+	own_window_type = 'override',
+	own_window_class = 'conky',
+        own_window_argb_visual = true,
+	own_window_hints = 'undecorated,below,sticky,skip_taskbar,skip_pager',
+	double_buffer = true,
+	draw_shades = false,
+	draw_outline = false,
+	draw_borders = false,
+	draw_graph_borders = true,
+	stippled_borders = 0,
+	border_width = 0,
+	default_color = 'cccccc',
+	alignment = 'top_right',
+	gap_x = 10,
+	gap_y = 30,
+	no_buffers = true,
+	cpu_avg_samples = 1,
+	net_avg_samples = 1,
+	override_utf8_locale = true,
+	use_spacer = 'right',
+	minimum_width = 70,
+        minimum_height = 1080,
+	uppercase = true,
+
+	lua_load = '~/.config/scripts/colors.lua',
+	lua_draw_hook_pre = 'ring_stats',
+	lua_draw_hook_post = 'start',
+
+};
+conky.text = [[
+${goto 19}${voffset 25}CPU0
+${goto 19}${voffset 62}CPU1
+${goto 19}${voffset 62}CPU2
+${goto 19}${voffset 62}CPU3
+${goto 19}${voffset 62}TEMP
+${goto 22}${voffset 62}RAM
+${goto 17}${voffset 62}ROOT
+${goto 16}${voffset 62}HOME
+${goto 16}${voffset 62}DATA
+${goto 27}${voffset 62}UP
+${goto 17}${voffset 62}DOWN
+
+]];

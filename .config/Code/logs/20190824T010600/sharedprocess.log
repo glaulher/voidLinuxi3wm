@@ -1,0 +1,7 @@
+[2019-08-24 01:06:05.938] [sharedprocess] [info] main {"machineId":"15ca4dbb3fc2ad93d80e7da0470b5570f213298efdb138ee8a17336fa593b476"}
+[2019-08-24 01:06:11.597] [sharedprocess] [info] Installing extension: vscode-icons-team.vscode-icons
+[2019-08-24 01:06:13.441] [sharedprocess] [info] Downloaded extension: vscode-icons-team.vscode-icons /tmp/c6313a8c-dbcd-4443-9e50-49f3a547ac86
+[2019-08-24 01:06:15.274] [sharedprocess] [info] Extracted extension to /home/glaulher/.vscode/extensions/.vscode-icons-team.vscode-icons-9.3.0: vscode-icons-team.vscode-icons
+[2019-08-24 01:06:15.275] [sharedprocess] [info] Renamed to /home/glaulher/.vscode/extensions/vscode-icons-team.vscode-icons-9.3.0
+[2019-08-24 01:06:15.278] [sharedprocess] [info] Installation completed. vscode-icons-team.vscode-icons
+[2019-08-24 01:06:15.434] [sharedprocess] [info] Extensions installed successfully: vscode-icons-team.vscode-icons

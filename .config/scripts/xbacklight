@@ -1,0 +1,29 @@
+#!/bin/bash
+
+NIVEL="$(xbacklight | cut -d . -f1)"
+
+ 
+if [ "$(xbacklight | cut -d . -f2)" > 56 ]; then
+	NIVEL=`expr $NIVEL + 1`        
+fi
+   
+if [ "$NIVEL" == 101 ] || [ "$NIVEL" == 1 ]; then
+	NIVEL=`expr $NIVEL - 1`
+fi 
+   
+echo "$NIVEL"
+
+# Left click
+if [[ "${BLOCK_BUTTON}" -eq 1 ]]; then
+  xbacklight -inc 10
+ 
+# Right click
+elif [[ "${BLOCK_BUTTON}" -eq 3 ]]; then
+  xbacklight -dec 10
+
+fi
+
+
+
+	
+	

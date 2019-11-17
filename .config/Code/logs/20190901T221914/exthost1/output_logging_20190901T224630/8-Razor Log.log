@@ -1,0 +1,50 @@
+--------------------------------------------------------------------------------
+Razor.VSCode version 1.0.0-alpha3-20190725.1
+--------------------------------------------------------------------------------
+Razor's trace level is currently set to 'Off'
+ - To change Razor's trace level set 'razor.trace' to 'Off', 'Messages' or 'Verbose' and then restart VSCode.
+ - To report issues invoke the 'Report a Razor issue' command via the command palette.
+-----------------------------------------------------------------------------------------------------------------------------
+
+[Client - 22:47:11] (Error) Failed to read project config at location /home/glaulher/Documentos/dev/Projetos/Cpr/src/Cpr.Web/obj/Debug/netcoreapp2.2/project.razor.json.
+Unexpected end of JSON input
+Stack Trace:
+SyntaxError: Unexpected end of JSON input
+	at JSON.parse (<anonymous>)
+	at module.exports.t.RazorProjectManager.getProjectConfiguration (/home/glaulher/.vscode/extensions/ms-vscode.csharp-1.21.1/dist/extension.js:80:167240)
+	at module.exports.t.RazorProjectManager.updateProjectConfiguration (/home/glaulher/.vscode/extensions/ms-vscode.csharp-1.21.1/dist/extension.js:80:165797)
+	at module.exports.t.RazorProjectManager.<anonymous> (/home/glaulher/.vscode/extensions/ms-vscode.csharp-1.21.1/dist/extension.js:80:165683)
+	at Generator.next (<anonymous>)
+	at module.exports.r (/home/glaulher/.vscode/extensions/ms-vscode.csharp-1.21.1/dist/extension.js:80:164457)
+	at new Promise (<anonymous>)
+	at module.exports.r (/home/glaulher/.vscode/extensions/ms-vscode.csharp-1.21.1/dist/extension.js:80:164234)
+	at module.exports.t.RazorProjectManager.register.i.onDidChange.e (/home/glaulher/.vscode/extensions/ms-vscode.csharp-1.21.1/dist/extension.js:80:165638)
+	at u.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:50:207)
+	at define.constructor.e (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:549:955)
+	at u.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:50:207)
+	at u.$onFileEvent (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:550:901)
+	at d._doInvokeHandler (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:668:1006)
+	at d._invokeHandler (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:668:698)
+	at d._receiveRequest (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:667:346)
+	at d._receiveOneMessage (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:666:141)
+	at define.constructor._protocol.onMessage.e (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:664:400)
+	at u.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:50:207)
+	at a (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:179:815)
+	at e (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:179:861)
+	at u.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:50:207)
+	at n.constructor.e.onMessage.e (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:775:104)
+	at u.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:50:207)
+	at a (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:179:815)
+	at e (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:179:861)
+	at u.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:50:207)
+	at y._receiveMessage (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:188:834)
+	at define.constructor._socketDisposables.push._socketReader.onMessage.e (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:186:116)
+	at u.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:50:207)
+	at f.acceptChunk (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:182:588)
+	at define.constructor._register._socket.onData.e (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:181:919)
+	at Socket.t (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:190:329)
+	at Socket.emit (events.js:182:13)
+	at addChunk (_stream_readable.js:283:12)
+	at readableAddChunk (_stream_readable.js:264:11)
+	at Socket.Readable.push (_stream_readable.js:219:10)
+	at Pipe.onStreamRead [as onread] (internal/stream_base_commons.js:94:17)

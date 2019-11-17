@@ -1,0 +1,393 @@
+# i3blocks config file
+#
+# Please see man i3blocks for a complete reference!
+# The man page is also hosted at http://vivien.github.io/i3blocks
+#
+# List of valid properties:
+#
+# align
+# color
+# command
+# full_text
+# instance
+# interval
+# label
+# min_width
+# name
+# separator
+# separator_block_width
+# short_text
+# signal
+# urgent
+
+# Global properties
+#
+# The top properties below are applied to every block, but can be overridden.
+# Each block command defaults to the script name to avoid boilerplate.
+#command=/usr/lib/i3blocks/$BLOCK_NAME
+#command=~/code/shell/i3-blocks/blocks/$BLOCK_NAME
+command=~/.config/i3blocks/$BLOCK_NAME
+separator_block_width=15
+markup=none
+
+# Part 1
+
+#[window]
+#command=~/.config/i3blocks/scroll $BLOCK_NAME
+#label=
+#markup=pango
+#interval=repeat
+
+[weathermap-forecast]
+command=~/.config/i3blocks/openweathermap-forecast $BLOCK_NAME
+color=#A4C2F4
+interval=600
+
+[docker]
+command=~/.config/i3blocks/docker
+color=#0db7ed
+interval=15
+label=🐳 
+
+#[volume-pulseaudio]
+#command=~/.config/i3blocks/volume-pulseaudio $BLOCK_NAME
+#interval=1
+#signal=1
+#MIXER=[determined automatically]
+#SCONTROL=[determined automatically]
+##exposed format variables: ${SYMB}, ${VOL}, ${INDEX}, ${NAME}
+#LONG_FORMAT="${SYMB} ${VOL}% [${INDEX}:${NAME}]"
+#SHORT_FORMAT="${SYMB} ${VOL}% [${INDEX}]"
+#AUDIO_HIGH_SYMBOL='  '
+#AUDIO_MED_THRESH=50
+#AUDIO_MED_SYMBOL='  '
+#AUDIO_LOW_THRESH=0
+#AUDIO_LOW_SYMBOL='  '
+#AUDIO_DELTA=5
+#DEFAULT_COLOR="#ffffff"
+#MUTED_COLOR="#a0a0a0"
+#USE_ALSA_NAME=0
+#USE_DESCRIPTION=0
+## SUBSCRIBE=1 requires interval=persist and always uses LONG_FORMAT
+
+
+
+
+#[network]
+#label=
+#instance=wlp2s0
+#interval=10
+
+
+
+# Part 5
+
+
+
+#[memory]
+#command=~/.config/i3blocks/memory $BLOCK_NAME
+#label= Ram
+#interval=30
+
+[memory]
+command=~/.config/i3blocks/memory $BLOCK_NAME
+label= Swap
+instance=swap
+interval=30
+color=#cb4b16
+
+[cpu_usage]
+command=~/.config/i3blocks/cpu_usage
+interval=5
+label=
+
+[ssid]
+label=
+interval=60
+markup=none
+color=#00FF00
+
+[iface]
+command=~/.config/i3blocks/iface
+interval=once
+label=
+color=#91E78B
+
+[shutdown_menu]
+full_text= Power
+# If you are using FontAwesome, we recommend the power-off icon:
+# http://fontawesome.io/icon/power-off/
+command=~/.config/i3blocks/shutdown_menu $BLOCK_NAME
+interval=0
+color=#d70a53
+
+[scriptrofi]
+full_text=
+command=~/.config/i3blocks/scriptrofi
+interval=0
+
+#[temperature]
+#command=~/.config/i3blocks/temperature $BLOCK_NAME
+#label=
+#interval=1
+
+
+# Part 6
+
+#[space]
+#command=~/.config/i3blocks/space
+#label=
+#instance=/;used
+#interval=30
+#[space]
+#command=~/.config/i3blocks/space
+#label=/
+#instance=/;max
+#interval=30
+
+#[xbacklight]
+#command=~/.config/i3blocks/xbacklight
+#label=
+#interval=1
+
+#[battery2]
+#command=~/.config/i3blocks/battery2
+#markup=pango
+#interval=5
+
+#[calendar]
+#command=~/.config/i3blocks/calendar
+#interval=5
+##label= 
+#label=
+
+#[shutdown_menu]
+#full_text= Power
+# If you are using FontAwesome, we recommend the power-off icon:
+# http://fontawesome.io/icon/power-off/
+#command=~/.config/i3blocks/shutdown_menu $BLOCK_NAME
+#color=#bf616a
+#FG_COLOR=#bbbbbb
+#BG_COLOR=#111111
+#HLFG_COLOR=#111111
+#HLBG_COLOR=#bbbbbb
+#BORDER_COLOR=#222222
+#ROFI_TEXT=Menu:
+#ROFI_OPTIONS=-width 11 -location 3 -hide-scrollbar -bw 2
+#ZENITY_TITLE=Menu
+#ZENITY_TEXT=Action:
+#ZENITY_OPTIONS=--column= --hide-header
+#ENABLE_CONFIRMATIONS=true (must be true or false)
+#LAUNCHER=rofi (must be rofi or zenity)
+#LOCKSCRIPT=i3lock --color=${BG_COLOR#"#"}
+
+
+
+
+
+#######
+#######
+
+
+#[space]
+#label=
+#instance=/pub
+#interval=30
+#markup=none
+# Part 9
+
+# Part 10
+
+#[vpn]
+#label=
+#interval=5
+
+#[webcam]
+#label=
+#interval=5
+
+# Part 11
+#[usb]
+#instance=PhotoSmart
+#label=
+#interval=10
+
+#[trash]
+#label=
+#interval=10
+
+#[cmus]
+#command=~/.i3-blocks/scroll $BLOCK_NAME
+#label=
+#markup=pango
+#interval=repeat
+
+# Part 12
+
+#[keymap]
+#label=
+#interval=10
+
+#[countdown]
+#instance=tomorrow 05:00:00
+#label=
+#interval=1
+
+#[datetime]
+#label=
+#interval=5
+#markup=none
+#[user]
+#label=
+#interval=once
+
+
+
+#[window]
+#command=~/.config/.i3-blocks/window $BLOCK_NAME
+#label=
+#interval=repeat
+#markup=none
+
+
+#[mediaplayer]
+#command=~/.config/.i3-blocks/mediaplayer
+#instance=spotify
+#interval=5
+#signal=10
+
+#[weather]
+#instance=2910831
+#interval=60
+
+
+#[volume-pulseaudio]
+#command=~/.config/.i3-blocks/volume-pulseaudio $BLOCK_NAME
+#interval=persist
+#SUBSCRIBE=1
+#USE_ALSA_NAME=1
+
+#[audio]
+#label=
+#interval=5
+
+#[brightness]
+#label=
+#interval=5
+
+#[battery]
+#label=
+#instance=0
+#interval=5
+
+# Part 2
+
+#[bluetooth]
+#label=
+#interval=10
+
+# Part 3
+
+#[cpu]
+#label=
+#interval=2
+
+#[display]
+#label=
+#interval=5
+
+# Part 4
+#[feed]
+#instance=http://goo.gl/bR2hcp
+#label=
+#interval=60
+
+#[firewall]
+#label=
+#interval=10
+
+#[locale]
+#label=
+#interval=once
+
+#[mail]
+#label=
+#instance=~/.gmx-private
+#interval=60
+
+#[memory]
+#label=
+#instance=swap;total
+#interval=30
+
+# Part 7
+
+#[microphone]
+#label=
+#interval=5
+
+#[network]
+#label=
+#instance=enp1s0
+#interval=10
+
+#[packages]
+#label=
+#interval=300
+
+# Part 8
+
+#[playerctl]
+#label=
+#instance=rhythmbox
+#interval=5
+
+#[process]
+#instance=http
+#label=
+#interval=10
+
+#[load]
+#label=
+#interval=10
+#markup=none
+
+#[keystate]
+#label=
+#instance=caps
+#interval=1
+
+#[keystate]
+#label=
+#instance=num
+#interval=1
+
+#[launcher]
+#label=
+#interval=once
+
+#[memory]
+#label=
+#instance=mem;free
+#interval=30
+
+#[ssid]
+#label=
+#interval=60
+#markup=none
+#[ip-address]
+#label=
+#interval=60
+
+#[bandwidth]
+#command=~/.config/.i3-blocks/bandwidth
+#interval=5
+#INTERFACE=wlp2s0
+
+#[bandwidth]
+#command=~/.config/.i3-blocks/bandwidth
+#interval=5
+#INTERFACE=eth0
+#INLABEL=IN 
+#OUTLABEL=OUT 
+#TREAT_UNKNOWN_AS_UP=0

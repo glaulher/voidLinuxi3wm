@@ -1,0 +1,40 @@
+#!/bin/bash
+
+NIVEL="$(xbacklight | cut -d . -f1)"
+
+ 
+if [ "$(xbacklight | cut -d . -f2)" > 56 ]; then
+	NIVEL=`expr $NIVEL + 1`        
+fi
+   
+if [ "$NIVEL" == 101 ] || [ "$NIVEL" == 1 ]; then
+	NIVEL=`expr $NIVEL - 1`
+fi 
+   
+echo "$NIVEL"
+
+
+
+case "$1" in
+--inc) 
+	xbacklight -inc 10
+	;;
+	*)    
+    ;;
+esac    
+
+
+case "$1" in
+--dec)
+
+    xbacklight -dec 10
+    ;;
+	*)    
+    ;;
+esac    
+
+
+
+
+	
+	

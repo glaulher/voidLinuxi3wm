@@ -1,0 +1,59 @@
+conky.config = {
+	--simple = 'Bar Conky Theme conky grafic - by glaulher <glaulher.developer@gmail.com>',
+	--minimalist = 'theme for conky',
+
+
+	use_xft = true,
+	font = 'play:bold:size=9',
+	xftalpha = 0.1,
+	update_interval = 1,
+	total_run_times = 0,
+
+	own_window = true,
+	own_window_type = 'override',
+	own_window_transparent = false,
+	own_window_hints = 'undecorated,below,sticky,skip_taskbar,skip_pager',
+--own_window_colour 262729
+	own_window_colour = '#000000',
+	own_window_argb_visual = true,
+	own_window_argb_value = 80,
+
+	double_buffer = true,
+--minimum_size 250 5
+--maximum_width 500
+	draw_shades = false,
+	draw_outline = false,
+	draw_borders = false,
+	draw_graph_borders = false,
+	default_color = 'white',
+	default_shade_color = 'red',
+	default_outline_color = 'green',
+	alignment = 'bottom_left',
+	gap_x = 0,
+	gap_y = 0,
+	no_buffers = true,
+	uppercase = false,
+	draw_shades = false,
+	cpu_avg_samples = 2,
+	net_avg_samples = 1,
+	override_utf8_locale = true,
+	use_spacer = 'right',
+	minimum_width = 0, minimum_height = 0,
+
+
+--Colores
+	color0 = '#ffffff',
+	color1 = '#17ba9d',--verde manjaro
+	color2 = '#fd971f',--naranja
+	color3 = '#cbcbcb',--gris
+	color4 = '#20a5e4',--azul
+	color5 = '#a6e22e',--verde claro
+	color6 = '#D45959',--rojo
+
+
+};
+
+conky.text = [[
+${voffset -10}${offset 1370}
+${voffset -8}${GOTO 30}$color2${font ConkySymbols:size=12}j${font}$color${font :pixelsize=10}  RAM ${offset 5}${font :pixelsize=10}$color$mem / $memmax ${GOTO 180}$color6${membar 5,50 }	${voffset -4}${GOTO 265}$color2${font ConkySymbols:size=10}f${font} ${font :pixelsize=10}$color0  CPU1: ${cpu cpu1}%  $freq_g GHz ${GOTO 405}${cpugraph cpu1 8,60 000000 72CBDC}${color} ${voffset -4}${GOTO 485}$color2${font ConkySymbols:size=10}f${font}	${font :pixelsize=10}$color0  CPU2: ${cpu cpu2}%  $freq_g GHz ${GOTO 625}${cpugraph cpu2 8,60 000000 72CBDC}${color}	${voffset -4}${GOTO 700}$color2${font ConkySymbols:size=10}f${font}	${font :pixelsize=10}$color0  CPU3: ${cpu cpu3}%  $freq_g GHz ${GOTO 845}${cpugraph cpu3 8,60 000000 72CBDC}${color} ${voffset -4}${GOTO 920}$color2${font ConkySymbols:size=10}f${font}	${font :pixelsize=10}$color0  CPU4: ${cpu cpu4}%  $freq_g GHz ${GOTO 1060}${cpugraph cpu4 8,60 000000 72CBDC}${color}	${GOTO 1155}${voffset -4}$color6${font ConkySymbols:pixelsize=12}h${font} ${font :pixelsize=10}$color0 CPU:${GOTO 1200}${execi 4 sensors | grep "Core 0" | cut -d "+" -f2 | cut -d "(" -f1} 	${GOTO 1255}${voffset -3}$color6${font ConkySymbols:pixelsize=12}h${font} ${font :pixelsize=10}$color0 GPU:${GOTO 1300}${execi 4 sensors | grep "Core 1" | cut -d "+" -f2 | cut -d "(" -f1} 
+]];

@@ -1,0 +1,33 @@
+#!/bin/bash
+
+
+if [ "$(systemctl is-active docker.service)" = "active" ]; then
+
+	# Number of docker containers running
+	count=$(docker ps -a | wc -l | sed -r 's/^0$//g')
+	# Recent docker container IP
+r	ecent_ip=$(docker inspect -f "{{ .NetworkSettings.IPAddress }}" $(docker ps -ql))
+
+    if [ "$(docker ps | cut -c113-115 | grep "Up" | sed 's/ //g')" = "Up" ]; then
+    
+    echo "$LABEL$count: $recent_ip Container "`docker ps | grep "Up" | cut -c155-200 | sed 's/ //g'`" run"
+     
+    else
+     echo "$LABEL$count: $recent_ip Docker "`docker ps -a | sed 's/.*NAMES//'| sed 's/.*ago//' |  sed 's/.*tcp //' | sed 's/ //g' | sed 's/$/ |/' ` " stop" 
+fi    
+else
+    echo "$LABEL Docker off"
+fi
+
+# Left click
+if [[ "${BLOCK_BUTTON}" -eq 1 ]]; then
+	systemctl start docker
+	systemctl start containerd
+fi 
+# Right click
+if [[ "${BLOCK_BUTTON}" -eq 3 ]]; then
+	systemctl stop docker
+	systemctl stop containerd
+    systemctl disable docker
+	systemctl disable containerd
+fi

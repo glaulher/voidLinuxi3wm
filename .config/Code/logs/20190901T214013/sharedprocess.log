@@ -1,0 +1,26 @@
+[2019-09-01 21:40:19.019] [sharedprocess] [info] main {"machineId":"15ca4dbb3fc2ad93d80e7da0470b5570f213298efdb138ee8a17336fa593b476"}
+[2019-09-01 21:40:59.029] [sharedprocess] [info] Starting to clean up unused language packs.
+[2019-09-01 22:12:57.632] [sharedprocess] [info] Installing extension: naumovs.color-highlight
+[2019-09-01 22:12:58.724] [sharedprocess] [info] Downloaded extension: naumovs.color-highlight /tmp/10e7dac2-9c66-4112-8a6d-7196bf03d3c6
+[2019-09-01 22:12:59.032] [sharedprocess] [info] Extracted extension to /home/glaulher/.vscode/extensions/.naumovs.color-highlight-2.3.0: naumovs.color-highlight
+[2019-09-01 22:12:59.033] [sharedprocess] [info] Renamed to /home/glaulher/.vscode/extensions/naumovs.color-highlight-2.3.0
+[2019-09-01 22:12:59.036] [sharedprocess] [info] Installation completed. naumovs.color-highlight
+[2019-09-01 22:12:59.095] [sharedprocess] [info] Extensions installed successfully: naumovs.color-highlight
+[2019-09-01 22:13:58.259] [sharedprocess] [info] Installing extension: editorconfig.editorconfig
+[2019-09-01 22:13:59.745] [sharedprocess] [info] Downloaded extension: editorconfig.editorconfig /tmp/6a6793e3-9d03-46dd-9dc9-9651877e8479
+[2019-09-01 22:14:00.094] [sharedprocess] [info] Extracted extension to /home/glaulher/.vscode/extensions/.editorconfig.editorconfig-0.13.0: editorconfig.editorconfig
+[2019-09-01 22:14:00.094] [sharedprocess] [info] Renamed to /home/glaulher/.vscode/extensions/editorconfig.editorconfig-0.13.0
+[2019-09-01 22:14:00.096] [sharedprocess] [info] Installation completed. editorconfig.editorconfig
+[2019-09-01 22:14:00.157] [sharedprocess] [info] Extensions installed successfully: editorconfig.editorconfig
+[2019-09-01 22:15:23.009] [sharedprocess] [info] Installing extension: dbaeumer.vscode-eslint
+[2019-09-01 22:15:23.395] [sharedprocess] [info] Downloaded extension: dbaeumer.vscode-eslint /tmp/36d68b5d-28bf-45ce-aeda-a6312ec1a5e6
+[2019-09-01 22:15:23.456] [sharedprocess] [info] Extracted extension to /home/glaulher/.vscode/extensions/.dbaeumer.vscode-eslint-1.9.1: dbaeumer.vscode-eslint
+[2019-09-01 22:15:23.461] [sharedprocess] [info] Renamed to /home/glaulher/.vscode/extensions/dbaeumer.vscode-eslint-1.9.1
+[2019-09-01 22:15:23.504] [sharedprocess] [info] Installation completed. dbaeumer.vscode-eslint
+[2019-09-01 22:15:23.573] [sharedprocess] [info] Extensions installed successfully: dbaeumer.vscode-eslint
+[2019-09-01 22:16:13.817] [sharedprocess] [info] Installing extension: esbenp.prettier-vscode
+[2019-09-01 22:16:32.234] [sharedprocess] [info] Downloaded extension: esbenp.prettier-vscode /tmp/ff7e7b96-f735-4fa4-a21a-eb90429b85bc
+[2019-09-01 22:18:15.195] [sharedprocess] [info] Extracted extension to /home/glaulher/.vscode/extensions/.esbenp.prettier-vscode-2.2.2: esbenp.prettier-vscode
+[2019-09-01 22:18:15.197] [sharedprocess] [info] Renamed to /home/glaulher/.vscode/extensions/esbenp.prettier-vscode-2.2.2
+[2019-09-01 22:18:15.236] [sharedprocess] [info] Installation completed. esbenp.prettier-vscode
+[2019-09-01 22:18:15.338] [sharedprocess] [info] Extensions installed successfully: esbenp.prettier-vscode

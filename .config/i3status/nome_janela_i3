@@ -1,0 +1,17 @@
+#!/bin/bash 
+# shell script to prepend i3status with more stuff
+
+i3status | while :
+do
+        read line
+        NOME_JANELA="$(xdotool getwindowfocus getwindowname)"
+        if [ "$(xdotool getwindowfocus getwindowname)" -gt 80 ]; then
+         NOME_JANELA=$(echo $NOME_JANELA | cut -c -77 )
+			   FINAL="..."
+        else
+			   FINAL=""
+       fi        
+        
+		echo "$NOME_JANELA$FINAL                                                 $line" || exit 1	      
+      
+done

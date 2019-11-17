@@ -1,0 +1,9 @@
+[2019-09-01 15:05:53.912] [sharedprocess] [info] main {"machineId":"15ca4dbb3fc2ad93d80e7da0470b5570f213298efdb138ee8a17336fa593b476"}
+[2019-09-01 15:05:56.186] [sharedprocess] [info] Deleted from disk pkief.material-icon-theme /home/glaulher/.vscode/extensions/pkief.material-icon-theme-3.8.1
+[2019-09-01 15:06:17.295] [sharedprocess] [info] Installing extension: dracula-theme.theme-dracula
+[2019-09-01 15:06:24.150] [sharedprocess] [info] Downloaded extension: dracula-theme.theme-dracula /tmp/fb70fd00-77d9-4a9b-991e-c400bbfe0bd8
+[2019-09-01 15:06:24.223] [sharedprocess] [info] Extracted extension to /home/glaulher/.vscode/extensions/.dracula-theme.theme-dracula-2.18.0: dracula-theme.theme-dracula
+[2019-09-01 15:06:24.224] [sharedprocess] [info] Renamed to /home/glaulher/.vscode/extensions/dracula-theme.theme-dracula-2.18.0
+[2019-09-01 15:06:24.225] [sharedprocess] [info] Installation completed. dracula-theme.theme-dracula
+[2019-09-01 15:06:24.273] [sharedprocess] [info] Extensions installed successfully: dracula-theme.theme-dracula
+[2019-09-01 15:06:33.924] [sharedprocess] [info] Starting to clean up unused language packs.

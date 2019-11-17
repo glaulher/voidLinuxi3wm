@@ -1,0 +1,52 @@
+#! /bin/bash -x
+
+BAR_HEIGHT=335
+BORDER_SIZE=1
+WIDTH=${WIDTH:-200}
+HEIGHT=${HEIGHT:-200}
+DATEFMT=${DATEFMT:-"+%a %d.%m.%Y %H:%M:%S"}
+SHORTFMT=${SHORTFMT:-"+%H:%M:%S"}
+SMALLTFMT=${SMALLTFMT:-"+%H:%M"}
+BAR_POS=60
+
+
+
+case "$BLOCK_BUTTON" in
+  3)
+  OPTIND=1
+while getopts ":f:W:H:" opt; do
+    case $opt in
+        f) DATEFMT="$OPTARG" ;;
+        W) WIDTH="$OPTARG" ;;
+        H) HEIGHT="$OPTARG" ;;
+        \?)
+            echo "Invalid option: -$OPTARG" >&2
+            exit 1
+            ;;
+        :)
+            echo "Option -$OPTARG requires an argument." >&2
+            exit 1
+            ;;
+    esac
+done
+
+	# the position of the upper left corner of the popup
+	posX=$(($BLOCK_X - $WIDTH / 2 - BAR_POS))
+	posY=$(($BLOCK_Y - $HEIGHT - 4 - BAR_HEIGHT - BORDER_SIZE))
+
+	i3-msg -q "exec yad --calendar \
+        --width=$WIDTH --height=$HEIGHT \
+	    --undecorated --fixed \
+	    --close-on-unfocus --no-buttons \
+	    --posx=$posX --posy=$posY \
+	    --title=yad-calendar
+	    > /dev/null"
+esac
+case "$BLOCK_BUTTON" in
+  1|2)	
+echo "$LABEL$(date "$DATEFMT")"	
+esac
+
+#echo "$LABEL$(date "SHORTFMT")"
+#echo "$LABEL$(date "$SMALLTFMT")"
+echo $(date +"%H:%M")

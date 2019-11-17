@@ -1,0 +1,14 @@
+[2019-09-01 22:19:18.851] [sharedprocess] [info] main {"machineId":"15ca4dbb3fc2ad93d80e7da0470b5570f213298efdb138ee8a17336fa593b476"}
+[2019-09-01 22:19:58.871] [sharedprocess] [info] Starting to clean up unused language packs.
+[2019-09-01 22:32:40.470] [sharedprocess] [info] Installing extension: rocketseat.rocketseatreactnative
+[2019-09-01 22:32:41.350] [sharedprocess] [info] Installing extension: rocketseat.rocketseatreactjs
+[2019-09-01 22:32:41.717] [sharedprocess] [info] Downloaded extension: rocketseat.rocketseatreactnative /tmp/e8a7635e-c0df-4df1-9382-b2f00550d0cf
+[2019-09-01 22:32:42.016] [sharedprocess] [info] Extracted extension to /home/glaulher/.vscode/extensions/.rocketseat.rocketseatreactnative-2.2.0: rocketseat.rocketseatreactnative
+[2019-09-01 22:32:42.016] [sharedprocess] [info] Renamed to /home/glaulher/.vscode/extensions/rocketseat.rocketseatreactnative-2.2.0
+[2019-09-01 22:32:42.030] [sharedprocess] [info] Installation completed. rocketseat.rocketseatreactnative
+[2019-09-01 22:32:42.085] [sharedprocess] [info] Extensions installed successfully: rocketseat.rocketseatreactnative
+[2019-09-01 22:32:42.285] [sharedprocess] [info] Downloaded extension: rocketseat.rocketseatreactjs /tmp/ef28131e-66c1-4a25-8ec4-137f95b76804
+[2019-09-01 22:32:42.380] [sharedprocess] [info] Extracted extension to /home/glaulher/.vscode/extensions/.rocketseat.rocketseatreactjs-2.2.0: rocketseat.rocketseatreactjs
+[2019-09-01 22:32:42.380] [sharedprocess] [info] Renamed to /home/glaulher/.vscode/extensions/rocketseat.rocketseatreactjs-2.2.0
+[2019-09-01 22:32:42.382] [sharedprocess] [info] Installation completed. rocketseat.rocketseatreactjs
+[2019-09-01 22:32:42.430] [sharedprocess] [info] Extensions installed successfully: rocketseat.rocketseatreactjs

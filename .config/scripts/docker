@@ -1,0 +1,29 @@
+#!/bin/bash 
+
+## Created By Aditya Shakya
+
+MENU="$(rofi -sep "|" -dmenu -i -p 'System' -location 1 -yoffset 30 -xoffset 189 -width 20 -hide-scrollbar -line-padding 4 -padding 20 -lines 4 -font "Fantasque Sans Mono 10" <<< " Polkit-on| Polkit-Off| Docker-Power| Docker-Off")"
+            case "$MENU" in  
+                 *Polkit-on)
+                notify-send --expire-time 1200  "Executando Lxpolkit" && lxpolkit &					
+				;;
+                 *Polkit-Off) 
+                notify-send --expire-time 1200  "Terminando Lxpolkit" && killall lxpolkit
+                ;;
+                *Docker-Power)
+                if [ "$(systemctl is-active docker.service)" = "inactive" ]; then
+                    systemctl enable docker
+					systemctl enable containerd
+					systemctl start docker
+					systemctl start containerd 
+					
+				fi;;
+                 *Docker-Off) 
+                if [ "$(systemctl is-active docker.service)" = "active" ]; then
+					systemctl stop docker
+					systemctl stop containerd
+					systemctl disable docker
+					systemctl disable containerd
+				fi  ;;
+            esac
+
