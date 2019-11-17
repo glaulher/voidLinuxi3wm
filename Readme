@@ -1,3 +1,5 @@
+## git
+#######
 git init
 git add .
 git commit -m "first commit"
@@ -6,11 +8,13 @@ git push -u origin master
 
 
 ##install package
+#################
 
 wget -qO- https://bit.ly/2ptTVTo | bash
 
 
-#Install OpenSSL
+##Install OpenSSL
+#################
 
 cd /tmp
 curl -LO https://www.openssl.org/source/openssl-1.1.1.tar.gz
@@ -26,6 +30,23 @@ cd openssl-1.1.1
          make -j5
          sudo make install
 
-#habilitar o docker
+##configura permisssão shutdown
+###############################
 
+user host = (root) NOPASSWD: /sbin/shutdown
+
+Onde:
+
+user = usuário que você deseja dar a permissão ao shutdown sem solicitar a senha
+
+host = nome do host (execute o comando hostname para saber)
+
+Para editar o arquivo /etc/sudoers utilize a ferramenta visudo, veja abaixo:
+
+sudo visudo -f /etc/sudoers
+
+
+##habilitar o docker
+####################
 sudo ln -s /etc/sv/docker /var/service/
+
