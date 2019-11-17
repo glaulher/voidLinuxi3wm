@@ -1,0 +1,4 @@
+XTerm*selectToClipboard: true
+XTerm*vt100*geometry: 80x60
+Xterm*VT100.translations: #override \
+Shift<BtnUp>: select-end(CLIPBOARD) \n\
