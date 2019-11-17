@@ -7,7 +7,7 @@ git push -u origin master
 
 
 
-wget -qO- http://bit.ly/376RBma | bash
+wget -qO- https://bit.ly/2ptTVTo | bash
 
 sudo xbps-install xorg-minimal i3 i3lock i3status dmenu polybar nano geany terminator xinit dejavu-fonts-ttf firefox-i18n-pt-BR lxappearance xdotool yad jq xbacklight rofi cmus Adapta papirus-icon-theme breeze-cursors pulseaudio pavucontrol libnotify lxrandr lxappearance xarchiver mpv gmtp feh gvfs-mtp mtpfs atool highlight poppler-utils mupdf transmission neofetch git xsel rxvt-unicode conky compton curl font-firacode unzip zip libyaml-devel libffi-devel zlib-devel readline-devel gcc make docker docker-compose vscode nodejs yarn 
 
