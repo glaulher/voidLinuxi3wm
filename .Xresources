@@ -1,4 +1,4 @@
-XTerm*faceName: Bitstream Vera Serif Mono
+XTerm*faceName: xft:Monaco-10
 xterm*faceSize: 11
 xterm*vt100*geometry: 80x60
 xterm*saveLines: 16384
@@ -43,7 +43,7 @@ xterm*eightBitInput: false
 #define _cursorColor   #8faf9f
 
 
-### Seção das configurações específicas do emulador de terminal RXVT
+! ### Seção das configurações específicas do emulador de terminal RXVT
 URxvt*color0         : _color0
 URxvt*color1         : _color1
 URxvt*color2         : _color2
@@ -68,7 +68,7 @@ URxvt*background     : _background
 URxvt*cursorColor    : _cursorColor
 
 
-### Seção das configurações específicas do emulador de terminal XTERM
+! ### Seção das configurações específicas do emulador de terminal XTERM
 XTerm*color0         : _color0
 XTerm*color1         : _color1
 XTerm*color2         : _color2
@@ -95,10 +95,11 @@ XTerm*cursorColor    : _cursorColor
 
 !! URxvt Appearance
 !! URxvt Appearance
-URxvt.font: xft:Menlo:pixelsize=12,xft:Inconsolata\ for\ Powerline:pixelsize=12
+!Fonte Monaco
+URxvt.font: xft:Monaco-10
+URxvt.letterSpace: -1
 !URxvt.font: xft:Bitstream Vera Serif Mono:style=Bold:size=10
 URxvt*lineSpace:1
-URxvt.letterSpace:-1
 URxvt.geometry: 80x24
 URxvt.internalBorder: 24
 URxvt.cursorBlink: true
