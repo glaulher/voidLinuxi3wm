@@ -23,6 +23,7 @@ sudo ln -s /etc/sv/dbus /var/service
 sudo sv start dbus
 sudo sv start wicd
 
+sudo usermod -a -G pulse-access $USER
 ##docker run
 
 sudo ln -s /etc/sv/docker /var/service/
