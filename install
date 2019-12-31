@@ -8,7 +8,8 @@ sudo xbps-install -Sy lxappearance xdotool yad jq xbacklight rofi cmus Adapta pa
 sudo xbps-install -Sy libnotify lxrandr lxappearance xarchiver mpv gmtp feh gvfs-mtp mtpfs atool highlight poppler-utils mupdf 
 sudo xbps-install -Sy transmission neofetch git xsel rxvt-unicode conky compton pcmanfm curl dunst alsa-utils
 sudo xbps-install -Sy font-firacode unzip zip libyaml-devel libffi-devel zlib-devel readline-devel gcc make docker docker-compose vscode nodejs yarn 
-sudo xbps-install -Sy ranger xrdb cgmanager polkit ConsoleKit2 ntfs-3g xfce-polkit elogind udisks2 setxkbmap wicd
+sudo xbps-install -Sy ranger xrdb cgmanager polkit ConsoleKit2 ntfs-3g xfce-polkit elogind udisks2 setxkbmap  linux-firmware-intel  intel-ucode wicd 
+sudo xbps-reconfigure -f linux
 
 ##wifi wicd
  
