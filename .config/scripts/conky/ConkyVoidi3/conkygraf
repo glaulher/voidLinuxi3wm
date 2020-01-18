@@ -11,12 +11,12 @@ conky.config = {
 
 	own_window = true,
 	own_window_type = 'override',
-	own_window_transparent = false,
+	own_window_transparent = true,
 	own_window_hints = 'undecorated,below,sticky,skip_taskbar,skip_pager',
 --own_window_colour 262729
 	own_window_colour = '#000000',
-	own_window_argb_visual = true,
-	own_window_argb_value = 80,
+	--own_window_argb_visual = true,
+	--own_window_argb_value = 80,
 
 	double_buffer = true,
 --minimum_size 250 5
@@ -54,6 +54,27 @@ conky.config = {
 };
 
 conky.text = [[
+
+${GOTO 1200}${font Santana:size=14}RAM ${alignr 5}$memperc%${font}
+${GOTO 1200}${font Santana:size=12}${stippled_hr}${font}
+
+${GOTO 1200}${top_mem name 1} ${alignr 5}${top_mem mem 1}
+${GOTO 1200}${top_mem name 2} ${alignr 5}${top_mem mem 2}
+${GOTO 1200}${top_mem name 3} ${alignr 5}${top_mem mem 3}
+${GOTO 1200}${top_mem name 4} ${alignr 5}${top_mem mem 4}
+
+${GOTO 1200}${font Santana:size=14}CPU ${alignr 5}$cpu%${font}
+${GOTO 1200}${font Santana:size=12}${stippled_hr}${font}
+
+${GOTO 1200}Load: ${alignr 5}${loadavg 1}
+${GOTO 1200}Processes: ${alignr 1}${running_processes}/${processes}
+
+${GOTO 1200}${top name 1} ${alignr 5}${top cpu 1}
+${GOTO 1200}${top name 2} ${alignr 5}${top cpu 2}
+${GOTO 1200}${top name 3} ${alignr 5}${top cpu 3}
+${GOTO 1200}${top name 4} ${alignr 5}${top cpu 4}
+
 ${voffset -10}${offset 1370}
-${voffset -5}${GOTO 30}$color2${font ConkySymbols:size=12}j${font}$color${font :pixelsize=10}  RAM ${offset 5}${font :pixelsize=10}$color$mem / $memmax ${GOTO 180}$color6${membar 5,50 }	${voffset -2}${GOTO 265}$color2${font ConkySymbols:size=10}f${font} ${font :pixelsize=10}$color0  CPU1: ${cpu cpu1}%  $freq_g GHz ${GOTO 405}${cpugraph cpu1 8,60 000000 72CBDC}${color} ${voffset -2}${GOTO 485}$color2${font ConkySymbols:size=10}f${font}	${font :pixelsize=10}$color0  CPU2: ${cpu cpu2}%  $freq_g GHz ${GOTO 625}${cpugraph cpu2 8,60 000000 72CBDC}${color}	${voffset -2}${GOTO 700}$color2${font ConkySymbols:size=10}f${font}	${font :pixelsize=10}$color0  CPU3: ${cpu cpu3}%  $freq_g GHz ${GOTO 845}${cpugraph cpu3 8,60 000000 72CBDC}${color} ${voffset -2}${GOTO 920}$color2${font ConkySymbols:size=10}f${font}	${font :pixelsize=10}$color0  CPU4: ${cpu cpu4}%  $freq_g GHz ${GOTO 1060}${cpugraph cpu4 8,60 000000 72CBDC}${color}	${GOTO 1155}${voffset -2}$color6${font ConkySymbols:pixelsize=12}h${font} ${font :pixelsize=10}$color0 CPU:${GOTO 1200}${execi 4 sensors | grep "Core 0" | cut -d "+" -f2 | cut -d "(" -f1} 	${GOTO 1255}${voffset -2}$color6${font ConkySymbols:pixelsize=12}h${font} ${font :pixelsize=10}$color0 GPU:${GOTO 1300}${execi 4 sensors | grep "Core 1" | cut -d "+" -f2 | cut -d "(" -f1} 
+${image $HOME/.config/scripts/conky/ConkyVoidi3/fundo.png -p 0,320 -s 1366x30}${voffset 10}${GOTO 30}$color2${font ConkySymbols:size=12}j${font}$color${font :pixelsize=10}  RAM ${offset 5}${font :pixelsize=10}$color $mem / $memmax ${GOTO 180}${memgraph mem 8,60 000000 D45959}	${voffset -2}${GOTO 265}$color2${font ConkySymbols:size=10}f${font} ${font :pixelsize=10}$color0  CPU1: ${cpu cpu1}%  $freq_g GHz ${GOTO 405}${cpugraph cpu1 8,60 000000 72CBDC}${color} ${voffset -2}${GOTO 485}$color2${font ConkySymbols:size=10}f${font}	${font :pixelsize=10}$color0  CPU2: ${cpu cpu2}%  $freq_g GHz ${GOTO 625}${cpugraph cpu2 8,60 000000 72CBDC}${color}	${voffset -2}${GOTO 700}$color2${font ConkySymbols:size=10}f${font}	${font :pixelsize=10}$color0  CPU3: ${cpu cpu3}%  $freq_g GHz ${GOTO 845}${cpugraph cpu3 8,60 000000 72CBDC}${color} ${voffset -2}${GOTO 920}$color2${font ConkySymbols:size=10}f${font}	${font :pixelsize=10}$color0  CPU4: ${cpu cpu4}%  $freq_g GHz ${GOTO 1060}${cpugraph cpu4 8,60 000000 72CBDC}${color}	${GOTO 1155}${voffset -2}$color6${font ConkySymbols:pixelsize=12}h${font} ${font :pixelsize=10}$color0 CPU:${GOTO 1200}${execi 4 sensors | grep "Core 0" | cut -d "+" -f2 | cut -d "(" -f1} 	${GOTO 1255}${voffset -2}$color6${font ConkySymbols:pixelsize=12}h${font} ${font :pixelsize=10}$color0 GPU:${GOTO 1300}${execi 4 sensors | grep "Core 1" | cut -d "+" -f2 | cut -d "(" -f1}
+ 
 ]];
