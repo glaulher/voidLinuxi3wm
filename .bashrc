@@ -18,22 +18,19 @@ echo ' '
 [[ $- != *i* ]] && return
 
 alias ls='ls --color=auto'
-alias dir='dir --color=auto'
-alias vdir='vdir --color=auto'
-alias grep='grep --color=auto'
-alias fgrep='fgrep --color=auto'
-alias egrep='egrep --color=auto'
+
+# Setting Bash prompt. Capitalizes username and host if root user (my root user uses this same config file).
+if [ "$EUID" -ne 0 ]
+	then export PS1="\[$(tput bold)\]\[$(tput setaf 9)\][\[$(tput setaf 11)\]\u\[$(tput setaf 2)\]@\[$(tput setaf 12)\]\h \[$(tput setaf 13)\]\W\[$(tput setaf 9)\]]\[$(tput setaf 15)\]\\$ \[$(tput sgr0)\]"
+	else export PS1="\[$(tput bold)\]\[$(tput setaf 9)\][\[$(tput setaf 11)\]ROOT\[$(tput setaf 2)\]@\[$(tput setaf 12)\]$(hostname | awk '{print toupper($0)}') \[$(tput setaf 13)\]\W\[$(tput setaf 9)\]]\[$(tput setaf 15)\]\\$ \[$(tput sgr0)\]"
+fi
+
+#PS1='[\u@\h \W]\$ '
+
 #PS1='[\u@\h \W]\$ '
 #PS1="\e[0;35m[\u@\h \W]\$ \e[m "
-PS1="[\e[0;32m\W\e[m]\e[0;35m\$ \e[m "
+#PS1="[\e[0;32m\W\e[m]\e[0;35m\$ \e[m "
 
-# ----------------------------------------------------------------------------------------------
- 
-# E mais outro Bash Style.
-#set_prompt_style () {
-#  PS1="┌─[[\033[1;34m]u[\033[1;32m]@[\033[1;34m] h[e[0m]][[e[1;32m]w[e[0m]]n└─╼ "
-#}
-#set_prompt_style
  
 # ----------------------------------------------------------------------------------------------
 
