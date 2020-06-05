@@ -8,7 +8,7 @@ sudo xbps-install -Sy lxappearance xdotool yad jq xbacklight rofi cmus Adapta pa
 sudo xbps-install -Sy gcc-multilib openjdk libnotify lxrandr lxappearance xarchiver mpv gmtp feh gvfs-mtp mtpfs atool highlight poppler-utils mupdf 
 sudo xbps-install -Sy transmission neofetch git xsel rxvt-unicode conky compton Thunar thunar-volman thunar-archive-plugin thunar-media-tags-plugin curl dunst alsa-plugins-pulseaudio alsa-utils
 sudo xbps-install -Sy font-firacode unzip zip libyaml-devel libffi-devel zlib-devel readline-devel gcc make docker docker-compose vscode nodejs yarn 
-sudo xbps-install -Sy ranger xrdb cgmanager polkit ConsoleKit2 ntfs-3g xfce-polkit elogind udisks2 setxkbmap  linux-firmware-intel  intel-ucode wicd 
+sudo xbps-install -Sy ranger xrdb cgmanager polkit ConsoleKit2 ntfs-3g xfce-polkit elogind udisks2 setxkbmap  linux-firmware-intel  intel-ucode cbatticon-gtk3 wicd 
 sudo xbps-reconfigure -f linux
 
 xfconf-query --channel thunar --property /misc-exec-shell-scripts-by-default --create --type bool --set true
