@@ -23,7 +23,7 @@ sudo rm -fr /var/service/dhcpcd
 sudo rm -fr /var/service/wpa_supplicant
 
 sudo ln -s /etc/sv/wicd /var/service
-# sudo ln -s /etc/sv/dbus /var/service
+sudo ln -s /etc/sv/dbus /var/service
 
 # sudo sv start dbus
 sudo sv start wicd
