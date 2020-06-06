@@ -8,6 +8,12 @@ git remote add origin https://github.com/glaulher/voidLinuxi3wm.git
 git push -u origin master
 
 
+##sudoers
+#################
+## Same thing without a password
+# %wheel ALL=(ALL) NOPASSWD: ALL
+glaulher glaulher = (root) NOPASSWD: /sbin/shutdown
+
 ##install package
 #################
 
