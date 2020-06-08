@@ -12,23 +12,23 @@ xterm*eightBitInput: false
 #define _color0        #000d18
 #define _color8        #000d18
 !RED Tag
-#define _color1        #e89393
-#define _color9        #e89393
+#define _color1        #FF5555
+#define _color9        #FF5555
 !GRN SpecialKey
-#define _color2        #9ece9e
-#define _color10       #9ece9e
+#define _color2        #9ECE9E
+#define _color10       #9ECE9E
 !YEL Keyword
 #define _color3        #f0dfaf
 #define _color11       #f0dfaf
 !BLU Number
-#define _color4        #8cd0d3
-#define _color12       #8cd0d3
+#define _color4        #6272a4
+#define _color12       #bd93f9
 !MAG Precondit
-#define _color5        #c0bed1
-#define _color13       #c0bed1
+#define _color5        #ff79c6
+#define _color13       #ff79c6
 !CYN Float
-#define _color6        #dfaf8f
-#define _color14       #dfaf8f
+#define _color6        #8be9fd
+#define _color14       #8be9fd
 !WHT Search
 #define _color7        #efefef
 #define _color15       #efefef
@@ -37,10 +37,10 @@ xterm*eightBitInput: false
 #define _colorUL       #ccdc90
 #define _colorIT       #80d4aa
 !TXT Normal, Normal, Cursor
-#define _foreground    #dcdccc
-#define _background    #2f343f
+#define _foreground    #f8f8f2
+#define _background    #29353b
 ! #1f1f1f
-#define _cursorColor   #8faf9f
+#define _cursorColor   #8055a9
 
 
 !## Seção das configurações específicas do emulador de terminal RXVT
@@ -95,13 +95,13 @@ XTerm*cursorColor    : _cursorColor
 
 !! URxvt Appearance
 !! URxvt Appearance
-urxvt -fn 'xft:Font Awesome'
+!urxvt -fn 'xft:Font Awesome'
 !URxvt.font: xft:Menlo:pixelsize=12,xft:Inconsolata\ for\ Powerline:pixelsize=12
 !URxvt.font: xft:Bitstream Vera Serif Mono:style=Bold:size=10
-URxvt.font: xft:monaco:size=10,xft:FontAwesome:size=10
+URxvt.font: xft:monaco:size=10,xft:FontAwesome5Free:pixelsize=10
 URxvt*lineSpace:1
 !URxvt.letterSpace:-1
-URxvt.letterSpace:1
+URxvt.letterSpace:2
 URxvt.geometry: 80x24
 URxvt.internalBorder: 24
 URxvt.cursorBlink: true
