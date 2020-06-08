@@ -1,6 +1,0 @@
-2020/06/07-19:11:16.664 2555 Reusing MANIFEST /home/glaulher/.config/google-chrome/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
-2020/06/07-19:11:16.665 2555 Recovering log #3
-2020/06/07-19:11:16.871 2555 Reusing old log /home/glaulher/.config/google-chrome/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/000003.log 
-2020/06/07-19:11:24.252 28fc Level-0 table #5: started
-2020/06/07-19:11:24.325 28fc Level-0 table #5: 918352 bytes OK
-2020/06/07-19:11:24.367 28fc Delete type=0 #3

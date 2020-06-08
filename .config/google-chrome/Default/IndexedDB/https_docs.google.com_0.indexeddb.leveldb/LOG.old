@@ -1,8 +1,0 @@
-2020/06/07-21:10:30.721 5bb2 Reusing MANIFEST /home/glaulher/.config/google-chrome/Default/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/MANIFEST-000001
-2020/06/07-21:10:30.721 5bb2 Recovering log #68
-2020/06/07-21:10:30.721 5bb2 Reusing old log /home/glaulher/.config/google-chrome/Default/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/000068.log 
-2020/06/07-21:10:48.110 13f Level-0 table #72: started
-2020/06/07-21:10:48.110 13f Level-0 table #72: 0 bytes OK
-2020/06/07-21:10:48.195 13f Delete type=0 #68
-2020/06/07-21:10:48.195 13f Manual compaction at level-0 from (begin) .. (end); will stop at (end)
-2020/06/07-21:10:48.195 13f Manual compaction at level-1 from (begin) .. (end); will stop at (end)

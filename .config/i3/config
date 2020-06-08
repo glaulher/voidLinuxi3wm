@@ -364,8 +364,8 @@ bar {
     urgent_workspace   #FF5555 #FF5555 #F8F8F2
     binding_mode       #FF5555 #FF5555 #F8F8F2
     }
-      	status_command py3status
-#       status_command i3status
+#      	status_command py3status
+        status_command i3status
 #		status_command ~/.config/i3status/keylock
 #		status_command i3status -c ~/.config/i3status/config_color 
 }
