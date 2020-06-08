@@ -1,0 +1,95 @@
+["INFO" - 10:15:41] Extension Name: esbenp.prettier-vscode.
+["INFO" - 10:15:41] Extension Version: 4.5.0.
+["INFO" - 10:15:42] Loaded module 'prettier@1.19.1' from '/home/glaulher/Documentos/javascript/project/gobarber/node_modules/prettier/index.js'
+["INFO" - 10:15:42] Enabling prettier for languages
+[
+  "css",
+  "graphql",
+  "html",
+  "javascript",
+  "javascriptreact",
+  "json",
+  "json5",
+  "jsonc",
+  "less",
+  "markdown",
+  "mdx",
+  "mongo",
+  "postcss",
+  "scss",
+  "typescript",
+  "typescriptreact",
+  "vue",
+  "yaml"
+]
+["INFO" - 10:15:42] Enabling prettier for range supported languages
+[
+  "graphql",
+  "javascript",
+  "javascriptreact",
+  "json",
+  "typescript",
+  "typescriptreact"
+]
+["INFO" - 10:16:48] Loaded module 'prettier@1.19.1' from '/home/glaulher/Documentos/javascript/project/gobarber/node_modules/prettier/index.js'
+["INFO" - 10:16:48] Enabling prettier for languages
+[
+  "css",
+  "graphql",
+  "html",
+  "javascript",
+  "javascriptreact",
+  "json",
+  "json5",
+  "jsonc",
+  "less",
+  "markdown",
+  "mdx",
+  "mongo",
+  "postcss",
+  "scss",
+  "typescript",
+  "typescriptreact",
+  "vue",
+  "yaml"
+]
+["INFO" - 10:16:48] Enabling prettier for range supported languages
+[
+  "graphql",
+  "javascript",
+  "javascriptreact",
+  "json",
+  "typescript",
+  "typescriptreact"
+]
+["INFO" - 10:16:48] Loaded module 'prettier@1.19.1' from '/home/glaulher/Documentos/javascript/project/gobarber/node_modules/prettier/index.js'
+["INFO" - 10:16:48] Enabling prettier for languages
+[
+  "css",
+  "graphql",
+  "html",
+  "javascript",
+  "javascriptreact",
+  "json",
+  "json5",
+  "jsonc",
+  "less",
+  "markdown",
+  "mdx",
+  "mongo",
+  "postcss",
+  "scss",
+  "typescript",
+  "typescriptreact",
+  "vue",
+  "yaml"
+]
+["INFO" - 10:16:48] Enabling prettier for range supported languages
+[
+  "graphql",
+  "javascript",
+  "javascriptreact",
+  "json",
+  "typescript",
+  "typescriptreact"
+]

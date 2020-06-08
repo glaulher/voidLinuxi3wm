@@ -11,5 +11,12 @@ xbacklight -set 35
 #Sem beeps chatos
 xset -b
 
+sleep 1 && $HOME/.config/i3status/i3status_scripts/openweatherrun &
+#sleep 2 && $HOME/.config/i3status/i3status_scripts/calendar &
+#sleep 4 && pnmixer &
+sleep 6 && cbatticon &
+sleep 10 && $HOME/.config/i3status/i3status_scripts/power_menu &
+
 #Iniciar o i3
-exec ck-launch-session dbus-launch --sh-syntax --exit-with-session i3
+#exec ck-launch-session dbus-launch --sh-syntax --exit-with-session i3
+exec dbus-launch --sh-syntax --exit-with-session i3

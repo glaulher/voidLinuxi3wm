@@ -1,0 +1,6 @@
+2020/06/07-19:17:53.759 55f9 Reusing MANIFEST /home/glaulher/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
+2020/06/07-19:17:53.759 55f9 Recovering log #7
+2020/06/07-19:17:53.760 55f9 Reusing old log /home/glaulher/.config/google-chrome/Default/Sync Data/LevelDB/000007.log 
+2020/06/07-19:47:53.893 3259 Level-0 table #11: started
+2020/06/07-19:47:53.945 3259 Level-0 table #11: 122111 bytes OK
+2020/06/07-19:47:53.982 3259 Delete type=0 #7

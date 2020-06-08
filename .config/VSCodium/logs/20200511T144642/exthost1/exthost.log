@@ -1,0 +1,68 @@
+[2020-05-11 14:46:56.952] [exthost] [info] extension host started
+[2020-05-11 14:46:56.952] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-05-11 14:46:56.952] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/codium/resources/app/extensions/debug-auto-launch/dist/extension
+[2020-05-11 14:46:56.952] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2020-05-11 14:46:56.952] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/codium/resources/app/extensions/emmet/dist/extension
+[2020-05-11 14:46:56.952] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.git","_lower":"vscode.git"},"activationEvent":"*"}
+[2020-05-11 14:46:56.952] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/codium/resources/app/extensions/git/dist/main
+[2020-05-11 14:46:56.952] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":true,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"*"}
+[2020-05-11 14:46:56.952] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/codium/resources/app/extensions/github-authentication/dist/extension.js
+[2020-05-11 14:46:56.952] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-05-11 14:46:56.952] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/codium/resources/app/extensions/merge-conflict/dist/extension
+[2020-05-11 14:46:56.952] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-05-11 14:46:56.952] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/codium/resources/app/extensions/search-result/dist/extension.js
+[2020-05-11 14:46:56.952] [exthost] [info] ExtensionService#_doActivateExtension vscode.vscode-account {"startup":true,"extensionId":{"value":"vscode.vscode-account","_lower":"vscode.vscode-account"},"activationEvent":"*"}
+[2020-05-11 14:46:56.952] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/codium/resources/app/extensions/vscode-account/dist/extension.js
+[2020-05-11 14:46:56.952] [exthost] [info] ExtensionService#_doActivateExtension CoenraadS.bracket-pair-colorizer {"startup":true,"extensionId":{"value":"CoenraadS.bracket-pair-colorizer","_lower":"coenraads.bracket-pair-colorizer"},"activationEvent":"*"}
+[2020-05-11 14:46:56.952] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/glaulher/.vscode-oss/extensions/coenraads.bracket-pair-colorizer-1.0.61/out/src/extension
+[2020-05-11 14:46:56.952] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":true,"extensionId":{"value":"dbaeumer.vscode-eslint","_lower":"dbaeumer.vscode-eslint"},"activationEvent":"*"}
+[2020-05-11 14:46:56.952] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/glaulher/.vscode-oss/extensions/dbaeumer.vscode-eslint-2.1.5/client/out/extension
+[2020-05-11 14:46:56.952] [exthost] [info] ExtensionService#_doActivateExtension EditorConfig.EditorConfig {"startup":true,"extensionId":{"value":"EditorConfig.EditorConfig","_lower":"editorconfig.editorconfig"},"activationEvent":"*"}
+[2020-05-11 14:46:56.952] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/glaulher/.vscode-oss/extensions/editorconfig.editorconfig-0.14.5/out/editorConfigMain.js
+[2020-05-11 14:46:56.952] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":true,"extensionId":{"value":"esbenp.prettier-vscode","_lower":"esbenp.prettier-vscode"},"activationEvent":"*"}
+[2020-05-11 14:46:56.952] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/glaulher/.vscode-oss/extensions/esbenp.prettier-vscode-4.6.0/dist/extension
+[2020-05-11 14:46:56.952] [exthost] [info] ExtensionService#_doActivateExtension naumovs.color-highlight {"startup":true,"extensionId":{"value":"naumovs.color-highlight","_lower":"naumovs.color-highlight"},"activationEvent":"*"}
+[2020-05-11 14:46:56.952] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/glaulher/.vscode-oss/extensions/naumovs.color-highlight-2.3.0/dist/extension
+[2020-05-11 14:46:56.952] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme {"startup":true,"extensionId":{"value":"PKief.material-icon-theme","_lower":"pkief.material-icon-theme"},"activationEvent":"*"}
+[2020-05-11 14:46:56.952] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/glaulher/.vscode-oss/extensions/pkief.material-icon-theme-4.1.0/dist/extension
+[2020-05-11 14:46:56.952] [exthost] [info] eager extensions activated
+[2020-05-11 14:47:04.253] [exthost] [info] extension host started
+[2020-05-11 14:47:04.391] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:json"}
+[2020-05-11 14:47:04.391] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/codium/resources/app/extensions/configuration-editing/dist/extension
+[2020-05-11 14:47:04.540] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"extensionId":{"value":"vscode.extension-editing","_lower":"vscode.extension-editing"},"activationEvent":"onLanguage:json"}
+[2020-05-11 14:47:04.540] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/codium/resources/app/extensions/extension-editing/dist/extension
+[2020-05-11 14:47:04.664] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:json"}
+[2020-05-11 14:47:04.665] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/codium/resources/app/extensions/json-language-features/client/dist/jsonMain
+[2020-05-11 14:47:04.911] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug-nightly {"startup":false,"extensionId":{"value":"ms-vscode.js-debug-nightly","_lower":"ms-vscode.js-debug-nightly"},"activationEvent":"onLanguage:json"}
+[2020-05-11 14:47:04.912] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/codium/resources/app/extensions/ms-vscode.js-debug-nightly/src/extension.js
+[2020-05-11 14:47:05.244] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":false,"extensionId":{"value":"vscode.npm","_lower":"vscode.npm"},"activationEvent":"onLanguage:json"}
+[2020-05-11 14:47:05.244] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/codium/resources/app/extensions/npm/dist/main
+[2020-05-11 14:47:05.450] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-05-11 14:47:05.450] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/codium/resources/app/extensions/debug-auto-launch/dist/extension
+[2020-05-11 14:47:05.456] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2020-05-11 14:47:05.456] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/codium/resources/app/extensions/emmet/dist/extension
+[2020-05-11 14:47:05.469] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.git","_lower":"vscode.git"},"activationEvent":"*"}
+[2020-05-11 14:47:05.470] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/codium/resources/app/extensions/git/dist/main
+[2020-05-11 14:47:05.493] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":true,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"*"}
+[2020-05-11 14:47:05.493] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/codium/resources/app/extensions/github-authentication/dist/extension.js
+[2020-05-11 14:47:05.499] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-05-11 14:47:05.499] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/codium/resources/app/extensions/merge-conflict/dist/extension
+[2020-05-11 14:47:05.502] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-05-11 14:47:05.503] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/codium/resources/app/extensions/search-result/dist/extension.js
+[2020-05-11 14:47:05.504] [exthost] [info] ExtensionService#_doActivateExtension vscode.vscode-account {"startup":true,"extensionId":{"value":"vscode.vscode-account","_lower":"vscode.vscode-account"},"activationEvent":"*"}
+[2020-05-11 14:47:05.504] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/codium/resources/app/extensions/vscode-account/dist/extension.js
+[2020-05-11 14:47:05.510] [exthost] [info] ExtensionService#_doActivateExtension CoenraadS.bracket-pair-colorizer {"startup":true,"extensionId":{"value":"CoenraadS.bracket-pair-colorizer","_lower":"coenraads.bracket-pair-colorizer"},"activationEvent":"*"}
+[2020-05-11 14:47:05.510] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/glaulher/.vscode-oss/extensions/coenraads.bracket-pair-colorizer-1.0.61/out/src/extension
+[2020-05-11 14:47:05.529] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":true,"extensionId":{"value":"dbaeumer.vscode-eslint","_lower":"dbaeumer.vscode-eslint"},"activationEvent":"*"}
+[2020-05-11 14:47:05.529] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/glaulher/.vscode-oss/extensions/dbaeumer.vscode-eslint-2.1.5/client/out/extension
+[2020-05-11 14:47:05.537] [exthost] [info] ExtensionService#_doActivateExtension EditorConfig.EditorConfig {"startup":true,"extensionId":{"value":"EditorConfig.EditorConfig","_lower":"editorconfig.editorconfig"},"activationEvent":"*"}
+[2020-05-11 14:47:05.538] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/glaulher/.vscode-oss/extensions/editorconfig.editorconfig-0.14.5/out/editorConfigMain.js
+[2020-05-11 14:47:05.566] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":true,"extensionId":{"value":"esbenp.prettier-vscode","_lower":"esbenp.prettier-vscode"},"activationEvent":"*"}
+[2020-05-11 14:47:05.566] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/glaulher/.vscode-oss/extensions/esbenp.prettier-vscode-4.6.0/dist/extension
+[2020-05-11 14:47:05.715] [exthost] [info] ExtensionService#_doActivateExtension naumovs.color-highlight {"startup":true,"extensionId":{"value":"naumovs.color-highlight","_lower":"naumovs.color-highlight"},"activationEvent":"*"}
+[2020-05-11 14:47:05.715] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/glaulher/.vscode-oss/extensions/naumovs.color-highlight-2.3.0/dist/extension
+[2020-05-11 14:47:05.725] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme {"startup":true,"extensionId":{"value":"PKief.material-icon-theme","_lower":"pkief.material-icon-theme"},"activationEvent":"*"}
+[2020-05-11 14:47:05.725] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/glaulher/.vscode-oss/extensions/pkief.material-icon-theme-4.1.0/dist/extension
+[2020-05-11 14:47:05.735] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:javascript"}
+[2020-05-11 14:47:05.735] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/codium/resources/app/extensions/typescript-language-features/dist/extension
+[2020-05-11 14:47:06.250] [exthost] [info] eager extensions activated

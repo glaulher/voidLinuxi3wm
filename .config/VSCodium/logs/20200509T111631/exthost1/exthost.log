@@ -1,0 +1,222 @@
+[2020-05-09 11:16:43.387] [exthost] [info] extension host started
+[2020-05-09 11:16:43.420] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:javascript"}
+[2020-05-09 11:16:43.420] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/codium/resources/app/extensions/typescript-language-features/dist/extension
+[2020-05-09 11:16:43.528] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-05-09 11:16:43.528] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/codium/resources/app/extensions/debug-auto-launch/dist/extension
+[2020-05-09 11:16:43.556] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2020-05-09 11:16:43.556] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/codium/resources/app/extensions/emmet/dist/extension
+[2020-05-09 11:16:43.623] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.git","_lower":"vscode.git"},"activationEvent":"*"}
+[2020-05-09 11:16:43.624] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/codium/resources/app/extensions/git/dist/main
+[2020-05-09 11:16:43.764] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":true,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"*"}
+[2020-05-09 11:16:43.764] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/codium/resources/app/extensions/github-authentication/dist/extension.js
+[2020-05-09 11:16:43.895] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-05-09 11:16:43.896] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/codium/resources/app/extensions/merge-conflict/dist/extension
+[2020-05-09 11:16:43.971] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-05-09 11:16:43.972] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/codium/resources/app/extensions/search-result/dist/extension.js
+[2020-05-09 11:16:43.992] [exthost] [info] ExtensionService#_doActivateExtension vscode.vscode-account {"startup":true,"extensionId":{"value":"vscode.vscode-account","_lower":"vscode.vscode-account"},"activationEvent":"*"}
+[2020-05-09 11:16:43.993] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/codium/resources/app/extensions/vscode-account/dist/extension.js
+[2020-05-09 11:16:44.069] [exthost] [info] ExtensionService#_doActivateExtension CoenraadS.bracket-pair-colorizer {"startup":true,"extensionId":{"value":"CoenraadS.bracket-pair-colorizer","_lower":"coenraads.bracket-pair-colorizer"},"activationEvent":"*"}
+[2020-05-09 11:16:44.069] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/glaulher/.vscode-oss/extensions/coenraads.bracket-pair-colorizer-1.0.61/out/src/extension
+[2020-05-09 11:16:44.860] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":true,"extensionId":{"value":"dbaeumer.vscode-eslint","_lower":"dbaeumer.vscode-eslint"},"activationEvent":"*"}
+[2020-05-09 11:16:44.860] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/glaulher/.vscode-oss/extensions/dbaeumer.vscode-eslint-2.1.5/client/out/extension
+[2020-05-09 11:16:44.936] [exthost] [info] ExtensionService#_doActivateExtension EditorConfig.EditorConfig {"startup":true,"extensionId":{"value":"EditorConfig.EditorConfig","_lower":"editorconfig.editorconfig"},"activationEvent":"*"}
+[2020-05-09 11:16:44.936] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/glaulher/.vscode-oss/extensions/editorconfig.editorconfig-0.14.5/out/editorConfigMain.js
+[2020-05-09 11:16:45.503] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":true,"extensionId":{"value":"esbenp.prettier-vscode","_lower":"esbenp.prettier-vscode"},"activationEvent":"*"}
+[2020-05-09 11:16:45.503] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/glaulher/.vscode-oss/extensions/esbenp.prettier-vscode-4.5.0/dist/extension
+[2020-05-09 11:16:45.772] [exthost] [info] ExtensionService#_doActivateExtension naumovs.color-highlight {"startup":true,"extensionId":{"value":"naumovs.color-highlight","_lower":"naumovs.color-highlight"},"activationEvent":"*"}
+[2020-05-09 11:16:45.772] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/glaulher/.vscode-oss/extensions/naumovs.color-highlight-2.3.0/dist/extension
+[2020-05-09 11:16:45.828] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme {"startup":true,"extensionId":{"value":"PKief.material-icon-theme","_lower":"pkief.material-icon-theme"},"activationEvent":"*"}
+[2020-05-09 11:16:45.828] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/glaulher/.vscode-oss/extensions/pkief.material-icon-theme-4.1.0/dist/extension
+[2020-05-09 11:16:45.879] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":true,"extensionId":{"value":"vscode.npm","_lower":"vscode.npm"},"activationEvent":"workspaceContains:package.json"}
+[2020-05-09 11:16:45.880] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/codium/resources/app/extensions/npm/dist/main
+[2020-05-09 11:16:47.332] [exthost] [info] eager extensions activated
+[2020-05-09 11:17:55.333] [exthost] [info] [vscode.typescript-language-features] UNSAVE result from 'resolveCompletionItem', extension SHOULD NOT change any of: additionalTextEdits, or command
+[2020-05-09 11:17:58.374] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-05-09 11:17:58.376] [exthost] [error] Error: busy
+	at a._provideSemanticTokens (/usr/share/codium/resources/app/extensions/typescript-language-features/dist/extension.js:1:183890)
+[2020-05-09 11:18:07.593] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"extensionId":{"value":"vscode.extension-editing","_lower":"vscode.extension-editing"},"activationEvent":"onLanguage:typescript"}
+[2020-05-09 11:18:07.593] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/codium/resources/app/extensions/extension-editing/dist/extension
+[2020-05-09 11:24:30.901] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-05-09 11:24:30.901] [exthost] [error] Error: busy
+	at a._provideSemanticTokens (/usr/share/codium/resources/app/extensions/typescript-language-features/dist/extension.js:1:183890)
+[2020-05-09 11:24:32.712] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-05-09 11:24:32.712] [exthost] [error] Error: busy
+	at a._provideSemanticTokens (/usr/share/codium/resources/app/extensions/typescript-language-features/dist/extension.js:1:183890)
+[2020-05-09 11:24:38.845] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-05-09 11:24:38.845] [exthost] [error] Error: busy
+	at a._provideSemanticTokens (/usr/share/codium/resources/app/extensions/typescript-language-features/dist/extension.js:1:183890)
+[2020-05-09 11:24:41.477] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-05-09 11:24:41.478] [exthost] [error] Error: busy
+	at a._provideSemanticTokens (/usr/share/codium/resources/app/extensions/typescript-language-features/dist/extension.js:1:183890)
+[2020-05-09 11:25:33.225] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-05-09 11:25:33.225] [exthost] [error] Error: busy
+	at a._provideSemanticTokens (/usr/share/codium/resources/app/extensions/typescript-language-features/dist/extension.js:1:183890)
+[2020-05-09 11:29:33.597] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-05-09 11:29:33.597] [exthost] [error] Error: busy
+	at a._provideSemanticTokens (/usr/share/codium/resources/app/extensions/typescript-language-features/dist/extension.js:1:183890)
+[2020-05-09 11:30:04.056] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-05-09 11:30:04.056] [exthost] [error] Error: busy
+	at a._provideSemanticTokens (/usr/share/codium/resources/app/extensions/typescript-language-features/dist/extension.js:1:183890)
+[2020-05-09 11:30:08.858] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-05-09 11:30:08.858] [exthost] [error] Error: busy
+	at a._provideSemanticTokens (/usr/share/codium/resources/app/extensions/typescript-language-features/dist/extension.js:1:183890)
+[2020-05-09 11:31:55.372] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-05-09 11:31:55.372] [exthost] [error] Error: busy
+	at a._provideSemanticTokens (/usr/share/codium/resources/app/extensions/typescript-language-features/dist/extension.js:1:183890)
+[2020-05-09 11:43:43.224] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-05-09 11:43:43.224] [exthost] [error] Error: busy
+	at a._provideSemanticTokens (/usr/share/codium/resources/app/extensions/typescript-language-features/dist/extension.js:1:183890)
+[2020-05-09 11:44:18.347] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-05-09 11:44:18.347] [exthost] [error] Error: busy
+	at a._provideSemanticTokens (/usr/share/codium/resources/app/extensions/typescript-language-features/dist/extension.js:1:183890)
+[2020-05-09 11:44:22.885] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-05-09 11:44:22.885] [exthost] [error] Error: busy
+	at a._provideSemanticTokens (/usr/share/codium/resources/app/extensions/typescript-language-features/dist/extension.js:1:183890)
+[2020-05-09 11:44:34.769] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-05-09 11:44:34.769] [exthost] [error] Error: busy
+	at a._provideSemanticTokens (/usr/share/codium/resources/app/extensions/typescript-language-features/dist/extension.js:1:183890)
+[2020-05-09 11:50:12.682] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-05-09 11:50:12.682] [exthost] [error] Error: busy
+	at a._provideSemanticTokens (/usr/share/codium/resources/app/extensions/typescript-language-features/dist/extension.js:1:183890)
+[2020-05-09 11:50:31.647] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-05-09 11:50:31.648] [exthost] [error] Error: busy
+	at a._provideSemanticTokens (/usr/share/codium/resources/app/extensions/typescript-language-features/dist/extension.js:1:183890)
+[2020-05-09 11:51:20.107] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-05-09 11:51:20.107] [exthost] [error] Error: busy
+	at a._provideSemanticTokens (/usr/share/codium/resources/app/extensions/typescript-language-features/dist/extension.js:1:183890)
+[2020-05-09 11:51:27.655] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-05-09 11:51:27.655] [exthost] [error] Error: busy
+	at a._provideSemanticTokens (/usr/share/codium/resources/app/extensions/typescript-language-features/dist/extension.js:1:183890)
+[2020-05-09 11:51:45.387] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-05-09 11:51:45.388] [exthost] [error] Error: busy
+	at a._provideSemanticTokens (/usr/share/codium/resources/app/extensions/typescript-language-features/dist/extension.js:1:183890)
+[2020-05-09 11:52:38.613] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-05-09 11:52:38.613] [exthost] [error] Error: busy
+	at a._provideSemanticTokens (/usr/share/codium/resources/app/extensions/typescript-language-features/dist/extension.js:1:183890)
+[2020-05-09 11:52:46.343] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-05-09 11:52:46.344] [exthost] [error] Error: busy
+	at a._provideSemanticTokens (/usr/share/codium/resources/app/extensions/typescript-language-features/dist/extension.js:1:183890)
+[2020-05-09 11:54:21.132] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-05-09 11:54:21.132] [exthost] [error] Error: busy
+	at a._provideSemanticTokens (/usr/share/codium/resources/app/extensions/typescript-language-features/dist/extension.js:1:183890)
+[2020-05-09 11:54:36.501] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-05-09 11:54:36.501] [exthost] [error] Error: busy
+	at a._provideSemanticTokens (/usr/share/codium/resources/app/extensions/typescript-language-features/dist/extension.js:1:183890)
+[2020-05-09 11:54:42.053] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-05-09 11:54:42.053] [exthost] [error] Error: busy
+	at a._provideSemanticTokens (/usr/share/codium/resources/app/extensions/typescript-language-features/dist/extension.js:1:183890)
+[2020-05-09 11:54:43.284] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-05-09 11:54:43.285] [exthost] [error] Error: busy
+	at a._provideSemanticTokens (/usr/share/codium/resources/app/extensions/typescript-language-features/dist/extension.js:1:183890)
+[2020-05-09 11:54:51.797] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-05-09 11:54:51.797] [exthost] [error] Error: busy
+	at a._provideSemanticTokens (/usr/share/codium/resources/app/extensions/typescript-language-features/dist/extension.js:1:183890)
+[2020-05-09 11:55:22.444] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-05-09 11:55:22.444] [exthost] [error] Error: busy
+	at a._provideSemanticTokens (/usr/share/codium/resources/app/extensions/typescript-language-features/dist/extension.js:1:183890)
+[2020-05-09 11:55:32.823] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-05-09 11:55:32.823] [exthost] [error] Error: busy
+	at a._provideSemanticTokens (/usr/share/codium/resources/app/extensions/typescript-language-features/dist/extension.js:1:183890)
+[2020-05-09 11:55:42.437] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-05-09 11:55:42.437] [exthost] [error] Error: busy
+	at a._provideSemanticTokens (/usr/share/codium/resources/app/extensions/typescript-language-features/dist/extension.js:1:183890)
+[2020-05-09 11:55:57.518] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-05-09 11:55:57.518] [exthost] [error] Error: busy
+	at a._provideSemanticTokens (/usr/share/codium/resources/app/extensions/typescript-language-features/dist/extension.js:1:183890)
+[2020-05-09 11:56:13.880] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-05-09 11:56:13.880] [exthost] [error] Error: busy
+	at a._provideSemanticTokens (/usr/share/codium/resources/app/extensions/typescript-language-features/dist/extension.js:1:183890)
+[2020-05-09 12:03:28.563] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-05-09 12:03:28.563] [exthost] [error] Error: busy
+	at a._provideSemanticTokens (/usr/share/codium/resources/app/extensions/typescript-language-features/dist/extension.js:1:183890)
+[2020-05-09 12:03:37.201] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-05-09 12:03:37.202] [exthost] [error] Error: busy
+	at a._provideSemanticTokens (/usr/share/codium/resources/app/extensions/typescript-language-features/dist/extension.js:1:183890)
+[2020-05-09 12:04:05.709] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-05-09 12:04:05.709] [exthost] [error] Error: busy
+	at a._provideSemanticTokens (/usr/share/codium/resources/app/extensions/typescript-language-features/dist/extension.js:1:183890)
+[2020-05-09 12:04:07.329] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-05-09 12:04:07.330] [exthost] [error] Error: busy
+	at a._provideSemanticTokens (/usr/share/codium/resources/app/extensions/typescript-language-features/dist/extension.js:1:183890)
+[2020-05-09 12:04:09.351] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-05-09 12:04:09.352] [exthost] [error] Error: busy
+	at a._provideSemanticTokens (/usr/share/codium/resources/app/extensions/typescript-language-features/dist/extension.js:1:183890)
+[2020-05-09 12:04:20.583] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-05-09 12:04:20.583] [exthost] [error] Error: busy
+	at a._provideSemanticTokens (/usr/share/codium/resources/app/extensions/typescript-language-features/dist/extension.js:1:183890)
+[2020-05-09 12:05:15.313] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-05-09 12:05:15.313] [exthost] [error] Error: busy
+	at a._provideSemanticTokens (/usr/share/codium/resources/app/extensions/typescript-language-features/dist/extension.js:1:183890)
+[2020-05-09 12:06:17.385] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-05-09 12:06:17.385] [exthost] [error] Error: busy
+	at a._provideSemanticTokens (/usr/share/codium/resources/app/extensions/typescript-language-features/dist/extension.js:1:183890)
+[2020-05-09 12:06:31.285] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-05-09 12:06:31.285] [exthost] [error] Error: busy
+	at a._provideSemanticTokens (/usr/share/codium/resources/app/extensions/typescript-language-features/dist/extension.js:1:183890)
+[2020-05-09 12:07:01.015] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-05-09 12:07:01.015] [exthost] [error] Error: busy
+	at a._provideSemanticTokens (/usr/share/codium/resources/app/extensions/typescript-language-features/dist/extension.js:1:183890)
+[2020-05-09 12:07:02.979] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-05-09 12:07:02.980] [exthost] [error] Error: busy
+	at a._provideSemanticTokens (/usr/share/codium/resources/app/extensions/typescript-language-features/dist/extension.js:1:183890)
+[2020-05-09 12:42:44.927] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-05-09 12:42:44.927] [exthost] [error] Error: busy
+	at a._provideSemanticTokens (/usr/share/codium/resources/app/extensions/typescript-language-features/dist/extension.js:1:183890)
+[2020-05-09 12:42:51.832] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-05-09 12:42:51.832] [exthost] [error] Error: busy
+	at a._provideSemanticTokens (/usr/share/codium/resources/app/extensions/typescript-language-features/dist/extension.js:1:183890)
+[2020-05-09 12:42:59.042] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-05-09 12:42:59.042] [exthost] [error] Error: busy
+	at a._provideSemanticTokens (/usr/share/codium/resources/app/extensions/typescript-language-features/dist/extension.js:1:183890)
+[2020-05-09 12:43:56.776] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-05-09 12:43:56.776] [exthost] [error] Error: busy
+	at a._provideSemanticTokens (/usr/share/codium/resources/app/extensions/typescript-language-features/dist/extension.js:1:183890)
+[2020-05-09 12:44:20.972] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-05-09 12:44:20.972] [exthost] [error] Error: busy
+	at a._provideSemanticTokens (/usr/share/codium/resources/app/extensions/typescript-language-features/dist/extension.js:1:183890)
+[2020-05-09 12:44:47.389] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-05-09 12:44:47.389] [exthost] [error] Error: busy
+	at a._provideSemanticTokens (/usr/share/codium/resources/app/extensions/typescript-language-features/dist/extension.js:1:183890)
+[2020-05-09 12:44:51.029] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-05-09 12:44:51.029] [exthost] [error] Error: busy
+	at a._provideSemanticTokens (/usr/share/codium/resources/app/extensions/typescript-language-features/dist/extension.js:1:183890)
+[2020-05-09 12:45:20.786] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-05-09 12:45:20.786] [exthost] [error] Error: busy
+	at a._provideSemanticTokens (/usr/share/codium/resources/app/extensions/typescript-language-features/dist/extension.js:1:183890)
+[2020-05-09 12:45:27.910] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-05-09 12:45:27.911] [exthost] [error] Error: busy
+	at a._provideSemanticTokens (/usr/share/codium/resources/app/extensions/typescript-language-features/dist/extension.js:1:183890)
+[2020-05-09 12:45:28.740] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-05-09 12:45:28.740] [exthost] [error] Error: busy
+	at a._provideSemanticTokens (/usr/share/codium/resources/app/extensions/typescript-language-features/dist/extension.js:1:183890)
+[2020-05-09 12:45:31.879] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-05-09 12:45:31.879] [exthost] [error] Error: busy
+	at a._provideSemanticTokens (/usr/share/codium/resources/app/extensions/typescript-language-features/dist/extension.js:1:183890)
+[2020-05-09 12:45:32.801] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-05-09 12:45:32.801] [exthost] [error] Error: busy
+	at a._provideSemanticTokens (/usr/share/codium/resources/app/extensions/typescript-language-features/dist/extension.js:1:183890)
+[2020-05-09 12:48:12.733] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-05-09 12:48:12.733] [exthost] [error] Error: busy
+	at a._provideSemanticTokens (/usr/share/codium/resources/app/extensions/typescript-language-features/dist/extension.js:1:183890)
+[2020-05-09 12:48:19.996] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-05-09 12:48:19.996] [exthost] [error] Error: busy
+	at a._provideSemanticTokens (/usr/share/codium/resources/app/extensions/typescript-language-features/dist/extension.js:1:183890)
+[2020-05-09 14:28:19.022] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-05-09 14:28:19.022] [exthost] [error] Error: busy
+	at a._provideSemanticTokens (/usr/share/codium/resources/app/extensions/typescript-language-features/dist/extension.js:1:183890)
+[2020-05-09 14:39:54.139] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-05-09 14:39:54.139] [exthost] [error] Error: busy
+	at a._provideSemanticTokens (/usr/share/codium/resources/app/extensions/typescript-language-features/dist/extension.js:1:183890)
+[2020-05-09 14:40:37.043] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-05-09 14:40:37.043] [exthost] [error] Error: busy
+	at a._provideSemanticTokens (/usr/share/codium/resources/app/extensions/typescript-language-features/dist/extension.js:1:183890)
+[2020-05-09 15:00:34.195] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-05-09 15:00:34.195] [exthost] [error] Error: busy
+	at a._provideSemanticTokens (/usr/share/codium/resources/app/extensions/typescript-language-features/dist/extension.js:1:183890)
+[2020-05-09 15:00:37.097] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-05-09 15:00:37.098] [exthost] [error] Error: busy
+	at a._provideSemanticTokens (/usr/share/codium/resources/app/extensions/typescript-language-features/dist/extension.js:1:183890)
+[2020-05-09 15:02:42.809] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:json"}
+[2020-05-09 15:02:42.810] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/codium/resources/app/extensions/configuration-editing/dist/extension
+[2020-05-09 15:02:42.887] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:json"}
+[2020-05-09 15:02:42.887] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/codium/resources/app/extensions/json-language-features/client/dist/jsonMain

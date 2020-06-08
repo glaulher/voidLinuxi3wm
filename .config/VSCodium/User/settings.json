@@ -1,0 +1,46 @@
+{
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.colorTheme": "Dracula",
+  
+  "editor.fontFamily": "Fira Code",
+  "editor.fontLigatures": true,
+  "editor.fontSize": 18,
+  "editor.lineHeight": 24,
+  "editor.rulers": [
+    80,
+    120
+  ],
+  "editor.tabSize": 2,
+  "editor.formatOnSave": false,
+  "editor.renderLineHighlight": "gutter",
+  
+  "terminal.integrated.fontSize": 14,  
+  "javascript.updateImportsOnFileMove.enabled": "never",
+  "breadcrumbs.enabled": true,
+  "editor.parameterHints.enabled": false,
+  
+ // "eslint.autoFixOnSave": true,
+  "eslint.validate":[
+    {
+      "language":"javascript",
+      "autoFix": true
+    },
+    {
+      "language":"javascriptreact",
+      "autoFix": true
+    },
+    {
+      "language":"typescript",
+      "autoFix": true
+    },
+    {
+      "language":"typescriptreact",
+      "autoFix": true
+    }
+  ],
+  "terminal.integrated.rendererType": "dom",
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true,
+  },
+ 
+}

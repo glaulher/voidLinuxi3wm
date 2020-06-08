@@ -1,0 +1,468 @@
+Looking for git in: git
+Using git 2.20.1 from git
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+Open repository: /home/glaulher/Documentos/javascript/project/gobarber
+> git status -z -u
+> git show :src/routes.js
+> git ls-files --stage -- /home/glaulher/Documentos/javascript/project/gobarber/src/routes.js
+> git cat-file -s 169285541cd3e2621820d69bfb5f176c4d33f1af
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/app/controllers/FileControllers.j
+> git ls-files --stage -- /home/glaulher/Documentos/javascript/project/gobarber/src/app/controllers/FileControllers.j
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/app/controllers/FileController.js
+> git ls-files --stage -- /home/glaulher/Documentos/javascript/project/gobarber/src/app/controllers/FileController.js
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/routes.js
+> git ls-files --stage -- /home/glaulher/Documentos/javascript/project/gobarber/src/routes.js
+> git cat-file -s 169285541cd3e2621820d69bfb5f176c4d33f1af
+> git show :src/app/controllers/FileController.js
+> git ls-files --stage -- /home/glaulher/Documentos/javascript/project/gobarber/src/app/controllers/FileController.js
+> git show :src/routes.js
+> git ls-files --stage -- /home/glaulher/Documentos/javascript/project/gobarber/src/routes.js
+> git cat-file -s 169285541cd3e2621820d69bfb5f176c4d33f1af
+> git show :src/app/controllers/FileController.js
+> git ls-files --stage -- /home/glaulher/Documentos/javascript/project/gobarber/src/app/controllers/FileController.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/app/controllers/SessionController.js
+> git ls-files --stage -- /home/glaulher/Documentos/javascript/project/gobarber/src/app/controllers/SessionController.js
+> git cat-file -s 294fdbc889d3819e6cc925d4a6a503308f4deeb3
+> git show :src/app/controllers/FileController.js
+> git ls-files --stage -- /home/glaulher/Documentos/javascript/project/gobarber/src/app/controllers/FileController.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show :src/database/migrations/20200509144011-create-files.js
+> git ls-files --stage -- /home/glaulher/Documentos/javascript/project/gobarber/src/database/migrations/20200509144011-create-files.js
+> git show :src/database/migrations/20200402215944-create-users.js
+> git ls-files --stage -- /home/glaulher/Documentos/javascript/project/gobarber/src/database/migrations/20200402215944-create-users.js
+> git cat-file -s 43513da968b4239684b7c03113ecdf274d3e1f3e
+> git show :src/database/migrations/20200509144011-create-files.js
+> git ls-files --stage -- /home/glaulher/Documentos/javascript/project/gobarber/src/database/migrations/20200509144011-create-files.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show :src/app/models/User.js
+> git ls-files --stage -- /home/glaulher/Documentos/javascript/project/gobarber/src/app/models/User.js
+> git cat-file -s c344cc8625711b23fd0a5291b9887fdd920c16b3
+> git show :src/app/models/file.js
+> git ls-files --stage -- /home/glaulher/Documentos/javascript/project/gobarber/src/app/models/file.js
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/app/models/User.js
+> git ls-files --stage -- /home/glaulher/Documentos/javascript/project/gobarber/src/app/models/User.js
+> git cat-file -s c344cc8625711b23fd0a5291b9887fdd920c16b3
+> git show :src/app/models/file.js
+> git ls-files --stage -- /home/glaulher/Documentos/javascript/project/gobarber/src/app/models/file.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/app/models/File.js
+> git ls-files --stage -- /home/glaulher/Documentos/javascript/project/gobarber/src/app/models/File.js
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/database/index.js
+> git ls-files --stage -- /home/glaulher/Documentos/javascript/project/gobarber/src/database/index.js
+> git cat-file -s 5ed14bfef240d7959f7ce6f61d3020fa4b0e0eb8
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/app/controllers/FileController.js
+> git ls-files --stage -- /home/glaulher/Documentos/javascript/project/gobarber/src/app/controllers/FileController.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show :src/database/migrations/20200509144011-create-files.js
+> git ls-files --stage -- /home/glaulher/Documentos/javascript/project/gobarber/src/database/migrations/20200509144011-create-files.js
+> git show :src/database/migrations/20200509150031-add-avatar-field-to-users.js
+> git ls-files --stage -- /home/glaulher/Documentos/javascript/project/gobarber/src/database/migrations/20200509150031-add-avatar-field-to-users.js
+> git show :src/database/migrations/20200509144011-create-files.js
+> git ls-files --stage -- /home/glaulher/Documentos/javascript/project/gobarber/src/database/migrations/20200509144011-create-files.js
+> git show :src/database/migrations/20200509150031-add-avatar-field-to-users.js
+> git ls-files --stage -- /home/glaulher/Documentos/javascript/project/gobarber/src/database/migrations/20200509150031-add-avatar-field-to-users.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/app/controllers/UserController.js
+> git ls-files --stage -- /home/glaulher/Documentos/javascript/project/gobarber/src/app/controllers/UserController.js
+> git cat-file -s 0b5b0b289da8554d07d32b41e23b51297b9942ba
+> git show :src/routes.js
+> git ls-files --stage -- /home/glaulher/Documentos/javascript/project/gobarber/src/routes.js
+> git cat-file -s 169285541cd3e2621820d69bfb5f176c4d33f1af
+> git show :src/app/controllers/UserController.js
+> git ls-files --stage -- /home/glaulher/Documentos/javascript/project/gobarber/src/app/controllers/UserController.js
+> git cat-file -s 0b5b0b289da8554d07d32b41e23b51297b9942ba
+> git show :src/app/models/User.js
+> git ls-files --stage -- /home/glaulher/Documentos/javascript/project/gobarber/src/app/models/User.js
+> git cat-file -s c344cc8625711b23fd0a5291b9887fdd920c16b3
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/database/index.js
+> git ls-files --stage -- /home/glaulher/Documentos/javascript/project/gobarber/src/database/index.js
+> git cat-file -s 5ed14bfef240d7959f7ce6f61d3020fa4b0e0eb8
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/app/models/User.js
+> git ls-files --stage -- /home/glaulher/Documentos/javascript/project/gobarber/src/app/models/User.js
+> git cat-file -s c344cc8625711b23fd0a5291b9887fdd920c16b3
+> git show :src/app/controllers/SessionController.js
+> git ls-files --stage -- /home/glaulher/Documentos/javascript/project/gobarber/src/app/controllers/SessionController.js
+> git cat-file -s 294fdbc889d3819e6cc925d4a6a503308f4deeb3
+> git show :src/app/controllers/UserController.js
+> git ls-files --stage -- /home/glaulher/Documentos/javascript/project/gobarber/src/app/controllers/UserController.js
+> git cat-file -s 0b5b0b289da8554d07d32b41e23b51297b9942ba
+> git show :src/app/controllers/SessionController.js
+> git ls-files --stage -- /home/glaulher/Documentos/javascript/project/gobarber/src/app/controllers/SessionController.js
+> git cat-file -s 294fdbc889d3819e6cc925d4a6a503308f4deeb3
+> git show :src/app/controllers/UserController.js
+> git ls-files --stage -- /home/glaulher/Documentos/javascript/project/gobarber/src/app/controllers/UserController.js
+> git cat-file -s 0b5b0b289da8554d07d32b41e23b51297b9942ba
+> git show :src/app/controllers/SessionController.js
+> git ls-files --stage -- /home/glaulher/Documentos/javascript/project/gobarber/src/app/controllers/SessionController.js
+> git cat-file -s 294fdbc889d3819e6cc925d4a6a503308f4deeb3
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/app/controllers/UserController.js
+> git ls-files --stage -- /home/glaulher/Documentos/javascript/project/gobarber/src/app/controllers/UserController.js
+> git cat-file -s 0b5b0b289da8554d07d32b41e23b51297b9942ba
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/app/models/User.js
+> git ls-files --stage -- /home/glaulher/Documentos/javascript/project/gobarber/src/app/models/User.js
+> git cat-file -s c344cc8625711b23fd0a5291b9887fdd920c16b3
+> git show :src/app/controllers/UserController.js
+> git ls-files --stage -- /home/glaulher/Documentos/javascript/project/gobarber/src/app/controllers/UserController.js
+> git cat-file -s 0b5b0b289da8554d07d32b41e23b51297b9942ba
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :package.json
+> git ls-files --stage -- /home/glaulher/Documentos/javascript/project/gobarber/package.json
+> git cat-file -s 01fb55f7d6213290d6aa41e7a3cf9e934f502940

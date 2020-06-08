@@ -1,0 +1,26 @@
+[2020-05-02 10:13:25.663] [sharedprocess] [info] main {"machineId":"ccb38b7ed19040990e7e7999fabaabdce0caf05f4a1b05d9caed351037ac72cc","windowId":2}
+[2020-05-02 10:13:31.096] [sharedprocess] [info] Installing extension: dbaeumer.vscode-eslint
+[2020-05-02 10:13:31.097] [sharedprocess] [info] Installing extension: dracula-theme.theme-dracula
+[2020-05-02 10:13:31.097] [sharedprocess] [info] Installing extension: esbenp.prettier-vscode
+[2020-05-02 10:13:31.097] [sharedprocess] [info] Installing extension: pkief.material-icon-theme
+[2020-05-02 10:13:32.972] [sharedprocess] [info] Downloaded extension: dbaeumer.vscode-eslint /tmp/8ce728db-51a8-455b-9886-86143056c46e
+[2020-05-02 10:13:33.059] [sharedprocess] [info] Extracted extension to /home/glaulher/.vscode-oss/extensions/.dbaeumer.vscode-eslint-2.1.5: dbaeumer.vscode-eslint
+[2020-05-02 10:13:33.059] [sharedprocess] [info] Renamed to /home/glaulher/.vscode-oss/extensions/dbaeumer.vscode-eslint-2.1.5
+[2020-05-02 10:13:33.060] [sharedprocess] [info] Installation completed. dbaeumer.vscode-eslint
+[2020-05-02 10:13:33.214] [sharedprocess] [info] Downloaded extension: dracula-theme.theme-dracula /tmp/b8fdd0db-72c0-4aa2-9c30-c032b1defa65
+[2020-05-02 10:13:33.239] [sharedprocess] [info] Extensions installed successfully: dbaeumer.vscode-eslint
+[2020-05-02 10:13:33.316] [sharedprocess] [info] Extracted extension to /home/glaulher/.vscode-oss/extensions/.dracula-theme.theme-dracula-2.22.0: dracula-theme.theme-dracula
+[2020-05-02 10:13:33.317] [sharedprocess] [info] Renamed to /home/glaulher/.vscode-oss/extensions/dracula-theme.theme-dracula-2.22.0
+[2020-05-02 10:13:33.318] [sharedprocess] [info] Installation completed. dracula-theme.theme-dracula
+[2020-05-02 10:13:33.433] [sharedprocess] [info] Downloaded extension: pkief.material-icon-theme /tmp/e28ccdfc-e2e1-400a-83c1-4091e6d1161d
+[2020-05-02 10:13:33.454] [sharedprocess] [info] Extensions installed successfully: dracula-theme.theme-dracula
+[2020-05-02 10:13:33.946] [sharedprocess] [info] Downloaded extension: esbenp.prettier-vscode /tmp/952ca99a-e7c0-4bb7-9efa-8a691320de20
+[2020-05-02 10:13:34.504] [sharedprocess] [info] Extracted extension to /home/glaulher/.vscode-oss/extensions/.esbenp.prettier-vscode-4.5.0: esbenp.prettier-vscode
+[2020-05-02 10:13:34.504] [sharedprocess] [info] Renamed to /home/glaulher/.vscode-oss/extensions/esbenp.prettier-vscode-4.5.0
+[2020-05-02 10:13:34.506] [sharedprocess] [info] Installation completed. esbenp.prettier-vscode
+[2020-05-02 10:13:34.689] [sharedprocess] [info] Extensions installed successfully: esbenp.prettier-vscode
+[2020-05-02 10:13:34.861] [sharedprocess] [info] Extracted extension to /home/glaulher/.vscode-oss/extensions/.pkief.material-icon-theme-4.1.0: pkief.material-icon-theme
+[2020-05-02 10:13:34.861] [sharedprocess] [info] Renamed to /home/glaulher/.vscode-oss/extensions/pkief.material-icon-theme-4.1.0
+[2020-05-02 10:13:34.862] [sharedprocess] [info] Installation completed. pkief.material-icon-theme
+[2020-05-02 10:13:34.948] [sharedprocess] [info] Extensions installed successfully: pkief.material-icon-theme
+[2020-05-02 10:14:05.704] [sharedprocess] [info] Starting to clean up unused language packs.

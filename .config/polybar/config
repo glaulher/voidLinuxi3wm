@@ -53,6 +53,8 @@ pastel-blue = #bdecb6
 pastel-red = #dedede
 pink-red = #e60053
 pastel-green = #b8f3af
+dracula = #6272A4
+dracula-light = #869ce3
 
 ;==========================================================
 
@@ -100,7 +102,7 @@ scroll-down = i3wm-wsprev
 
 modules-left =i3 xkeyboard
 modules-center = xwindow 
-modules-right = openweathermap-forecast cpu temperature memory xbacklight volume battery wlan eth date powermenu
+modules-right = openweathermap-forecast cpu temperature memory xbacklight volume battery wlan eth date powermenu 
  
 ;== Modules ========================================================
 
@@ -139,13 +141,13 @@ ws-icon-default =
 
 label-mode-padding = 2
 label-mode-foreground = 
-label-mode-background = ${color.acolor}
+label-mode-background = ${color.dracula-light}
 
 ; focused = Active workspace on focused monitor
 label-focused =%icon%
 label-focused-background = 
-label-focused-foreground = ${color.acolor}
-label-focused-underline = ${color.acolor}
+label-focused-foreground = ${color.dracula-light}
+label-focused-underline = ${color.dracula-light}
 label-focused-padding = 2
 
 ; unfocused = Inactive workspace on any monitor
@@ -255,7 +257,7 @@ blacklist-0 = num lock
 
 label-indicator-padding = 2
 label-indicator-margin = 1
-label-indicator-background = ${color.acolor}
+label-indicator-background = ${color.dracula}
 label-layout-foreground = ${color.bg}
 
 ;==========================================================
@@ -524,7 +526,7 @@ ramp-signal-foreground =
 
 [module/eth]
 type = internal/network
-interface = enp1s0
+interface = enp3s0
 interval = 3.0
 
 format-connected-underline = 
@@ -548,9 +550,10 @@ date-alt =  "%d-%m-%Y"
 type = custom/text
 content = 
 content-padding = 2
-content-background = ${color.acolor}
+content-background = ${color.dracula}
 content-foreground = ${color.fg}
 click-left = ~/.config/scripts/shutdown_menu
 click-right = ~/.config/scripts/shutdown_menu
 
 ;== EOF ========================================================
+

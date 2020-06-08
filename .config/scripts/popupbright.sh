@@ -19,11 +19,11 @@ do
    echo "$BARV"
 done 
 
-MENSAGEM="$(echo -e "                 $NIVEL \n Brilho")"
+MENSAGEM="$(echo -e "$NIVEL \n Brilho")"
 
 killall xfce4-notifyd
 
-notify-send --expire-time 50 -i xfpm-brightness-lcd  "$MENSAGEM $BAR$BARV"
+notify-send --expire-time 50 --icon=$HOME/.config/i3status/i3status_scripts/bulb.png "$MENSAGEM $BAR$BARV"
 sleep 2
 
 

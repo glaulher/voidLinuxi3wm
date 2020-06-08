@@ -1,0 +1,18 @@
+[2020-05-09 11:16:37.585] [sharedprocess] [info] main {"machineId":"ccb38b7ed19040990e7e7999fabaabdce0caf05f4a1b05d9caed351037ac72cc","windowId":2}
+[2020-05-09 11:16:39.039] [sharedprocess] [info] Deleted from disk dracula-theme.theme-dracula /home/glaulher/.vscode-oss/extensions/dracula-theme.theme-dracula-2.21.0
+[2020-05-09 11:16:39.115] [sharedprocess] [info] Deleted from disk esbenp.prettier-vscode /home/glaulher/.vscode-oss/extensions/esbenp.prettier-vscode-4.2.0
+[2020-05-09 11:16:39.116] [sharedprocess] [info] Deleted from disk dbaeumer.vscode-eslint /home/glaulher/.vscode-oss/extensions/dbaeumer.vscode-eslint-2.1.2
+[2020-05-09 11:16:39.116] [sharedprocess] [info] Deleted from disk pkief.material-icon-theme /home/glaulher/.vscode-oss/extensions/pkief.material-icon-theme-4.0.1
+[2020-05-09 11:16:44.906] [sharedprocess] [info] Installing extension: rocketseat.rocketseatreactjs
+[2020-05-09 11:16:44.909] [sharedprocess] [info] Installing extension: rocketseat.rocketseatreactnative
+[2020-05-09 11:16:45.984] [sharedprocess] [info] Downloaded extension: rocketseat.rocketseatreactjs /tmp/b11f4a34-9485-45d1-a3c3-709e2724dd64
+[2020-05-09 11:16:46.061] [sharedprocess] [info] Extracted extension to /home/glaulher/.vscode-oss/extensions/.rocketseat.rocketseatreactjs-3.0.2: rocketseat.rocketseatreactjs
+[2020-05-09 11:16:46.061] [sharedprocess] [info] Renamed to /home/glaulher/.vscode-oss/extensions/rocketseat.rocketseatreactjs-3.0.2
+[2020-05-09 11:16:46.063] [sharedprocess] [info] Installation completed. rocketseat.rocketseatreactjs
+[2020-05-09 11:16:46.181] [sharedprocess] [info] Extensions installed successfully: rocketseat.rocketseatreactjs
+[2020-05-09 11:16:46.282] [sharedprocess] [info] Downloaded extension: rocketseat.rocketseatreactnative /tmp/21219653-873e-472d-8f79-3a11fd0cec21
+[2020-05-09 11:16:46.513] [sharedprocess] [info] Extracted extension to /home/glaulher/.vscode-oss/extensions/.rocketseat.rocketseatreactnative-3.0.1: rocketseat.rocketseatreactnative
+[2020-05-09 11:16:46.514] [sharedprocess] [info] Renamed to /home/glaulher/.vscode-oss/extensions/rocketseat.rocketseatreactnative-3.0.1
+[2020-05-09 11:16:46.515] [sharedprocess] [info] Installation completed. rocketseat.rocketseatreactnative
+[2020-05-09 11:16:46.662] [sharedprocess] [info] Extensions installed successfully: rocketseat.rocketseatreactnative
+[2020-05-09 11:17:17.624] [sharedprocess] [info] Starting to clean up unused language packs.

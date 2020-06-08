@@ -1,0 +1,553 @@
+;==========================================================
+;
+;
+;   ██████╗  ██████╗ ██╗  ██╗   ██╗██████╗  █████╗ ██████╗
+;   ██╔══██╗██╔═══██╗██║  ╚██╗ ██╔╝██╔══██╗██╔══██╗██╔══██╗
+;   ██████╔╝██║   ██║██║   ╚████╔╝ ██████╔╝███████║██████╔╝
+;   ██╔═══╝ ██║   ██║██║    ╚██╔╝  ██╔══██╗██╔══██║██╔══██╗
+;   ██║     ╚██████╔╝███████╗██║   ██████╔╝██║  ██║██║  ██║
+;   ╚═╝      ╚═════╝ ╚══════╝╚═╝   ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝
+;
+;
+;   Modified By Aditya Shakya.
+;
+;==========================================================
+
+[color]
+
+trans = #00000000
+white = #FFFFFF
+black = #000000
+
+;bg = #BF2f343f
+bg = #2f343f
+fg = #FFFFFF
+fg-alt = #A9ABB0
+
+acolor = #00acc1
+curgent = #e53935
+coccupied = #039be5
+
+## Material Colors
+
+red = #e53935
+pink = #d81b60
+purple = #8e24aa
+deep-purple = #5e35b1
+indigo = #3949ab
+blue = #1e88e5
+light-blue = #039be5
+cyan = #00acc1
+teal = #00897b
+green = #43a047
+light-green = #7cb342
+lime = #c0ca33
+yellow = #fdd835
+amber = #ffb300
+orange = #fb8c00
+deep-orange = #f4511e
+brown = #6d4c41
+grey = #757575
+blue-gray = #546e7a
+pastel-blue = #bdecb6
+pastel-red = #dedede
+pink-red = #e60053
+
+;==========================================================
+
+[bar/mybar]
+;monitor = LVDS1
+width = 100%
+height = 20
+offset-x = 5%
+offset-y = 2%
+bottom = false
+fixed-center = false
+line-size = 2
+;radius = 0.0
+
+background = ${color.bg}
+foreground = ${color.fg}
+
+border-size = 3
+border-color = ${color.bg}
+
+module-margin-left = 1
+module-margin-right = 1
+
+;==========================================================
+
+font-0 = "DejaVuSans:size=10;2"
+font-1 = "Material Icons:size=12;4"
+font-2 = "Weather Icons:size=10;4"
+font-3 = "DejaVuSans:size=8;2"
+font-4 = "Material Icons:size=10;4"
+font-5 = "DejaVuSans:size=7;2"
+
+;==========================================================
+
+cursor-click = pointer
+cursor-scroll = ns-resize
+
+;tray-position = right
+;tray-padding = 0
+;tray-maxsize = 16
+
+scroll-up = i3wm-wsnext
+scroll-down = i3wm-wsprev
+
+;== Module Location ========================================================
+
+modules-left = rofi i3 term files browser settings isrunning-docker xkeyboard
+modules-center = xwindow openweathermap-forecast cpu temperature memory 
+modules-right = xbacklight volume battery wlan eth date powermenu
+ 
+;== Modules ========================================================
+
+[module/rofi]
+type = custom/text
+content = 
+;alt-icon = 
+content-padding = 2
+content-background = ${color.acolor}
+content-foreground = ${color.fg}
+click-left = rofi -lines 12 -padding 18 -width 60 -location 0 -show drun -sidebar-mode -columns 3 -font 'Noto Sans 10' -show-icons -drun-icon-theme Papirus
+click-middle = 
+click-right = rofi -modi run,drun -show drun -location 1 -yoffset 30 -xoffset 5 -line-padding 4 -columns 1 -width 25 -lines 10 -padding 25 -hide-scrollbar -show-icons -drun-icon-theme "Papirus" -font "Noto Sans 10"
+
+[module/i3]
+type = internal/i3
+format = <label-state> <label-mode>
+index-sort = true
+wrapping-scroll = false
+; Only show workspaces on the same output as the bar
+;pin-workspaces = true
+
+;➊ ➋ ➌ ➍ ➎ ➏ ➐ ➑ ➒ ➓  
+;    
+ws-icon-0 = 1;➊
+ws-icon-1 = 2;➋
+ws-icon-2 = 3;➌
+ws-icon-3 = 4;➍
+ws-icon-4 = 5;➎
+ws-icon-5 = 6;➏
+ws-icon-6 = 7;➐
+ws-icon-7 = 8;➑
+ws-icon-8 = 9;➒
+ws-icon-9 = 10;➓
+ws-icon-default = 
+
+label-mode-padding = 2
+label-mode-foreground = 
+label-mode-background = ${color.acolor}
+
+; focused = Active workspace on focused monitor
+label-focused =%icon%
+label-focused-background = 
+label-focused-foreground = ${color.acolor}
+label-focused-underline = ${color.acolor}
+label-focused-padding = 2
+
+; unfocused = Inactive workspace on any monitor
+label-unfocused =%icon%
+label-unfocused-padding = 2
+
+; visible = Active workspace on unfocused monitor
+label-visible =%icon%
+label-visible-background = ${self.label-focused-background}
+label-visible-underline = ${self.label-focused-underline}
+label-visible-padding = 2
+
+; urgent = Workspace with urgency hint set
+label-urgent =%icon%
+label-urgent-background = ${self.label-focused-background}
+label-urgent-foreground = ${color.curgent}
+label-urgent-underline = ${color.curgent}
+label-urgent-padding = 2
+
+
+;[module/workspaces]
+;type = internal/xworkspaces
+;pin-workspaces = false
+;enable-click = true
+;enable-scroll = true
+;format-padding = 0
+;➊ ➋ ➌ ➍ ➎ ➏ ➐ ➑ ➒ ➓  
+;    
+;icon-0 = 1;➊
+;icon-1 = 2;➋
+;icon-2 = 3;➌
+;icon-3 = 4;➍
+;icon-4 = 5;➎
+;icon-5 = 6;➏
+;icon-6 = 7;➐
+;icon-7 = 8;➑
+;icon-8 = 9;➒
+;icon-9 = 10;➓
+;icon-default = 
+
+;format = <label-state> 
+;label-active = %icon%
+;label-occupied = %icon%
+;label-urgent = %icon%
+;label-empty = %icon%
+
+;label-occupied-padding = 2
+;label-empty-padding = 2
+;label-urgent-padding = 2
+;label-active-padding = 2
+
+;label-active-foreground = ${color.acolor}
+;label-urgent-foreground = ${color.curgent}
+;label-empty-foreground = ${color.fg}
+;label-occupied-foreground = ${color.coccupied}
+
+;label-active-underline = ${color.acolor}
+;label-urgent-underline = ${color.curgent}
+;label-occupied-underline = ${color.coccupied}
+
+[module/term]
+type = custom/text
+content = 
+content-foreground = ${color.fg-alt}
+click-left = notify-send --expire-time 1200 "Abrindo Terminator" && terminator &
+click-middle = notify-send --expire-time 1200  "Abrindo urxvt" && urxvt &
+click-right = notify-send --expire-time 1200  "Abrindo xterm" && xterm &
+
+[module/files]
+type = custom/text
+content = 
+content-padding = 1
+content-foreground = ${color.fg-alt}
+click-left = notify-send --expire-time 1200  "Abrindo Gerenciador de arquivos" && pcmanfm &
+click-middle = notify-send --expire-time 1200  "Executando Lxpolkit" && lxpolkit &
+click-right = notify-send --expire-time 1200  "Abrindo Gerenciador de arquivos ranger" && terminator -e ranger &
+;click-right = terminator -e mc &
+
+[module/browser]
+type = custom/text
+content = 
+content-padding = 1
+content-foreground = ${color.fg-alt}
+click-left = notify-send --expire-time 1200  "Abrindo Google-chrome" && chromium &
+click-right = firefox &
+
+[module/settings]
+type = custom/text
+content = 
+content-padding = 1
+content-foreground = ${color.fg-alt}
+click-left = notify-send --expire-time 1200  "Abrindo Configurações" && lxappearance &
+click-right = notify-send --expire-time 1200  " Configurações Docker" && ~/.config/scripts/docker &
+
+[module/isrunning-docker]
+type = custom/script
+exec = ~/.config/scripts/isrunning-docker.sh
+click-right =~/.config/scripts/dockerup.sh 
+click-left =~/.config/scripts/dockerdown.sh 
+label-foreground = ${color.fg-alt}
+;label =  
+interval = 10
+
+[module/xkeyboard]
+type = internal/xkeyboard
+blacklist-0 = num lock
+
+label-indicator-padding = 2
+label-indicator-margin = 1
+label-indicator-background = ${color.acolor}
+label-layout-foreground = ${color.bg}
+
+;==========================================================
+
+[module/xwindow]
+type = internal/xwindow
+label = %title:...%
+label-maxlen = 20
+;label-empty = i3
+
+[module/openweathermap-forecast]
+type = custom/script
+exec = ~/.config/scripts/openweathermap-forecast.sh
+label-foreground = #A4C2F4
+interval = 600
+label-font = 6
+
+[module/cpu]
+type = internal/cpu
+interval = 3
+format-prefix = ""
+format-foreground = ${color.teal}
+format-underline = 
+format-prefix-font = 5
+
+label = %percentage:2%%
+label-font = 4
+
+[module/temperature]
+type = internal/temperature
+thermal-zone = 0
+warn-temperature = 60
+
+format = <ramp> <label>
+format-underline = 
+format-warn = <ramp> <label-warn>
+format-warn-underline = 
+format-foreground = ${color.pastel-red}
+
+label = %temperature-c%
+label-warn = %temperature-c%
+label-warn-foreground = ${color.curgent}
+label-font = 4
+format-font = 5
+
+ramp-0 = ""
+ramp-1 = ""
+ramp-2 = ""
+ramp-foreground = 
+
+[module/memory]
+type = internal/memory
+format-prefix = ""
+; Seconds to sleep between updates
+; Default: 1
+interval = 3
+; Available tags:
+;   <label> (default)
+;   <bar-used>
+;   <bar-free>
+;   <ramp-used>
+;   <ramp-free>
+;   <bar-swap-used>
+;   <bar-swap-free>
+;   <ramp-swap-used>
+;   <ramp-swap-free>
+format = <label> 
+
+label-font = 4
+format-prefix-font = 5
+format-foreground = ${color.pink-red}
+
+; Available tokens:
+;   %percentage_used% (default)
+;   %percentage_free%
+;   %gb_used%
+;   %gb_free%
+;   %gb_total%
+;   %mb_used%
+;   %mb_free%
+;   %mb_total%
+;   %percentage_swap_used%
+;   %percentage_swap_free%
+;   %mb_swap_total%
+;   %mb_swap_free%
+;   %mb_swap_used%
+;   %gb_swap_total%
+;   %gb_swap_free%
+;   %gb_swap_used%
+
+label = %gb_used% / %gb_swap_used%
+
+; Only applies if <bar-used> is used
+bar-used-indicator =
+bar-used-width = 10
+bar-used-foreground-0 = #55aa55
+bar-used-foreground-1 = #557755
+bar-used-foreground-2 = #f5a70a
+bar-used-foreground-3 = #ff5555
+bar-used-fill = ■
+bar-used-empty = ■
+bar-used-empty-foreground = #444444
+
+; Only applies if <ramp-used> is used
+ramp-used-0 = ▁
+ramp-used-1 = ▂
+ramp-used-2 = ▃
+ramp-used-3 = ▄
+ramp-used-4 = ▅
+ramp-used-5 = ▆
+ramp-used-6 = ▇
+ramp-used-7 = █
+
+; Only applies if <ramp-free> is used
+ramp-free-0 = ▁
+ramp-free-1 = ▂
+ramp-free-2 = ▃
+ramp-free-3 = ▄
+ramp-free-4 = ▅
+ramp-free-5 = ▆
+ramp-free-6 = ▇
+ramp-free-7 = █
+
+;==========================================================
+
+[module/mpd]
+type = internal/mpd
+;format-online = <toggle> <label-song> 
+format-online =  <label-song> 
+
+icon-play = 
+icon-pause = 
+
+label-song-maxlen = 25
+label-song-ellipsis = true
+
+;==========================================================
+
+[module/xbacklight]
+type = internal/xbacklight
+
+enable-scroll = true
+
+; Tags disponíveis: 
+;    <label> (padrão) 
+;    <ramp> 
+;    <bar> 
+;format = <ramp> <bar>
+format = <ramp> <label> 
+
+; Available tokens:
+;   %percentage% (default)
+label = %percentage%%
+
+; Only applies if <ramp> is used
+ramp-0 ="🌕"
+ramp-1 ="🌔"
+ramp-2 ="🌓"
+ramp-3 ="🌒"
+ramp-4 ="🌑"
+
+bar-width = 10
+bar-indicator = 
+bar-indicator-foreground = #fff
+bar-indicator-font = 2
+bar-fill ="%{A1:~/.config/scripts/controlbright.sh --control:}■%{A}"
+bar-fill-font = 2
+bar-fill-foreground = #9f78e1
+bar-empty ="%{A1:~/.config/scripts/controlbright.sh --control:}■%{A}"
+bar-empty-font = 2
+bar-empty-foreground = ${colors.foreground-alt}
+
+[module/battery]
+type = internal/battery
+full-at = 98
+time-format = %H:%M
+battery = BAT0
+adapter = ADP1
+format-charging = <animation-charging> <label-charging>
+label-discharging-foreground = ${color.red}
+label-charging-foreground = ${color.green}
+;label-charging = %percentage%% (%time%)
+;label-charging = %percentage%%
+format-discharging = <animation-discharging> <label-discharging>
+;label-discharging = %percentage%% (%time%)
+;label-discharging = %percentage%%
+;format-full = <label-full>
+;       
+
+format-full-prefix = ""
+ramp-capacity-0 =
+ramp-capacity-1 =
+ramp-capacity-2 =
+ramp-capacity-3 =
+;ramp-capacity-4 =
+
+ramp-capacity-0-foreground = ${color.red}
+ramp-capacity-foreground   = ${color.fg}
+bar-capacity-width = 10
+
+animation-charging-0 = ""
+animation-charging-1 = ""
+animation-charging-2 = ""
+;animation-charging-3 = ""
+;animation-charging-4 = ""
+animation-charging-foreground = ${color.green}
+
+animation-charging-framerate = 750
+
+animation-discharging-0 =""
+animation-discharging-1 =""
+animation-discharging-2 =""
+;animation-discharging-3 =""
+animation-discharging-foreground = ${color.red}
+
+animation-discharging-framerate = 750
+
+[module/volume]
+type = internal/alsa
+;speaker-mixer = Speaker
+;headphone-mixer = Headphone
+;headphone-id = 16
+;mapped = true
+enable-scroll = true
+format-volume = <ramp-volume> <label-volume>
+label-volume = %percentage%%
+format-muted-prefix = " "
+label-muted = MUTE
+label-muted-foreground = #666
+format-muted-foreground = #e60053
+
+ramp-volume-0 = 
+ramp-volume-1 = 
+ramp-volume-2 = 
+ramp-volume-3 = 
+ramp-volume-4 = 
+ramp-volume-5 = 
+ramp-volume-6 = 
+
+[module/wlan]
+type = internal/network
+interface = wlp2s0b1
+interval = 30
+
+format-connected = <ramp-signal> <label-connected>
+format-connected-underline = 
+
+label-connected ="%{A1:~/.config/scripts/scriptwicd.sh:}%signal%%%{A}"
+;%essid% %downspeed:9%
+;format-disconnected =
+format-disconnected = <label-disconnected>
+format-disconnected-underline = 
+;label-disconnected = %ifname% disconnected
+label-disconnected ="%{A1:terminator -e wicd-curses &:} %{A}"
+label-disconnected-foreground = #666
+
+ramp-signal-0 = "%{A1:terminator -e wicd-curses &:} %{A}"
+ramp-signal-1 = "%{A1:terminator -e wicd-curses &:} %{A}"
+ramp-signal-2 = "%{A1:terminator -e wicd-curses &:} %{A}"
+ramp-signal-3 = "%{A1:terminator -e wicd-curses &:} %{A}"
+ramp-signal-4 = "%{A1:terminator -e wicd-curses &:} %{A}"
+ramp-signal-foreground = 
+
+[module/eth]
+type = internal/network
+interface = enp3s0
+interval = 3.0
+
+format-connected-underline = 
+format-connected-prefix = " "
+format-connected-prefix-foreground = 
+label-connected = "%{A1:~/.config/scripts/scriptwicd.sh:} %local_ip%%{A}"
+
+format-disconnected =
+
+
+[module/date]
+type = internal/date
+interval = 30
+label = "%{A3:~/.config/scripts/popup-calendar.sh --popup:} %date% %time%%{A}"
+time =  %H:%M %p
+time-alt = %H:%M:%S
+;time-alt =  %Y-%m-%d
+date-alt =  "%d-%m-%Y"
+
+[module/powermenu]
+type = custom/text
+content = 
+content-padding = 2
+content-background = ${color.acolor}
+content-foreground = ${color.fg}
+click-left = ~/.config/scripts/shutdown_menu
+click-right = ~/.config/scripts/shutdown_menu
+
+;== EOF ========================================================

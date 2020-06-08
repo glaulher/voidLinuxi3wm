@@ -1,0 +1,3 @@
+#! /bin/bash 
+
+$HOME/.config/i3status/i3status_scripts/openweathermap-forecast.sh|yad --notification --listen --image=$HOME/.config/i3status/i3status_scripts/weather-icon/01d@2x.png

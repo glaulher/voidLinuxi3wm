@@ -7,7 +7,8 @@
 # If the above line is not correctly displayed, fix your editor first!
 
 general {
-         output_format = "none"
+        
+        output_format = "i3bar"
         separator = "  "
         colors = true
         markup = pango
@@ -17,19 +18,34 @@ general {
 		color_bad = '#ba5e57'
 }
 
+order += "tztime local"
+order += "tztime holder__keylock"
 order += "load"
 order += "cpu_temperature 0"
 order += "cpu_usage"
+#order += "memory"
 order += "disk /"
 #order += "disk /home"
 order += "ethernet enp1s0"
 order += "wireless wlp2s0"
-order += "volume master"
-order += "battery 0"
-order += "tztime local"
+#order += "volume master"
+#order += "battery 0"
+
+
+tztime local {
+        align = "center"
+#		format = "%time"
+		format = "<span foreground='#d863bb'> %time </span>"
+		format_time = " %a %-d %b %H:%M"
+		separator_block_width = 300
+}
+
+tztime holder__keylock {
+        format = ""        
+ }
 
 load {
-        format = "   %5min Load "
+        format = "   %5min Load "
 }
 
 cpu_temperature 0 {
@@ -37,11 +53,19 @@ cpu_temperature 0 {
         path = "/sys/class/thermal/thermal_zone0/temp"
 }
 cpu_usage {
-	format = "  %usage "
+#	format = "  %usage "
+format = "<span foreground='#0db7ed'>  %usage  </span>"
 }
 
+#memory {
+#format = ""<span foreground='#FEADB9'> %used </span>" 
+#threshold_degraded = "10%"
+#format_degraded = "MEMORY: %free"
+#}
+
 disk "/" {
-        format = "  %used / %free  "
+#        format = "  %used / %free  "
+format = "<span foreground='#43a047'>  %free  </span>"
 }
 
 #disk "/home" {
@@ -49,36 +73,35 @@ disk "/" {
 #}
 
 ethernet enp1s0 {
-        format_up = "  %ip "
-        format_down = "  Disconnected "
+       format_up = "  %ip "
+format_up = "<span foreground='#88c0d0'>  %ip </span>"
+        format_down = ""
 }
 
 wireless wlp2s0 {
         format_up = " %quality "
-        format_down = " Disconnected "
+format_up = "<span foreground='#b48ead'> %quality </span>"
+       format_down = " "
 }
 
-volume master {
-        format = "%volume"
-        format_muted = " Muted "
-        device = "default"
-        mixer = "Master"
-        mixer_idx = 0
-}
+#volume master {
+#        format = "%volume"
+#        format_muted = " Muted "
+#        device = "default"
+#        mixer = "Master"
+#        mixer_idx = 0
+#}
 
-battery 0 {
-	last_full_capacity = true
-        format = "%status %percentage"
-        format_down = "No Battery"
-        status_chr = "⚡  CHR"
-        status_bat = "🔋  BAT"
-        status_unk = "? "
-        status_full = "☻  FULL"
-        path = "/sys/class/power_supply/BAT%d/uevent"
-        low_threshold = 10
-}
+#battery 0 {
+#	last_full_capacity = true
+#        format = "%status %percentage"
+#        format_down = "No Battery"
+#        status_chr = "⚡  CHR"
+#        status_bat = "🔋  BAT"
+#        status_unk = "? "
+#        status_full = "☻  FULL"
+#        path = "/sys/class/power_supply/BAT%d/uevent"
+#        low_threshold = 10
+#}
 
-tztime local {
-		format = "%time"
-		format_time = "%a %-d %b %H:%M"
-}
+

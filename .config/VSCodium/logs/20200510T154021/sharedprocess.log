@@ -1,0 +1,10 @@
+[2020-05-10 15:40:29.372] [sharedprocess] [info] main {"machineId":"ccb38b7ed19040990e7e7999fabaabdce0caf05f4a1b05d9caed351037ac72cc","windowId":2}
+[2020-05-10 15:40:32.189] [sharedprocess] [info] Deleted from disk rocketseat.rocketseatreactjs /home/glaulher/.vscode-oss/extensions/rocketseat.rocketseatreactjs-2.2.0
+[2020-05-10 15:40:32.246] [sharedprocess] [info] Deleted from disk rocketseat.rocketseatreactnative /home/glaulher/.vscode-oss/extensions/rocketseat.rocketseatreactnative-2.2.0
+[2020-05-10 15:40:35.864] [sharedprocess] [info] Installing extension: esbenp.prettier-vscode
+[2020-05-10 15:40:37.171] [sharedprocess] [info] Downloaded extension: esbenp.prettier-vscode /tmp/6843c660-78e4-4a66-9b6d-05f0f55791c5
+[2020-05-10 15:40:37.473] [sharedprocess] [info] Extracted extension to /home/glaulher/.vscode-oss/extensions/.esbenp.prettier-vscode-4.6.0: esbenp.prettier-vscode
+[2020-05-10 15:40:37.474] [sharedprocess] [info] Renamed to /home/glaulher/.vscode-oss/extensions/esbenp.prettier-vscode-4.6.0
+[2020-05-10 15:40:37.476] [sharedprocess] [info] Installation completed. esbenp.prettier-vscode
+[2020-05-10 15:40:37.626] [sharedprocess] [info] Extensions installed successfully: esbenp.prettier-vscode
+[2020-05-10 15:41:09.414] [sharedprocess] [info] Starting to clean up unused language packs.

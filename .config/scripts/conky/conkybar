@@ -54,4 +54,4 @@ ${voffset 0}${offset 30}${color3}System:${color1} ${execi 60 lsb_release -ds | a
 # ${color3}Nvidia: ${color4} ${execi 5 nvidia-settings -q [gpu:0]/UsedDedicatedGPUMemory -t} / ${exec nvidia-settings -q [gpu:0]/TotalDedicatedGPUMemory -t} MiB ${alignr}${color6}${nvidia temp} °C 
 # | ${color3}Computer:${color2} $nodename ${color5}
 # | ${color3}Time: ${color4}${time %I:%M:%S} ${color5}| ${color3}Date: ${color4}${time %a}, ${time %d} ${time  %B} ${time %Y} ${color5}
-# | ${color a6e22e} UP: ${color3}${downspeedgraph enp40s0 8,60 black black} | ${color D45959} Down: ${color3}${upspeedgraph enp40s0 8,60 black black} ${color5}
+# |  ${color a6e22e} UP: ${color3}${downspeedgraph enp40s0 8,60 black black} | ${color D45959} Down: ${color3}${upspeedgraph enp40s0 8,60 black black} ${color5}

@@ -59,7 +59,7 @@ ${offset 35}${font Santana :pixelsize=14}${execi 60 lsb_release -ds | awk '{prin
 ${voffset 105}${goto 123}${font Santana:size=24}${time %H:%M}${voffset -10}${font Santana:size=10}${font}
 ${voffset -28}${goto 268}${hr 2}
 ${voffset -70}${goto 278}${cpugraph 50,285 d5dcde ffffff} #${voffset -18} 
-${voffset 16}${goto 285}${time %A, %d %B %Y}						
+${voffset 10}${goto 285}${font Santana:size=16}${time %A, %d %B %Y}						
 ${font Santana:BOLD:size=12}${voffset -60}${goto 575}  $color2${execi 4 head -n 20 /proc/cpuinfo | grep -A 0 'model name' | cut -c14-60}$color 
-${font Santana:size=14}${voffset 10}${goto 575}  Uptime ${font Santana:size=14}${uptime}$color      
+${voffset 14}${goto 575}${font Santana:size=16}  Uptime ${font Santana:size=14}${uptime}$color      
 ]];

@@ -10,8 +10,9 @@ do
 			   FINAL="..."
         else
 			   FINAL=""
-       fi        
-        
-		echo "$NOME_JANELA$FINAL                                                 $line" || exit 1	      
+       fi    
+    
+       
+    echo "$NOME_JANELA$FINAL                                                      |$line" || exit 1	      
       
 done

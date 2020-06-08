@@ -9,7 +9,7 @@ YAD_WIDTH=93  # 222 , 93 is minimum possible value
 YAD_HEIGHT=250 # 188 is minimum possible value 
 NIVEL="$(xbacklight | cut -d . -f1)"
 INT="$(xbacklight | cut -d . -f2)"
-MENSAGEM="$(echo -e "                   ")"
+MENSAGEM="$(echo -e "")"
  
  if [ "$INT" > 56 ]; then
         NIVEL=`expr $NIVEL + 1`        
@@ -41,7 +41,7 @@ case "$1" in
     # killall mate-notification-daemon
 	#killall xfce4-notifyd
 	#notify-send --expire-time 1000 -i xfpm-brightness-lcd  "$MENSAGEM $BAR$BARV"
-	notify-send --expire-time 900 -i bum  "$MENSAGEM $BAR$BARV $NIVEL"
+	notify-send --expire-time 900 --icon=$HOME/.config/i3status/i3status_scripts/bulb.png  "$MENSAGEM $BAR$BARV $NIVEL"
 	sleep 2
 	;;
 	*)    

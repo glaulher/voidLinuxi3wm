@@ -1,0 +1,73 @@
+#!/usr/bin/env bash
+
+# create a FIFO file, used to manage the I/O redirection from shell
+PIPE=$(mktemp -u --tmpdir ${0##*/}.XXXXXXXX)
+mkfifo $PIPE
+
+# attach a file descriptor to the file
+exec 3<> $PIPE
+
+# add handler to manage process shutdown
+function on_exit() {
+    echo "quit" >&3
+    rm -f $PIPE
+}
+trap on_exit EXIT
+#  MENU="$(rofi -sep "|" -dmenu -i -p 'Power menu' -location 3 -yoffset 25 -xoffset -5 -width 12 -hide-scrollbar -line-padding 4 -padding 20 -lines 5 -font "Misc Termsyn 12" -show-icons -icon-theme "Papirus"  <<< "✘ Cancel|➤ Lock|⥂ Logout|🗘 Reboot| Shutdown")"
+# add handler for tray icon left click
+function on_click() {
+  MENU="$(rofi -sep "|" -dmenu -i -p 'Power menu' -location 3 -yoffset 25 -xoffset -5 -width 12 -hide-scrollbar -line-padding 4 -padding 20 -lines 5 -font "awesome 10" <<< " Cancel| Lock| Logout| Reboot| Shutdown")"
+
+#Less systemd
+
+		case "$MENU" in
+            *Cancel) "" ;;
+			 *Lock) i3lock ;;
+            *Logout) i3-msg exit;;
+            *Reboot) sudo shutdown -r now;;
+            *Shutdown) sudo shutdown -P now
+        esac
+
+# with systemd
+
+#	case "$MENU" in
+#            *Cancel) $(exit) ;;
+#			*Lock) i3lock ;;
+#            *Logout) i3-msg exit;;
+#            *Reboot) systemctl reboot ;;
+#            *Shutdown) systemctl -i poweroff
+#       esac
+
+
+}
+export -f on_click
+
+# create the notification icon
+yad --notification                  \
+    --listen                        \
+    --image=$HOME/.config/i3status/i3status_scripts/poweroff.png              \
+    --text="Power"   \
+    --command="bash -c on_click" <&3
+   
+
+## Application menu file ###############################################
+
+GET_MENU='Terminal! urxvt
+Text! geany
+'
+## MENU items ##########################################################
+
+MENU_ITEMS="` echo "$GET_MENU" | tr '\n' '|' | sed '$s/.$//' `"
+
+## 4 Write menu to file descriptor to generate MENU ####################
+ echo "menu:$MENU_ITEMS" >&3
+
+## Check if menu file is provided ######################################
+ 
+  if [ -z "$GET_MENU" ]; then 
+  echo "traymenu usage: $0 /path/to/menu/file" && exit
+  else
+  on_click
+  fi
+
+########################################################################  

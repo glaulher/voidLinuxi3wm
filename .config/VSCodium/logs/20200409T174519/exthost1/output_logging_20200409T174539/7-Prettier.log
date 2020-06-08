@@ -1,0 +1,33 @@
+["INFO" - 17:45:39] Extension Name: "prettier-vscode".
+["INFO" - 17:45:39] Extension Version: "4.1.1".
+["INFO" - 17:45:39] Loaded module 'prettier@1.19.1' from '/home/glaulher/Documentos/javascript/project/gobarber/node_modules/prettier/index.js'
+["INFO" - 17:45:39] Enabling prettier for languages
+[
+  "css",
+  "graphql",
+  "html",
+  "javascript",
+  "javascriptreact",
+  "json",
+  "json5",
+  "jsonc",
+  "less",
+  "markdown",
+  "mdx",
+  "mongo",
+  "postcss",
+  "scss",
+  "typescript",
+  "typescriptreact",
+  "vue",
+  "yaml"
+]
+["INFO" - 17:45:39] Enabling prettier for range supported languages
+[
+  "graphql",
+  "javascript",
+  "javascriptreact",
+  "json",
+  "typescript",
+  "typescriptreact"
+]

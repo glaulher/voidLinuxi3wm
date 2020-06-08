@@ -1,0 +1,7 @@
+2020/06/07-19:49:01.234 2158 Reusing MANIFEST /home/glaulher/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/06/07-19:49:01.235 2158 Recovering log #3
+2020/06/07-19:49:01.298 2158 Reusing old log /home/glaulher/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000003.log 
+2020/06/07-19:51:25.189 5939 Level-0 table #5: started
+2020/06/07-19:51:25.232 5939 Level-0 table #5: 6020 bytes OK
+2020/06/07-19:51:25.269 5939 Delete type=0 #3
+2020/06/07-19:51:25.270 5939 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -72,7 +72,6 @@ settings_table = {
 		start_angle=0,
 		end_angle=360
 	},
-	 
 	{
 		name='cpu',
 		arg='cpu1',

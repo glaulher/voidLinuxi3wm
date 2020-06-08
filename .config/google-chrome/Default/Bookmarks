@@ -1,0 +1,1704 @@
+{
+   "checksum": "c0bfd821ea053f2de431097b276751df",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13179776636081287",
+            "guid": "4e58f542-ef23-4524-b798-9c530d16b099",
+            "id": "5",
+            "meta_info": {
+               "last_visited_desktop": "13202601816651783"
+            },
+            "name": "Criar um backup completo do banco de dados (SQL Server) | Microsoft Docs",
+            "type": "url",
+            "url": "https://docs.microsoft.com/pt-br/sql/relational-databases/backup-restore/create-a-full-database-backup-sql-server?view=sql-server-2017"
+         }, {
+            "date_added": "13180248155083308",
+            "guid": "9434f3ff-35dd-47d2-8fd4-2c07a1da1e0c",
+            "id": "6",
+            "meta_info": {
+               "last_visited_desktop": "13195792242246244"
+            },
+            "name": "Debian.org",
+            "type": "url",
+            "url": "http://www.debian.org/"
+         }, {
+            "date_added": "13180248155083737",
+            "guid": "dee6e89e-cfe6-47f5-b30e-662d51f9d1be",
+            "id": "7",
+            "meta_info": {
+               "last_visited_desktop": "13195611673122491"
+            },
+            "name": "Latest News",
+            "type": "url",
+            "url": "http://www.debian.org/News/"
+         }, {
+            "date_added": "13180248155084137",
+            "guid": "dca5b61d-4542-47c5-8c9f-88827472fdb5",
+            "id": "8",
+            "meta_info": {
+               "last_visited_desktop": "13202619470297614"
+            },
+            "name": "Help",
+            "type": "url",
+            "url": "http://www.debian.org/support"
+         }, {
+            "date_added": "13180658422251957",
+            "guid": "9aebc7a8-610b-46f2-a028-4dd19231e436",
+            "id": "9",
+            "meta_info": {
+               "last_visited_desktop": "13189482063191599"
+            },
+            "name": "Debian -- Work-Needing and Prospective Packages",
+            "type": "url",
+            "url": "https://www.debian.org/devel/wnpp/"
+         }, {
+            "date_added": "13180236556003499",
+            "guid": "180696dd-43cf-4921-b576-7358d92cbfd7",
+            "id": "10",
+            "meta_info": {
+               "last_visited_desktop": "13189394236878172"
+            },
+            "name": "CONFIGURAR UM USUÁRIO COMO SUPER USUÁRIO OU SUDO | Alexandre Bezerra Barbosa",
+            "type": "url",
+            "url": "https://alexandrebbarbosa.wordpress.com/2015/04/16/configurar-um-usuario-como-super-usuario-ou-sudo/"
+         }, {
+            "date_added": "13180238419011226",
+            "guid": "14eaec61-9be9-4351-9ba2-3a81a7e4a3eb",
+            "id": "11",
+            "meta_info": {
+               "last_visited_desktop": "13184895366241218"
+            },
+            "name": "Linux dicas e suporte: LightDM GTK settings + Greeter, para Debian e Ubuntu",
+            "type": "url",
+            "url": "https://linuxdicasesuporte.blogspot.com/2015/11/lightdm-gtk-settings-greeter-para.html"
+         }, {
+            "date_added": "13180244997454020",
+            "guid": "914b454f-03a4-49ba-ab35-323a90a66a18",
+            "id": "12",
+            "meta_info": {
+               "last_visited_desktop": "13181805269394278"
+            },
+            "name": "Instalando o WPS Office no Debian 9 | Tutor Linux",
+            "type": "url",
+            "url": "http://www.tutorlinux.com.br/2018/03/17/instalando-o-wps-office-no-debian-9/"
+         }, {
+            "date_added": "13180361195558129",
+            "guid": "63c4e5e1-008f-48f9-ac4b-c01aa607ef04",
+            "id": "13",
+            "meta_info": {
+               "last_visited_desktop": "13209326429928310"
+            },
+            "name": "Linux dicas e suporte: Instalar o plymouth no Debian Stretch e Buster.",
+            "type": "url",
+            "url": "https://linuxdicasesuporte.blogspot.com/2017/07/instalar-o-plymouth-no-debian-stretch-e.html"
+         }, {
+            "date_added": "13180362577985634",
+            "guid": "b9fbbc23-ecaf-44b2-8706-be4f3ccf7217",
+            "id": "14",
+            "meta_info": {
+               "last_visited_desktop": "13197088205990817"
+            },
+            "name": "Instalação do Microsoft ODBC Driver for SQL Server em Linux e macOS | Microsoft Docs",
+            "type": "url",
+            "url": "https://docs.microsoft.com/pt-br/sql/connect/odbc/linux-mac/installing-the-microsoft-odbc-driver-for-sql-server?view=sql-server-2017"
+         }, {
+            "date_added": "13180395766476858",
+            "guid": "a5bb592d-19c6-4eb5-b094-fef692db1f35",
+            "id": "15",
+            "meta_info": {
+               "last_visited_desktop": "13180396804242388"
+            },
+            "name": "[Resolvido] Visualizar Fotos no Lubuntu 16.04",
+            "type": "url",
+            "url": "https://ubuntuforum-br.org/index.php?topic=122258.0"
+         }, {
+            "date_added": "13180396694085628",
+            "guid": "58914fa2-61f3-46b9-a783-5af797e193cf",
+            "id": "16",
+            "meta_info": {
+               "last_visited_desktop": "13180396694086327"
+            },
+            "name": "Meu Mundo Tux: Criando ações personalizadas para o pcmanfm no Slackware",
+            "type": "url",
+            "url": "http://meumundotux.blogspot.com/2018/01/criando-acoes-personalizadas-para-o.html"
+         }, {
+            "date_added": "13180405490376291",
+            "guid": "6b87bba7-d7b6-4107-9153-6bdbd67897cc",
+            "id": "17",
+            "meta_info": {
+               "last_visited_desktop": "13180405490399925"
+            },
+            "name": "Instalando o Oracle Java 8 JDK no Debian 9 \"Stretch\" usando o APT",
+            "type": "url",
+            "url": "https://lamasbr.github.io/2017/08/31/Installing-Oracle-Java-8-JDK-on-Debian-9-Stretch-using-APT.html"
+         }, {
+            "date_added": "13180411297938249",
+            "guid": "4ce18d49-6a16-4965-bf6c-1693dd7d00ed",
+            "id": "18",
+            "meta_info": {
+               "last_visited_desktop": "13180411341379434"
+            },
+            "name": "Login | ChangeVision Members",
+            "type": "url",
+            "url": "https://members.change-vision.com/members/files/astah_community/6_9_0/astah-community_6.9.0.b4c6e9-0_all.deb"
+         }, {
+            "date_added": "13180416152010630",
+            "guid": "7f66b361-9426-42c8-bacd-d4ae04129cdf",
+            "id": "19",
+            "meta_info": {
+               "last_visited_desktop": "13189130827092586"
+            },
+            "name": "Pacotes quebrados: veja como corrigir em sistemas baseados no Debian",
+            "type": "url",
+            "url": "https://www.edivaldobrito.com.br/pacotes-quebrados-veja-como-corrigir-isso-em-sistemas-baseados-no-debian/"
+         }, {
+            "date_added": "13180416947954255",
+            "guid": "e2c987ac-8eb6-4eac-80b4-3d17d094f5d0",
+            "id": "20",
+            "meta_info": {
+               "last_visited_desktop": "13180417249661621"
+            },
+            "name": "Pacote quebrado!! [RESOLVIDO] [Linux Mint]",
+            "type": "url",
+            "url": "https://www.vivaolinux.com.br/topico/Linux-Mint/Pacote-quebrado-1"
+         }, {
+            "date_added": "13180418185423640",
+            "guid": "59373d75-71e9-4807-b846-2d6e70db451d",
+            "id": "21",
+            "meta_info": {
+               "last_visited_desktop": "13180418185423883"
+            },
+            "name": "Problemas com gerenciador de pacotes [RESOLVIDO] [Ubuntu & Kubuntu]",
+            "type": "url",
+            "url": "https://www.vivaolinux.com.br/topico/Ubuntu-e-Kubuntu/Problemas-com-gerenciador-de-pacotes"
+         }, {
+            "date_added": "13180489203430044",
+            "guid": "75c5ed6a-66f1-48e9-8177-ebc99600cf6d",
+            "id": "22",
+            "meta_info": {
+               "last_visited_desktop": "13180489203430994"
+            },
+            "name": "Debian-documentacao/README.md at master · Ferlinuxdebian/Debian-documentacao · GitHub",
+            "type": "url",
+            "url": "https://github.com/Ferlinuxdebian/Debian-documentacao/blob/master/README.md"
+         }, {
+            "date_added": "13180595443896864",
+            "guid": "3d97f331-a6db-408d-aec7-c03701863a79",
+            "id": "23",
+            "meta_info": {
+               "last_visited_desktop": "13180595490959302"
+            },
+            "name": "Editor de formulário - 123FormBuilder",
+            "type": "url",
+            "url": "https://www.123formbuilder.com/index.php?p=edit_fields&id=4148774&from=firsttime&registered=1855187"
+         }, {
+            "date_added": "13180595735115298",
+            "guid": "044db975-0f8b-4a24-b2cd-d0e27f8c0679",
+            "id": "24",
+            "meta_info": {
+               "last_visited_desktop": "13180595758426994"
+            },
+            "name": "Formulários de formulários gratuitos | Formulários de formulário HTML - 123FormBuilder",
+            "type": "url",
+            "url": "https://www.123formbuilder.com/pt/templates-de-formularios-gratis/"
+         }, {
+            "date_added": "13181191346740579",
+            "guid": "bc4ef5d7-64f1-4ccf-bdbe-156ee074fc99",
+            "id": "25",
+            "meta_info": {
+               "last_visited_desktop": "13197696996644213"
+            },
+            "name": "GitHub - daniruiz/flat-remix: Flat Remix icon theme is a pretty simple Linux icon theme inspired on material design. It is mostly flat with some shadows, highlights and gradients for some depth, and uses a colorful palette with nice contrasts.",
+            "type": "url",
+            "url": "https://github.com/daniruiz/flat-remix"
+         }, {
+            "date_added": "13181191465249333",
+            "guid": "272a1c65-5454-4a19-a727-e22f88e3ee34",
+            "id": "26",
+            "meta_info": {
+               "last_visited_desktop": "13181191465249729"
+            },
+            "name": "GitHub - daniruiz/flat-remix-gtk: Flat Remix GTK theme is a pretty simple gtk window theme inspired on material design. It follows a modern design using \"flat\" colors with high contrasts and sharp borders.",
+            "type": "url",
+            "url": "https://github.com/daniruiz/flat-remix-gtk"
+         }, {
+            "date_added": "13181277246689831",
+            "guid": "34fb235e-0f6b-4d16-b4cc-340745c7178d",
+            "id": "27",
+            "meta_info": {
+               "last_visited_desktop": "13181839144256718"
+            },
+            "name": "Download Astah | ChangeVision Members",
+            "type": "url",
+            "url": "https://members.change-vision.com/members/files/astah_community/6_9_0"
+         }, {
+            "date_added": "13181441351024884",
+            "guid": "76a09db9-4191-4b4d-9b07-6b91ca5645da",
+            "id": "28",
+            "meta_info": {
+               "last_visited_desktop": "13181442084752013"
+            },
+            "name": "Apps com acesso à sua conta",
+            "type": "url",
+            "url": "https://myaccount.google.com/permissions?hl=pt_BR"
+         }, {
+            "date_added": "13181446368467946",
+            "guid": "9b988a44-3773-4705-bb42-e8f36a21ed80",
+            "id": "29",
+            "meta_info": {
+               "last_visited_desktop": "13197236884278017"
+            },
+            "name": "Rofi - ArchWiki",
+            "type": "url",
+            "url": "https://wiki.archlinux.org/index.php/Rofi"
+         }, {
+            "date_added": "13181446527390885",
+            "guid": "60a5a57c-6362-40db-b9cb-d7879d81ed21",
+            "id": "30",
+            "meta_info": {
+               "last_visited_desktop": "13181448372877579"
+            },
+            "name": "Ubuntu Manpage: rofi - A window switcher, application launcher, ssh dialog and dmenu replacement",
+            "type": "url",
+            "url": "http://manpages.ubuntu.com/manpages/bionic/man1/rofi.1.html"
+         }, {
+            "date_added": "13181691518092110",
+            "guid": "58c332e3-9dfd-47e8-b4dc-a24d9487b77c",
+            "id": "31",
+            "meta_info": {
+               "last_visited_desktop": "13189381596965390"
+            },
+            "name": "Packages in “Collection of icons PPA” : Collection of icons PPA : NoobsLab",
+            "type": "url",
+            "url": "https://launchpad.net/~noobslab/+archive/ubuntu/icons/+packages?batch=75&memo=300&start=300"
+         }, {
+            "date_added": "13181695544731866",
+            "guid": "984f64c1-c186-4684-a655-56cd76eca380",
+            "id": "32",
+            "meta_info": {
+               "last_visited_desktop": "13190571581066591"
+            },
+            "name": "Adapta : tista",
+            "type": "url",
+            "url": "https://launchpad.net/~tista/+archive/ubuntu/adapta"
+         }, {
+            "date_added": "13181872961784331",
+            "guid": "2d03f990-6818-4541-9fe0-ea68a76b5f56",
+            "id": "33",
+            "meta_info": {
+               "last_visited_desktop": "13182285700531970"
+            },
+            "name": "How to implement a Start Menu (jgmenu) in tint2 or Plank on #BĹ / Scripts, Tutorials & Tips / BunsenLabs Linux Forums",
+            "type": "url",
+            "url": "https://forums.bunsenlabs.org/viewtopic.php?id=3100"
+         }, {
+            "date_added": "13181947331762628",
+            "guid": "b965d9de-ee34-4f7f-8598-a68a96d4f872",
+            "id": "34",
+            "meta_info": {
+               "last_visited_desktop": "13181947331762971"
+            },
+            "name": "FLATPACK___Cuca Digital - Flatpak no Debian e Manjaro - Aprenda a instalar e usar",
+            "type": "url",
+            "url": "https://www.cucadigital.com.br/2018/03/flatpak-no-debian-e-manjaro-aprenda-a-instalar-e-usar.html"
+         }, {
+            "date_added": "13182197113806840",
+            "guid": "f3e2d2f6-201f-4dfb-8957-848856347334",
+            "id": "35",
+            "meta_info": {
+               "last_visited_desktop": "13182198150597668"
+            },
+            "name": "PDF Converter - Convert to PDF Online Free",
+            "type": "url",
+            "url": "https://www.freepdfconvert.com/"
+         }, {
+            "date_added": "13182203175474746",
+            "guid": "10c101ac-a18b-43fd-b7f4-39e38f0e13cb",
+            "id": "36",
+            "meta_info": {
+               "last_visited_desktop": "13182203175475075"
+            },
+            "name": "Word em PDF - Converter seu DOC em PDF online grátis",
+            "type": "url",
+            "url": "https://smallpdf.com/pt/word-para-pdf"
+         }, {
+            "date_added": "13182448736493816",
+            "guid": "d75cd2f4-8cd6-4666-b0a8-f7cc6df1e620",
+            "id": "37",
+            "meta_info": {
+               "last_visited_desktop": "13182448736494199"
+            },
+            "name": "6.3. O Comando apt-cache",
+            "type": "url",
+            "url": "https://debian-handbook.info/browse/pt-BR/stable/sect.apt-cache.html"
+         }, {
+            "date_added": "13182460252245295",
+            "guid": "f154102e-7fe1-4714-8ed8-e11114423471",
+            "id": "38",
+            "meta_info": {
+               "last_visited_desktop": "13182460252245605"
+            },
+            "name": "LXDE [Comunidade]",
+            "type": "url",
+            "url": "https://www.vivaolinux.com.br/comunidade/LXDE/"
+         }, {
+            "date_added": "13182799658684533",
+            "guid": "f88f9471-3eb3-4ed1-b3c7-f06bf9e6703a",
+            "id": "39",
+            "meta_info": {
+               "last_visited_desktop": "13182799658684749"
+            },
+            "name": "Compressor.io - optimize and compress JPEG photos and PNG images",
+            "type": "url",
+            "url": "https://compressor.io/"
+         }, {
+            "date_added": "13182988992347681",
+            "guid": "f701e81c-24ee-44ca-80db-5bce81f60690",
+            "id": "40",
+            "meta_info": {
+               "last_visited_desktop": "13182988992347921"
+            },
+            "name": "Linux dicas e suporte: Criar pacote .deb, para Debian, Ubuntu e derivados",
+            "type": "url",
+            "url": "https://linuxdicasesuporte.blogspot.com/2018/10/criar-pacote-deb-para-debian-ubuntu-e.html?spref=fb"
+         }, {
+            "date_added": "13183004805221314",
+            "guid": "036c8207-4a25-40a8-81ec-b4f4c858485a",
+            "id": "41",
+            "meta_info": {
+               "last_visited_desktop": "13183006917623045"
+            },
+            "name": "Sources List Generator for Debian",
+            "type": "url",
+            "url": "https://debgen.simplylinux.ch/"
+         }, {
+            "date_added": "13183168231447295",
+            "guid": "197f8b41-dca5-43d6-962b-9c2188d373c5",
+            "id": "42",
+            "meta_info": {
+               "last_visited_desktop": "13193758167010113"
+            },
+            "name": "gimp Appimage  Releases · aferrero2707/gimp-appimage · GitHub",
+            "type": "url",
+            "url": "https://github.com/aferrero2707/gimp-appimage/releases"
+         }, {
+            "date_added": "13183522103017859",
+            "guid": "c364d296-2a4a-4cc7-9dd8-9b3bb5a96573",
+            "id": "43",
+            "meta_info": {
+               "last_visited_desktop": "13183522103018323"
+            },
+            "name": "Open Port route",
+            "type": "url",
+            "url": "https://portforward.com/router.htm"
+         }, {
+            "date_added": "13184564310645179",
+            "guid": "9e801878-b681-49f4-9a2c-904cfe0592a9",
+            "id": "44",
+            "meta_info": {
+               "last_visited_desktop": "13185327654999483"
+            },
+            "name": "Firmware-Linux dicas e suporte: Instalar driver wireless no Debian.",
+            "type": "url",
+            "url": "https://linuxdicasesuporte.blogspot.com/2016/06/instalar-driver-wireless-no-debian.html"
+         }, {
+            "date_added": "13184718903205038",
+            "guid": "09b9b0e8-c8a5-4d9f-acbd-beb97b222293",
+            "id": "45",
+            "meta_info": {
+               "last_visited_desktop": "13184718903205710"
+            },
+            "name": "Corrigir erro chipset SiS e outros ao iniciar/instalar sistemas Linux! | Blog Linux SempreUPdate",
+            "type": "url",
+            "url": "https://sempreupdate.com.br/corrigir-erro-chipset-sis-instalar-linux/"
+         }, {
+            "date_added": "13184720195916748",
+            "guid": "0d6825b5-ef6b-4392-b27b-02ca3acb1545",
+            "id": "46",
+            "meta_info": {
+               "last_visited_desktop": "13184720195917255"
+            },
+            "name": "Linux dicas e suporte: NetworkManager não conecta na wifi no seu GNU/Linux",
+            "type": "url",
+            "url": "https://linuxdicasesuporte.blogspot.com/2017/06/networkmanager-nao-conecta-na-wifi-no.html"
+         }, {
+            "date_added": "13184720905146092",
+            "guid": "f578e1ff-12e2-49ea-b9d1-6f240b03d67d",
+            "id": "47",
+            "meta_info": {
+               "last_visited_desktop": "13185351245005557"
+            },
+            "name": "pacote xfce Ubuntu – Details of package xfce4-goodies in trusty",
+            "type": "url",
+            "url": "https://packages.ubuntu.com/trusty/x11/xfce4-goodies"
+         }, {
+            "date_added": "13184780562213399",
+            "guid": "7398ef5e-d7bc-49d0-87ce-7c3bb08ce4b2",
+            "id": "48",
+            "meta_info": {
+               "last_visited_desktop": "13184887637661289"
+            },
+            "name": "Como criar um servidor FTP no Ubuntu ou Debian | Tec Dicas",
+            "type": "url",
+            "url": "https://www.tecdicas.com/20/como-criar-um-servidor-ftp-no-ubuntu-debian"
+         }, {
+            "date_added": "13184807964379185",
+            "guid": "55e59656-8f90-4908-aa1a-0832d4c39fe7",
+            "id": "49",
+            "meta_info": {
+               "last_visited_desktop": "13184807964379375"
+            },
+            "name": "Desativar o chaveiro de Sessão no Chromium [RESOLVIDO] [Helps e dicas para usuários iniciantes]",
+            "type": "url",
+            "url": "https://www.vivaolinux.com.br/topico/Helps-e-dicas-para-usuarios-iniciantes/Desativar-o-chaveiro-de-Sessao-no-Chromium"
+         }, {
+            "date_added": "13184810683891258",
+            "guid": "ccc00633-34d0-4d91-a3dd-9ae761152d96",
+            "id": "50",
+            "meta_info": {
+               "last_visited_desktop": "13185325767194829"
+            },
+            "name": "Linux dicas e suporte: Remover pedido de senha de aplicativos ao iniciar automaticamente a sessão, para Debian e Ubuntu",
+            "type": "url",
+            "url": "https://linuxdicasesuporte.blogspot.com/2017/04/remover-pedido-de-senha-de-aplicativos.html"
+         }, {
+            "date_added": "13186195454677225",
+            "guid": "d64a486c-759e-4017-a516-273368bcbf4e",
+            "id": "51",
+            "meta_info": {
+               "last_visited_desktop": "13186356319838628"
+            },
+            "name": "Linux dicas e suporte: Conky weather Lobo para Debian, Ubuntu e derivados",
+            "type": "url",
+            "url": "https://linuxdicasesuporte.blogspot.com/2018/06/conky-weather-lobo-para-debian-ubuntu-e.html?spref=fb&fbclid=IwAR2Oc1zBw2-YgEIj26bo_WH8ZY_SjFqJh3_1iXX3URWhXKjrnNHDkveUWRM"
+         }, {
+            "date_added": "13186361860286406",
+            "guid": "c666031c-37af-4f59-9890-71e7aecee999",
+            "id": "52",
+            "meta_info": {
+               "last_visited_desktop": "13186361860286850"
+            },
+            "name": "futebol ",
+            "type": "url",
+            "url": "http://videostream.dn.ua/videopage/videoPage.php?g=MTY5OTM%E2%84%96f&c=es&i=eWl2a3Vmb2F1Yg%E2%84%96f%E2%84%96f"
+         }, {
+            "date_added": "13186542967407664",
+            "guid": "09b3ff72-f793-423d-af87-468ce51f6bd4",
+            "id": "53",
+            "meta_info": {
+               "last_visited_desktop": "13202146747442032"
+            },
+            "name": "releng: 4.14: roteiro [Xfce Wiki]",
+            "type": "url",
+            "url": "https://translate.googleusercontent.com/translate_c?depth=1&hl=pt-BR&prev=search&rurl=translate.google.com.br&sl=en&sp=nmt4&u=https://wiki.xfce.org/releng/4.14/roadmap&xid=17259,15700022,15700124,15700149,15700186,15700191,15700201&usg=ALkJrhhEDbvbk6xFE9XWBg2y3vVy7K9Bnw#schedule_for_and_status_of_the_xfce_414_development_cycle"
+         }, {
+            "date_added": "13186620121543623",
+            "guid": "eaf5cb47-2cb7-4f88-95cf-c97d566ac573",
+            "id": "54",
+            "meta_info": {
+               "last_visited_desktop": "13186621208869765"
+            },
+            "name": "[C GUI GTK+3][GTK+4] Netbeans IDE: Add C/C++ | Add gtk/gtk.h | GCC Linux - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=p73Rd4ZAWQA"
+         }, {
+            "date_added": "13186751846307082",
+            "guid": "614c0587-2739-4b09-b45d-e7202b6b1b13",
+            "id": "55",
+            "meta_info": {
+               "last_visited_desktop": "13186751846307706"
+            },
+            "name": "Como copiar imagem gravada em pendrive [RESOLVIDO] [Dispositivos Removiveis]",
+            "type": "url",
+            "url": "https://www.vivaolinux.com.br/topico/Dispositivos-Removiveis/Como-copiar-imagem-gravada-em-pendrive"
+         }, {
+            "date_added": "13186752247504178",
+            "guid": "69ea4ee3-0f77-4f4c-bc3a-fbeb2e519124",
+            "id": "56",
+            "meta_info": {
+               "last_visited_desktop": "13186752247505173"
+            },
+            "name": "Linux dicas e suporte: Recuperar arquivos deletados de um pendrive, para Debian e Ubuntu",
+            "type": "url",
+            "url": "https://linuxdicasesuporte.blogspot.com/2016/06/recuperar-arquivos-deletados-de-um.html"
+         }, {
+            "date_added": "13186887426617172",
+            "guid": "61d7b676-4ade-4ed5-906f-6e8c53e18aa3",
+            "id": "57",
+            "meta_info": {
+               "last_visited_desktop": "13186887426617380"
+            },
+            "name": "Linux dicas e suporte: Anbox no Debian, Ubuntu e derivados",
+            "type": "url",
+            "url": "https://linuxdicasesuporte.blogspot.com/2018/11/anbox-no-debian-ubuntu-e-derivados.html?fbclid=IwAR0vrPPQKqEowJAKVKfoBSyAd0EOPTt4Z9mNYWPVTQnMdZZSk_5YTrNPi8I"
+         }, {
+            "date_added": "13186942022984012",
+            "guid": "50c5fabf-0923-4c5a-a668-4f5575b81add",
+            "id": "58",
+            "meta_info": {
+               "last_visited_desktop": "13186942022984230"
+            },
+            "name": "Tutorial completo do apt-get - Hardware.com.br",
+            "type": "url",
+            "url": "https://www.hardware.com.br/tutoriais/tutorial-completo-apt-get/"
+         }, {
+            "date_added": "13189141418533669",
+            "guid": "bad5ceca-dbae-4dfe-9483-14e0b6b0e097",
+            "id": "59",
+            "meta_info": {
+               "last_visited_desktop": "13195617076201274"
+            },
+            "name": "Como instalar o Docker no Debian 9 Stretch [Dica]",
+            "type": "url",
+            "url": "https://www.vivaolinux.com.br/dica/Como-instalar-o-Docker-no-Debian-9-Stretch"
+         }, {
+            "date_added": "13189141451796703",
+            "guid": "c076315f-5fba-47c7-9acf-16315f9f6507",
+            "id": "60",
+            "meta_info": {
+               "last_visited_desktop": "13197230621680512"
+            },
+            "name": "Introdução aos contêineres do SQL Server no Docker | Microsoft Docs",
+            "type": "url",
+            "url": "https://docs.microsoft.com/pt-br/sql/linux/quickstart-install-connect-docker?view=sql-server-2017"
+         }, {
+            "date_added": "13189869529084067",
+            "guid": "107d1bc7-e2c2-42f2-aeac-5f9589e25c3c",
+            "id": "61",
+            "meta_info": {
+               "last_visited_desktop": "13189869529084298"
+            },
+            "name": "Ubuntu com a hora errada [Novo no Linux]",
+            "type": "url",
+            "url": "https://www.vivaolinux.com.br/topico/Novo-no-Linux/Ubuntu-com-a-hora-errada"
+         }, {
+            "date_added": "13189999035070248",
+            "guid": "752a32e7-006d-46cc-ad88-90483e5988b4",
+            "id": "62",
+            "meta_info": {
+               "last_visited_desktop": "13191595462468366"
+            },
+            "name": "GitHub - stilliard/docker-pure-ftpd: Docker Pure-ftpd Server",
+            "type": "url",
+            "url": "https://github.com/stilliard/docker-pure-ftpd"
+         }, {
+            "date_added": "13189999133682876",
+            "guid": "827efa45-057e-4c2a-b806-893e72133348",
+            "id": "63",
+            "meta_info": {
+               "last_visited_desktop": "13190039301147673"
+            },
+            "name": "Vídeo aula Docker - Servidor WEB (nginx) e FTP - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=mlG88AGO49k"
+         }, {
+            "date_added": "13190129194158279",
+            "guid": "c1264bb9-1a5f-481f-9f34-41e4f67a7667",
+            "id": "64",
+            "meta_info": {
+               "last_visited_desktop": "13190519732997547"
+            },
+            "name": "How To Run XP Mode in VirtualBox on Windows 7 (sort of)",
+            "type": "url",
+            "url": "https://www.howtogeek.com/howto/12183/how-to-run-xp-mode-in-virtualbox-on-windows-7/"
+         }, {
+            "date_added": "13190512628766929",
+            "guid": "221fa4ef-46cd-47d6-ab01-8e6746dc060c",
+            "id": "65",
+            "meta_info": {
+               "last_visited_desktop": "13190946362160381"
+            },
+            "name": "i3 manager - thunar \"Not authorized to perform operation\" [#vivaolinux]",
+            "type": "url",
+            "url": "https://www.vivaolinux.com.br/topico/vivaolinux/i3-manager-thunar-Not-authorized-to-perform-operation"
+         }, {
+            "date_added": "13191037463729120",
+            "guid": "9d6bdd46-eb0a-469f-9927-9ec5e9e3f477",
+            "id": "66",
+            "meta_info": {
+               "last_visited_desktop": "13191037463729278"
+            },
+            "name": "Index of /mirror/cdimage/archive/7.11.0",
+            "type": "url",
+            "url": "http://cdimage.debian.org/mirror/cdimage/archive/7.11.0/"
+         }, {
+            "date_added": "13191639435636111",
+            "guid": "55f02792-ea2a-42f1-b954-1bdacb0ac918",
+            "id": "67",
+            "meta_info": {
+               "last_visited_desktop": "13191639593990116"
+            },
+            "name": "Curso Angular #01: Introdução - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=tPOMG0D57S0"
+         }, {
+            "date_added": "13194040283060898",
+            "guid": "f176cd6f-9463-4fe5-bd06-0c5d82ea9581",
+            "id": "68",
+            "meta_info": {
+               "last_visited_desktop": "13201791678484194"
+            },
+            "name": "Linux dicas e suporte: 12 dicas de ouro para você se dar bem no Debian",
+            "type": "url",
+            "url": "https://linuxdicasesuporte.blogspot.com/2017/11/12-dicas-de-ouro-para-voce-se-dar-bem.html?fbclid=IwAR0lDrpX3hdhTpmPB8N4ttWT-nUynBCuPoT_PPqo1LlnuSyJlctfPKt2j18"
+         }, {
+            "date_added": "13194210016340646",
+            "guid": "acf6bd09-40f4-48e9-925f-8462de08c286",
+            "id": "69",
+            "meta_info": {
+               "last_visited_desktop": "13194210016341136"
+            },
+            "name": "Menu de saída para o OpenBox em pt_BR – Mundo GNU",
+            "type": "url",
+            "url": "https://edpsblog.wordpress.com/2013/04/13/menu-de-saida-para-o-openbox-em-pt_br/"
+         }, {
+            "date_added": "13194210422298840",
+            "guid": "2b9a6904-07b8-49f7-a953-b43aa1bb8d2f",
+            "id": "70",
+            "meta_info": {
+               "last_visited_desktop": "13194211109599142"
+            },
+            "name": "iDesk, ícones no desktop nos *Box – Mundo GNU",
+            "type": "url",
+            "url": "https://edpsblog.wordpress.com/2013/04/27/idesk-icones-no-desktop-nos-box/"
+         }, {
+            "date_added": "13194568269278150",
+            "guid": "644fee05-8859-4884-b5b1-9d40d02d2bc1",
+            "id": "71",
+            "meta_info": {
+               "last_visited_desktop": "13194587006894136"
+            },
+            "name": "jgmenu/jgmenututorial.7.md at master · o9000/jgmenu · GitHub",
+            "type": "url",
+            "url": "https://github.com/o9000/jgmenu/blob/master/docs/manual/jgmenututorial.7.md"
+         }, {
+            "date_added": "13194834299357469",
+            "guid": "e321e40c-fab2-4daf-bae3-bbbcaf741025",
+            "id": "72",
+            "meta_info": {
+               "last_visited_desktop": "13194834299358320"
+            },
+            "name": "All Firmware Downloads Android Box update Fix Android TV Box software",
+            "type": "url",
+            "url": "https://www.entertainmentbox.com/android-firmware-downloads/"
+         }, {
+            "date_added": "13195076290061374",
+            "guid": "cbfe16b5-73c4-4e2d-8383-73f452a5ceec",
+            "id": "73",
+            "meta_info": {
+               "last_visited_desktop": "13195076290061736"
+            },
+            "name": "Index of /cdimage/weekly-builds",
+            "type": "url",
+            "url": "https://cdimage.debian.org/cdimage/weekly-builds/?fbclid=IwAR0aqjNltireW6duBC4GsljQ2Q7UJgBA3j7gA5cSnKcyQ92m0hf-D1XWKow"
+         }, {
+            "date_added": "13195107894662344",
+            "guid": "3f9b70d3-fc0d-40f0-b1e0-11af270923e3",
+            "id": "74",
+            "meta_info": {
+               "last_visited_desktop": "13197079124775149"
+            },
+            "name": "Google Tradutor",
+            "type": "url",
+            "url": "https://translate.google.com/translate?hl=pt-BR&sl=en&u=https://www.linuxquestions.org/questions/debian-26/ldconfig-and-start-stop-daemon-not-found-error-in-debian-buster-testing-4175635795/&prev=search"
+         }, {
+            "date_added": "13195279674514804",
+            "guid": "f7046d9d-7ca8-4cf2-a641-6fc22054a2be",
+            "id": "75",
+            "meta_info": {
+               "last_visited_desktop": "13195279674516172"
+            },
+            "name": "Como Customizar o Polybar, Rofi e Outros - Terminal Root",
+            "type": "url",
+            "url": "http://terminalroot.com.br/2018/11/como-customizar-o-polybar-rofi-e-outros.html"
+         }, {
+            "date_added": "13195283338861726",
+            "guid": "22bf5217-8593-4c8e-992e-753ab96c2cbf",
+            "id": "76",
+            "meta_info": {
+               "last_visited_desktop": "13195283338862184"
+            },
+            "name": "IBM Careers Canada",
+            "type": "url",
+            "url": "https://www-03.ibm.com/employment/ca/en/index.html"
+         }, {
+            "date_added": "13195330137334016",
+            "guid": "ba1c252c-8074-4d94-95b2-e02201d52bbb",
+            "id": "77",
+            "meta_info": {
+               "last_visited_desktop": "13195330137334768"
+            },
+            "name": "Linux dicas e suporte: ERRO: a PATH do root normalmente deve conter /usr/local/sbin, /usr/sbin e /sbin",
+            "type": "url",
+            "url": "https://linuxdicasesuporte.blogspot.com/2018/08/erro-path-do-root-normalmente-deve.html?fbclid=IwAR2fBM_blonPhNuStfTjTssQfXb3FmTtB9CIobgXXoUGooURFgR1EwXjJKU"
+         }, {
+            "date_added": "13195331569567229",
+            "guid": "d5575b26-3bde-4ecd-8ffd-cf25d1fc1e39",
+            "id": "78",
+            "meta_info": {
+               "last_visited_desktop": "13195331838747623"
+            },
+            "name": "dpkg: aviso: 'ldconfig' não foi encontrado em PATH ou não é executável [RESOLVIDO] [Debian]",
+            "type": "url",
+            "url": "https://www.vivaolinux.com.br/topico/Debian/dpkg-aviso-ldconfig-nao-foi-encontrado-em-PATH-ou-nao-e-executavel"
+         }, {
+            "date_added": "13195617346612475",
+            "guid": "432c8801-8055-4f40-af73-a2c9e696a443",
+            "id": "79",
+            "meta_info": {
+               "last_visited_desktop": "13197951008591956"
+            },
+            "name": "Adquira o Docker CE para o Debian | Documentação do Docker",
+            "type": "url",
+            "url": "https://docs.docker.com/install/linux/docker-ce/debian/"
+         }, {
+            "date_added": "13195617496303664",
+            "guid": "2402c51d-eee5-4153-b743-accff2f99ce2",
+            "id": "80",
+            "meta_info": {
+               "last_visited_desktop": "13195623633767133"
+            },
+            "name": "Adquira o Docker CE para o Debian | Documentação do Docker",
+            "type": "url",
+            "url": "https://docs.docker.com/install/linux/docker-ce/debian/#install-using-the-repository"
+         }, {
+            "date_added": "13195619092571882",
+            "guid": "3664fa00-8637-417e-9d6a-a9f57a07cf7d",
+            "id": "81",
+            "meta_info": {
+               "last_visited_desktop": "13195619240235985"
+            },
+            "name": "Imagens oficiais do .NET Docker | Microsoft Docs",
+            "type": "url",
+            "url": "https://docs.microsoft.com/pt-br/dotnet/standard/microservices-architecture/net-core-net-framework-containers/official-net-docker-images"
+         }, {
+            "date_added": "13195619125963836",
+            "guid": "d033d710-c55a-4bf5-8fbe-16ea060a8ed1",
+            "id": "82",
+            "meta_info": {
+               "last_visited_desktop": "13195619329797620"
+            },
+            "name": "microsoft/dotnet - Docker Hub",
+            "type": "url",
+            "url": "https://hub.docker.com/r/microsoft/dotnet/"
+         }, {
+            "date_added": "13195622548935258",
+            "guid": "2c5bd97a-2ed2-4a4d-af61-7d0170c5474c",
+            "id": "83",
+            "meta_info": {
+               "last_visited_desktop": "13197228965347122"
+            },
+            "name": "Docker Hub",
+            "type": "url",
+            "url": "https://hub.docker.com/"
+         }, {
+            "date_added": "13195626530884271",
+            "guid": "7d10e5f8-842f-47e1-9291-09a820a9799e",
+            "id": "84",
+            "meta_info": {
+               "last_visited_desktop": "13195626530884923"
+            },
+            "name": "Iniciando com o Docker: Criando suas próprias imagens - Artigos sobre HTML, JavaScript, CSS e desenvolvimento web",
+            "type": "url",
+            "url": "https://tableless.com.br/iniciando-com-o-docker-criando-suas-proprias-imagens/"
+         }, {
+            "date_added": "13195626912794045",
+            "guid": "e65bf060-2001-4b26-b886-5551c78fa16a",
+            "id": "85",
+            "meta_info": {
+               "last_visited_desktop": "13195626912794717"
+            },
+            "name": "Comandos mais utilizados no Docker",
+            "type": "url",
+            "url": "https://woliveiras.com.br/posts/comandos-mais-utilizados-no-docker/"
+         }, {
+            "date_added": "13195627263926783",
+            "guid": "7a030b05-bb02-4e1a-9a65-52fac41cbdcb",
+            "id": "86",
+            "meta_info": {
+               "last_visited_desktop": "13195631661777558"
+            },
+            "name": "Criando sua própria imagem no Docker · Docker para Desenvolvedores",
+            "type": "url",
+            "url": "http://stack.desenvolvedor.expert/appendix/docker/criandoimagem.html"
+         }, {
+            "date_added": "13195693533961597",
+            "guid": "31b1db8b-3905-4471-b8a1-c01fb82d7d24",
+            "id": "87",
+            "meta_info": {
+               "last_visited_desktop": "13195695314439058"
+            },
+            "name": "ASP.NET Core — Como executar a sua aplicação em um Docker Container",
+            "type": "url",
+            "url": "https://medium.com/somadevs/asp-net-core-como-criar-docker-containers-para-as-suas-aplica%C3%A7%C3%B5es-93410c5302e2"
+         }, {
+            "date_added": "13195697398066874",
+            "guid": "e4b47799-9e3c-4cac-90f4-7df741bcfe9b",
+            "id": "88",
+            "meta_info": {
+               "last_visited_desktop": "13195697398067787"
+            },
+            "name": "o dotnet-sdk-2.1 ​​não instala o Debian 9 · Problema nº 10103 · dotnet / cli · GitHub",
+            "type": "url",
+            "url": "https://translate.googleusercontent.com/translate_c?depth=1&hl=pt-BR&prev=search&rurl=translate.google.com&sl=en&sp=nmt4&u=https://github.com/dotnet/cli/issues/10103&xid=17259,15700022,15700186,15700191,15700248,15700253&usg=ALkJrhiUYdqINOW5arU7Wz8I2L5pylTiRg"
+         }, {
+            "date_added": "13195698459285556",
+            "guid": "bafd7dc9-07ed-4663-809c-7e37ab0a9821",
+            "id": "89",
+            "meta_info": {
+               "last_visited_desktop": "13195698459286476"
+            },
+            "name": "dotnet-sdk-2.1 fails to install Debian 9 · Issue #10103 · dotnet/cli · GitHub",
+            "type": "url",
+            "url": "https://github.com/dotnet/cli/issues/10103"
+         }, {
+            "date_added": "13195795196999719",
+            "guid": "4ab045bb-b107-4c45-8eb9-2855fa0dcc83",
+            "id": "90",
+            "meta_info": {
+               "last_visited_desktop": "13195795347115210"
+            },
+            "name": "Packages in “Macbuntu by NoobsLab” : Macbuntu by NoobsLab : NoobsLab",
+            "type": "url",
+            "url": "https://launchpad.net/~noobslab/+archive/ubuntu/macbuntu/+packages"
+         }, {
+            "date_added": "13197078820837853",
+            "guid": "3da2d612-babd-48c7-b5d4-ec7ee47228a7",
+            "id": "91",
+            "meta_info": {
+               "last_visited_desktop": "13197078820838603"
+            },
+            "name": "Watch Star Wars In Linux Terminal via Telnet - It's FOSS",
+            "type": "url",
+            "url": "https://itsfoss.com/star-wars-linux/?fbclid=IwAR1R7lXsokqo72HV6nkbftzL7hwNAamD_Z2VftC0S-9hN98LbpJDtXUo9EI"
+         }, {
+            "date_added": "13197676488302265",
+            "guid": "5870cab1-6883-448a-a38b-1d8e931e9134",
+            "id": "92",
+            "meta_info": {
+               "last_visited_desktop": "13197676488302639"
+            },
+            "name": "(2) Grupo Promove - Página inicial",
+            "type": "url",
+            "url": "https://www.facebook.com/grupopromove"
+         }, {
+            "date_added": "13197927996986796",
+            "guid": "e06ecff9-e2db-4892-a080-232a001bb6b0",
+            "id": "93",
+            "meta_info": {
+               "last_visited_desktop": "13197928768746855"
+            },
+            "name": "Criando Seu Container Com Dockerfile - Flávio Silveira",
+            "type": "url",
+            "url": "http://flaviosilveira.com/2017/criando-seu-container-com-dockerfile/"
+         }, {
+            "date_added": "13197929725130339",
+            "guid": "3d9372f2-96bf-4de7-96ca-21cc2ce94002",
+            "id": "94",
+            "meta_info": {
+               "last_visited_desktop": "13197929725164790"
+            },
+            "name": "Ambiente de desenvolvimento NodeJS com Docker e Docker Compose | Diego Fernandes - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=AVNADGzXrrQ"
+         }, {
+            "date_added": "13197930077048160",
+            "guid": "83d3815f-83d4-4f99-8604-7d367271856d",
+            "id": "95",
+            "meta_info": {
+               "last_visited_desktop": "13197930077049491"
+            },
+            "name": "Tudo o que você precisa saber para rodar Node.js com Docker - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=-StV4sf9N0g"
+         }, {
+            "date_added": "13197930144033340",
+            "guid": "9dea6dab-b3cf-4b78-9a48-4ee6a6e16e21",
+            "id": "96",
+            "meta_info": {
+               "last_visited_desktop": "13197930144033747"
+            },
+            "name": "Tudo o que você precisa saber para rodar Node.js com Docker - Waldemar Neto Waldemar Neto",
+            "type": "url",
+            "url": "https://walde.co/2016/08/30/tudo-que-voce-precisa-saber-para-rodar-sua-aplicacao-nodejs-com-docker/"
+         }, {
+            "date_added": "13199741728584510",
+            "guid": "a0270219-23d6-4c97-8ede-e9fa45fd1110",
+            "id": "97",
+            "meta_info": {
+               "last_visited_desktop": "13199741728694665"
+            },
+            "name": "robertwray.co.uk - Splitting out ASP.NET Core Identity into a separate library",
+            "type": "url",
+            "url": "https://robertwray.co.uk/blog/splitting-out-asp-net-identity-into-a-separate-library"
+         }, {
+            "date_added": "13199744106077379",
+            "guid": "deae8e31-0f22-49a6-81f0-31294d9ff603",
+            "id": "98",
+            "meta_info": {
+               "last_visited_desktop": "13199744106077870"
+            },
+            "name": "Asp.Net Core MVC - Posso mover Identidade e DataAccess para a biblioteca de classes - Stack Overflow",
+            "type": "url",
+            "url": "https://stackoverflow.com/questions/40141836/asp-net-core-mvc-can-i-move-identity-and-dataaccess-to-class-library"
+         }, {
+            "date_added": "13199931488877742",
+            "guid": "b726cc36-8ff0-45b1-8d6d-72d08421f89a",
+            "id": "99",
+            "meta_info": {
+               "last_visited_desktop": "13199931488967978"
+            },
+            "name": "DDD – Introdução a Domain Driven Design | AgileAndArt",
+            "type": "url",
+            "url": "http://www.agileandart.com/2010/07/16/ddd-introducao-a-domain-driven-design/"
+         }, {
+            "date_added": "13199931929675204",
+            "guid": "b9de22f3-a86b-40cd-b7ed-e0c15f1226b4",
+            "id": "100",
+            "meta_info": {
+               "last_visited_desktop": "13199931929675789"
+            },
+            "name": "Noções básicas sobre modelos, classes e relações - Visual Studio | Microsoft Docs",
+            "type": "url",
+            "url": "https://docs.microsoft.com/pt-br/visualstudio/modeling/understanding-models-classes-and-relationships?view=vs-2019"
+         }, {
+            "date_added": "13200015013236631",
+            "guid": "6bc3a85d-9635-4f93-9f37-99d9eaffb834",
+            "id": "101",
+            "meta_info": {
+               "last_visited_desktop": "13200015013316931"
+            },
+            "name": "Authorize Tag Helper for ASP.NET Core | Dave Paquette",
+            "type": "url",
+            "url": "https://www.davepaquette.com/archive/2017/11/05/authorize-tag-helper.aspx"
+         }, {
+            "date_added": "13200015969824045",
+            "guid": "6300e907-7978-4278-8c20-958d7b243179",
+            "id": "102",
+            "meta_info": {
+               "last_visited_desktop": "13200233980313197"
+            },
+            "name": "Autorização baseada em modo de exibição no ASP.NET Core MVC | Microsoft Docs",
+            "type": "url",
+            "url": "https://docs.microsoft.com/pt-br/aspnet/core/security/authorization/views?view=aspnetcore-2.2&tabs=aspnetcore2x"
+         }, {
+            "date_added": "13200163851187353",
+            "guid": "731afa7f-8a75-42fb-a331-3fe9a1c1e358",
+            "id": "103",
+            "meta_info": {
+               "last_visited_desktop": "13200163851188051"
+            },
+            "name": "Auxiliares de marca em formulários no ASP.NET Core | Microsoft Docs",
+            "type": "url",
+            "url": "https://docs.microsoft.com/pt-br/aspnet/core/mvc/views/working-with-forms?view=aspnetcore-2.2"
+         }, {
+            "date_added": "13200164369682695",
+            "guid": "7810e001-2c60-4fd0-84ec-5155305c9698",
+            "id": "104",
+            "meta_info": {
+               "last_visited_desktop": "13200164418214013"
+            },
+            "name": "NuGet Gallery | Microsoft.AspNet.Mvc.pt-br 5.2.7",
+            "type": "url",
+            "url": "https://www.nuget.org/packages/Microsoft.AspNet.Mvc.pt-br/"
+         }, {
+            "date_added": "13200164492463863",
+            "guid": "d55d4f47-4c62-4a8b-9c77-49c40de02dc7",
+            "id": "105",
+            "meta_info": {
+               "last_visited_desktop": "13200164492464197"
+            },
+            "name": "NuGet Gallery | Microsoft.AspNet.Identity.Core.pt-br 2.2.2",
+            "type": "url",
+            "url": "https://www.nuget.org/packages/Microsoft.AspNet.Identity.Core.pt-br/"
+         }, {
+            "date_added": "13200501576824242",
+            "guid": "02d57c22-7bd9-4aba-9316-0b5acf106ba4",
+            "id": "106",
+            "meta_info": {
+               "last_visited_desktop": "13200501576824730"
+            },
+            "name": "Xampp no Ubuntu - Mudar a pasta htdocs para a /home - @carloshdebrito | Dicas e Tutoriais",
+            "type": "url",
+            "url": "https://www.carloshdebrito.com.br/xampp-no-ubuntu-mudar-a-pasta-htdocs-para-a-home/"
+         }, {
+            "date_added": "13200504153806055",
+            "guid": "ad4ca2a9-d078-4502-a87c-7573ae6ab9c1",
+            "id": "107",
+            "meta_info": {
+               "last_visited_desktop": "13200504153806863"
+            },
+            "name": "[TUTORIAL] Adicionando senha no XAMPP",
+            "type": "url",
+            "url": "http://www.power-pixel.net/t80936-tutorial-adicionando-senha-no-xampp"
+         }, {
+            "date_added": "13201711826148938",
+            "guid": "273e7606-f858-458d-8b56-8573505e232c",
+            "id": "108",
+            "meta_info": {
+               "last_visited_desktop": "13201730272901407"
+            },
+            "name": "Implementando um servidor SFTP no Debian - Seu Curso",
+            "type": "url",
+            "url": "http://www.seucurso.com.br/index.php?option=com_content&view=article&id=153:implementando-um-servidor-sftp-no-debian&catid=21&Itemid=138"
+         }, {
+            "date_added": "13201731712635036",
+            "guid": "9ee526c7-da8b-4585-9e79-ba41826655c9",
+            "id": "109",
+            "meta_info": {
+               "last_visited_desktop": "13201731712635300"
+            },
+            "name": "Configurando um servidor SFTP com Chroot - Centos 6.7 [vsFTP]",
+            "type": "url",
+            "url": "https://www.vivaolinux.com.br/topico/vsFTP/Configurando-um-servidor-SFTP-com-Chroot-Centos-67"
+         }, {
+            "date_added": "13202441267365859",
+            "guid": "d50fdd58-1476-48d8-bb66-44c3757e0370",
+            "id": "110",
+            "meta_info": {
+               "last_visited_desktop": "13202441267452946"
+            },
+            "name": "ASP .NET Core (Razor Page) - CRUD com Dapper usando o padrão Repository - II",
+            "type": "url",
+            "url": "http://www.macoratti.net/18/10/aspn_crudap2.htm"
+         }, {
+            "date_added": "13202441447899201",
+            "guid": "ca728613-078f-4f06-b6ac-6dd54fa32d34",
+            "id": "111",
+            "meta_info": {
+               "last_visited_desktop": "13202662632806175"
+            },
+            "name": "ASP.Net MVC - Cuidado com links de exclusão \"Delete\" - Pode ser uma falha de segurança – Eduardo Pires - Treinamentos e Consultoria",
+            "type": "url",
+            "url": "https://www.eduardopires.net.br/2013/07/asp-net-mvc-cuidado-links-exclusao-delete-falha-seguranca/"
+         }, {
+            "date_added": "13202441599623434",
+            "guid": "28b51fb5-3716-4bff-91b0-6a5d72d8bd6f",
+            "id": "112",
+            "meta_info": {
+               "last_visited_desktop": "13202580391379957"
+            },
+            "name": "Modal para excluir Registro (.net core - javascript - Bootstrap) - Stack Overflow em Português",
+            "type": "url",
+            "url": "https://pt.stackoverflow.com/questions/370779/modal-para-excluir-registro-net-core-javascript-bootstrap"
+         }, {
+            "date_added": "13202521446698126",
+            "guid": "1332b673-5eb9-4360-8cae-d60a727185e2",
+            "id": "113",
+            "meta_info": {
+               "last_visited_desktop": "13202580144148538"
+            },
+            "name": "asp.net-mvc - Excluir Confirme com Bootstrap modal em Asp.Net MVC - CoreDump.pt",
+            "type": "url",
+            "url": "https://coredump.pt/questions/38310691/delete-confirm-with-bootstrap-modal-in-aspnet-mvc"
+         }, {
+            "date_added": "13202521472272681",
+            "guid": "14c29052-3c5b-41a9-86bb-beb1bb4583eb",
+            "id": "114",
+            "meta_info": {
+               "last_visited_desktop": "13202663062039237"
+            },
+            "name": "Dar um Submit em um form Modal e retornar novamente para a mesma janela Modal - Asp.net MVC - Javascript - Fórum iMasters",
+            "type": "url",
+            "url": "https://forum.imasters.com.br/topic/578981-dar-um-submit-em-um-form-modal-e-retornar-novamente-para-a-mesma-janela-modal-aspnet-mvc/"
+         }, {
+            "date_added": "13202582694834710",
+            "guid": "03ad4a6b-00b1-4a46-9c7d-70d0b562453c",
+            "id": "115",
+            "meta_info": {
+               "last_visited_desktop": "13202594737585186"
+            },
+            "name": "Adding bootstrap modal confirmation for delete operation asp net core mvc - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=6Nn2GsUxyoc&t=219s"
+         }, {
+            "date_added": "13202599887156907",
+            "guid": "daba0913-e168-4833-9d6c-a17381a48f8c",
+            "id": "116",
+            "meta_info": {
+               "last_visited_desktop": "13203044890722921"
+            },
+            "name": "ASP .NET MVC -  Trabalhando com Views Modais usando o Bootstrap - II",
+            "type": "url",
+            "url": "http://www.macoratti.net/18/06/mvc5_vmodal2.htm"
+         }, {
+            "date_added": "13202625423139097",
+            "guid": "2c68f77e-bdac-4505-a53c-077453cd0a8c",
+            "id": "117",
+            "meta_info": {
+               "last_visited_desktop": "13202661430590402"
+            },
+            "name": "método jquery - load () depreciado? - estouro de pilha",
+            "type": "url",
+            "url": "https://stackoverflow.com/questions/12643160/load-method-deprecated"
+         }, {
+            "date_added": "13202665359180087",
+            "guid": "b5648eae-cdb1-4035-91b2-a23d56efae94",
+            "id": "118",
+            "meta_info": {
+               "last_visited_desktop": "13202665359207522"
+            },
+            "name": "MVC 5 + Bootstrap + Modal",
+            "type": "url",
+            "url": "https://social.msdn.microsoft.com/Forums/pt-BR/04112516-c376-49f3-b4ab-fcf308ba4657/mvc-5-bootstrap-modal?forum=mvcpt"
+         }, {
+            "date_added": "13202688386982997",
+            "guid": "83fcdc91-6030-414f-8aff-07f59b97f146",
+            "id": "119",
+            "meta_info": {
+               "last_visited_desktop": "13202688387132768"
+            },
+            "name": "css - como configurar a largura fixa para \u003Ctd>? - estouro de pilha",
+            "type": "url",
+            "url": "https://stackoverflow.com/questions/15115052/how-to-set-up-fixed-width-for-td/34987484#34987484"
+         }, {
+            "date_added": "13202692865159691",
+            "guid": "5c8d13e8-5a75-4e2f-9e9c-13e33dccc447",
+            "id": "120",
+            "meta_info": {
+               "last_visited_desktop": "13202692865160881"
+            },
+            "name": "Como pegar uma lista de checkbok(selecionados) em C# - Programação / .NET - GUJ",
+            "type": "url",
+            "url": "https://www.guj.com.br/t/como-pegar-uma-lista-de-checkbok-selecionados-em-c/377070/2"
+         }, {
+            "date_added": "13202955820348185",
+            "guid": "b3206ade-060d-4c89-85e0-bc44b73726bf",
+            "id": "121",
+            "meta_info": {
+               "last_visited_desktop": "13202955820417571"
+            },
+            "name": "Componentes - Abas",
+            "type": "url",
+            "url": "http://opensource.locaweb.com.br/locawebstyle-v2/manual/componentes/abas/"
+         }, {
+            "date_added": "13203054624444196",
+            "guid": "e3ab91ca-1ab2-4a4f-8e33-0abc98c4c6a4",
+            "id": "122",
+            "meta_info": {
+               "last_visited_desktop": "13203054624688957"
+            },
+            "name": "CRUD Operation Modal Popup uses Bootstrap in mvc",
+            "type": "url",
+            "url": "https://www.mindstick.com/Articles/12723/crud-operation-modal-popup-uses-bootstrap-in-mvc"
+         }, {
+            "date_added": "13203058096343864",
+            "guid": "e26b874e-50dc-46f7-9f48-430c22203c33",
+            "id": "123",
+            "meta_info": {
+               "last_visited_desktop": "13203058422652766"
+            },
+            "name": "jQuery Modal",
+            "type": "url",
+            "url": "https://jquerymodal.com/"
+         }, {
+            "date_added": "13203058417960564",
+            "guid": "df64e1e9-fdbd-49c6-b77e-d81f9cb3a951",
+            "id": "124",
+            "meta_info": {
+               "last_visited_desktop": "13203058417960962"
+            },
+            "name": "7 Scripts de Modais jQuery para implementar seus sites",
+            "type": "url",
+            "url": "https://blog.mxcursos.com/7-scripts-de-modais-jquery-para-implementar-seus-sites/"
+         }, {
+            "date_added": "13203059566424524",
+            "guid": "8b355e89-3b44-4dbc-82c7-16d3f5b717fc",
+            "id": "125",
+            "meta_info": {
+               "last_visited_desktop": "13203059566425627"
+            },
+            "name": "ASP.NET MVC e Bootstrap - Exibindo views modais",
+            "type": "url",
+            "url": "http://www.linhadecodigo.com.br/artigo/3686/aspnet-mvc-e-bootstrap-exibindo-views-modais.aspx"
+         }, {
+            "date_added": "13204340935354858",
+            "guid": "1404ffc6-dfb0-4c2e-8639-f4e762022729",
+            "id": "126",
+            "meta_info": {
+               "last_visited_desktop": "13204340935355048"
+            },
+            "name": "I3 window manager | Gustavo Marques",
+            "type": "url",
+            "url": "https://gutodisse.wordpress.com/2015/09/26/i3-window-manager/"
+         }, {
+            "date_added": "13204340952370734",
+            "guid": "25f71d62-1772-43d2-ae4f-3a85705a3e86",
+            "id": "127",
+            "meta_info": {
+               "last_visited_desktop": "13204340952370890"
+            },
+            "name": "i3 - Tilling Window Manager [Artigo]",
+            "type": "url",
+            "url": "https://www.vivaolinux.com.br/artigo/i3-Tilling-Window-Manager"
+         }, {
+            "date_added": "13206305439390866",
+            "guid": "5a27ce55-5da8-48f4-82a5-6c5f2be8df72",
+            "id": "128",
+            "name": "polybar · GitHub",
+            "type": "url",
+            "url": "https://github.com/polybar"
+         }, {
+            "date_added": "13206311871403024",
+            "guid": "eda1926d-8652-4876-a45f-850e577d60ee",
+            "id": "129",
+            "name": "polybar popup calendar · GitHub",
+            "type": "url",
+            "url": "https://gist.github.com/tott/7125b5cfa1bd48d8da0e9ad89256c802"
+         }, {
+            "date_added": "13206328621195548",
+            "guid": "27f1d409-bdf9-4aa0-9a26-8ff4c8ec2b94",
+            "id": "130",
+            "name": "GitHub - adi1090x/polybar-themes: A collection of polybar themes/configs with different styles, colors and variants",
+            "type": "url",
+            "url": "https://github.com/adi1090x/polybar-themes"
+         }, {
+            "date_added": "13206328924878154",
+            "guid": "dea321b7-b50a-4010-bdd0-c2b51bb904ca",
+            "id": "131",
+            "name": "Configuration · polybar/polybar Wiki · GitHub",
+            "type": "url",
+            "url": "https://github.com/polybar/polybar/wiki/Configuration"
+         }, {
+            "date_added": "13206340830183571",
+            "guid": "f46e6764-4b49-405c-986d-6b9759dee258",
+            "id": "132",
+            "name": "Understanding colors on Android (six characters) - Stack Overflow",
+            "type": "url",
+            "url": "https://stackoverflow.com/questions/5445085/understanding-colors-on-android-six-characters/11019879#11019879"
+         }, {
+            "date_added": "13206390169777407",
+            "guid": "3a433121-dccf-41b9-89d9-a9dc465af657",
+            "id": "133",
+            "name": "Como Instalar e Configurar o i3wm e o i3blocks",
+            "type": "url",
+            "url": "https://terminalroot.com.br/2018/07/como-instalar-e-configurar-o-i3wm-e-o-i3blocks.html"
+         }, {
+            "date_added": "13206759594943189",
+            "guid": "a33ebd49-a072-4223-89f8-02888c2eb99b",
+            "id": "134",
+            "name": ".NET Core SDK - Docker Hub",
+            "type": "url",
+            "url": "https://hub.docker.com/_/microsoft-dotnet-core-sdk/"
+         }, {
+            "date_added": "13206762882173819",
+            "guid": "44c4fab9-9686-49df-b110-24a73c7d63e8",
+            "id": "135",
+            "name": "Comandos do Docker · GitHub",
+            "type": "url",
+            "url": "https://gist.github.com/morvanabonin/862a973c330107540f28fab0f26181d8"
+         }, {
+            "date_added": "13206763432109301",
+            "guid": "4d34ed4f-5054-4270-bf48-c65c7c6efed6",
+            "id": "136",
+            "name": "Editando arquivos remotamente com o Visual Studio Code - 4Fasters",
+            "type": "url",
+            "url": "https://4fasters.com.br/2018/08/16/editando-arquivos-remotamente-com-o-visual-studio-code/"
+         }, {
+            "date_added": "13206764005916978",
+            "guid": "2809fb49-e333-425c-8dfd-1f71fa50d526",
+            "id": "137",
+            "name": "Remote Development - Visual Studio Marketplace",
+            "type": "url",
+            "url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack"
+         }, {
+            "date_added": "13206764011206955",
+            "guid": "ddffdbd3-0241-4a93-8e69-fd853832561c",
+            "id": "138",
+            "name": "Desenvolvendo dentro de um contêiner usando o desenvolvimento remoto de código do Visual Studio",
+            "type": "url",
+            "url": "https://code.visualstudio.com/docs/remote/containers"
+         }, {
+            "date_added": "13206806528195425",
+            "guid": "299deac0-38c6-430f-b8dd-3b1eb544abbc",
+            "id": "139",
+            "name": "microsoft / aspnetcore - Hub do Docker",
+            "type": "url",
+            "url": "https://hub.docker.com/r/microsoft/aspnetcore/"
+         }, {
+            "date_added": "13206816477944799",
+            "guid": "39a646da-14cc-4049-879c-5d7df2699013",
+            "id": "140",
+            "name": "passo a passo docker com netcore - Pesquisa Google",
+            "type": "url",
+            "url": "https://www.google.com/search?q=passo+a+passo+docker+com+netcore&oq=passo+a+passo+docker+com+netcore&aqs=chrome..69i57.18281j0j7&sourceid=chrome&ie=UTF-8"
+         }, {
+            "date_added": "13206816483890160",
+            "guid": "67baadba-6fa4-4b31-b6cc-71c197997bf7",
+            "id": "141",
+            "name": "Ambiente .Net Core no Linux usando Docker - Rocketseat - Medium",
+            "type": "url",
+            "url": "https://medium.com/rocketseat/ambiente-net-core-no-linux-usando-docker-38f5e15e7eb7"
+         }, {
+            "date_added": "13206903745179721",
+            "guid": "fa5cec7a-a7ec-47cb-a1b1-e405f062404d",
+            "id": "142",
+            "name": "debian - xbacklight not working - Unix & Linux Stack Exchange",
+            "type": "url",
+            "url": "https://unix.stackexchange.com/questions/301724/xbacklight-not-working"
+         }, {
+            "date_added": "13206905953867113",
+            "guid": "84c5ad03-3eda-49ba-9332-114b8140efbd",
+            "id": "143",
+            "name": "P: Adicionando notificação pop-up de brilho: i3wm",
+            "type": "url",
+            "url": "https://www.reddit.com/r/i3wm/comments/4ilanr/q_adding_brightness_popup_notification/"
+         }, {
+            "date_added": "13206949589755404",
+            "guid": "10f53f65-7bcd-43e9-af4f-b50c1d5c7a01",
+            "id": "144",
+            "name": "yad - display GTK+ dialogs in shell scripts - man page",
+            "type": "url",
+            "url": "https://www.mankier.com/1/yad"
+         }, {
+            "date_added": "13208672110496927",
+            "guid": "627fdacd-f02d-440e-a984-12ed1a745c6f",
+            "id": "145",
+            "name": "Linux dicas e suporte: Conky weather 2 , para Debian e Ubuntu",
+            "type": "url",
+            "url": "https://linuxdicasesuporte.blogspot.com/2019/04/conky-weather-2-para-debian-e-ubuntu.html"
+         }, {
+            "date_added": "13209175689675224",
+            "guid": "417952d1-c478-4bda-bb90-f2682416e0e4",
+            "id": "146",
+            "meta_info": {
+               "last_visited_desktop": "13209589651477796"
+            },
+            "name": "globo.com - Absolutamente tudo sobre notícias, esportes e entretenimento",
+            "type": "url",
+            "url": "https://www.globo.com/"
+         }, {
+            "date_added": "13209497926992117",
+            "guid": "9c2510d4-0381-4a1e-8e03-36cdaad62641",
+            "id": "147",
+            "name": "Inteligência Artificial destruindo no dinossauro da Google! - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=NZlIYr1slAk"
+         }, {
+            "date_added": "13209576127228609",
+            "guid": "d390c96f-7491-4686-9e12-19317cc74c34",
+            "id": "148",
+            "name": "Fazendo uma Rede Neural do Zero! #1 - FeedForward - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=d8U7ygZ48Sc"
+         }, {
+            "date_added": "13209589613223465",
+            "guid": "f8d205e5-cd8b-49a0-a31c-ecb791c0031b",
+            "id": "149",
+            "meta_info": {
+               "last_visited_desktop": "13209589613224283"
+            },
+            "name": "Não consigo instalar o Windows 7, o pc so tem usb 3.0 - Windows 7 - Clube do Hardware",
+            "type": "url",
+            "url": "https://www.clubedohardware.com.br/forums/topic/1219589-n%C3%A3o-consigo-instalar-o-windows-7-o-pc-so-tem-usb-30/"
+         }, {
+            "date_added": "13209605770892713",
+            "guid": "629f462e-86de-4db5-99b6-987b0aa6d8cb",
+            "id": "150",
+            "name": "JVictorDias · GitHub",
+            "type": "url",
+            "url": "https://github.com/JVictorDias"
+         }, {
+            "date_added": "13209606257223959",
+            "guid": "826bd01e-4d14-4cb0-b263-1886121a1b80",
+            "id": "151",
+            "name": "Erro: 0X800703ed atualizar o Windows 10. - Microsoft Community",
+            "type": "url",
+            "url": "https://answers.microsoft.com/pt-br/windows/forum/all/erro-0x800703ed-atualizar-o-windows-10/6b2a5b05-957b-4b94-a913-16d7b2171e5b"
+         }, {
+            "date_added": "13210276021642764",
+            "guid": "393d1852-969a-4bd5-80cf-055af0dd9876",
+            "id": "152",
+            "name": "c # - Erro VS Code \"As ferramentas .NET CLI não podem ser localizadas ...\" - Stack Overflow",
+            "type": "url",
+            "url": "https://stackoverflow.com/questions/50454088/vs-code-error-the-net-cli-tools-cannot-be-located"
+         }, {
+            "date_added": "13210736996551212",
+            "guid": "0637f7b9-54e8-4b6a-af8b-0d7d063d74e1",
+            "id": "153",
+            "name": "RegExp - JavaScript | MDN",
+            "type": "url",
+            "url": "https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/RegExp"
+         }, {
+            "date_added": "13210982577431121",
+            "guid": "8cd7cde6-ed5c-4286-85ef-9bbbcec79616",
+            "id": "154",
+            "name": "Cleaning Up Your Linux Startup Process - Linux.com",
+            "type": "url",
+            "url": "https://www.linux.com/tutorials/cleaning-your-linux-startup-process/"
+         }, {
+            "date_added": "13211051752180774",
+            "guid": "2091b1fa-d19f-4010-a482-70beac8f499a",
+            "id": "155",
+            "name": "i3wmbr: startx automatico | iniciar automaticamente no modo grafico",
+            "type": "url",
+            "url": "http://i3wmbr.blogspot.com/2018/07/startx-automatico-iniciar.html"
+         }, {
+            "date_added": "13211051782029058",
+            "guid": "8cd0b93a-032a-4597-bd5d-81d7bce53796",
+            "id": "156",
+            "name": "Configurações básicas do xterm – Elias Praciano",
+            "type": "url",
+            "url": "https://elias.praciano.com/2016/10/configuracoes-basicas-do-xterm/"
+         }, {
+            "date_added": "13211051808939213",
+            "guid": "4e2b00fd-9ff2-49da-a665-6160a0854238",
+            "id": "157",
+            "name": "Configurações avançadas do xterm – Elias Praciano",
+            "type": "url",
+            "url": "https://elias.praciano.com/2016/10/configuracoes-avancadas-do-xterm/"
+         }, {
+            "date_added": "13211051888019944",
+            "guid": "db39526e-9430-435f-b937-85c071596981",
+            "id": "158",
+            "name": "Meu Mundo Tux: Copiar e colar no terminal XTerm",
+            "type": "url",
+            "url": "http://meumundotux.blogspot.com/2013/11/copiar-e-colar-no-terminal-xterm.html"
+         }, {
+            "date_added": "13211093270122799",
+            "guid": "3ce1a7a6-7adc-4a36-a155-27ddae1b046b",
+            "id": "159",
+            "name": "GraphicsMagick, um software para processar imagens via terminal",
+            "type": "url",
+            "url": "https://sempreupdate.com.br/graphicsmagick-um-software-para-processar-imagens-via-terminal/"
+         }, {
+            "date_added": "13211243730707286",
+            "guid": "be286c8c-5ac1-4d03-acf6-ddb0bd4bfdb6",
+            "id": "160",
+            "name": "Icons | Font Awesome",
+            "type": "url",
+            "url": "https://fontawesome.com/icons?c=weather"
+         }, {
+            "date_added": "13211299340195029",
+            "guid": "d18db5cf-4a22-46a7-aced-f7396554c142",
+            "id": "161",
+            "name": "cloud-sun-rain | Font Awesome",
+            "type": "url",
+            "url": "https://fontawesome.com/icons/cloud-sun-rain?style=solid"
+         }, {
+            "date_added": "13211322441612691",
+            "guid": "a61d4d06-2849-4bd0-96ad-cbe2eedfbcbd",
+            "id": "162",
+            "name": "Colorful i3 customization – Kumarcode",
+            "type": "url",
+            "url": "http://kumarcode.com/Colorful-i3/"
+         }, {
+            "date_added": "13211390611606128",
+            "guid": "5b34f65d-2ba2-4083-8de2-d5669ba821e4",
+            "id": "163",
+            "name": "i3: i3bar input protocol",
+            "type": "url",
+            "url": "https://i3wm.org/docs/i3bar-protocol.html"
+         }, {
+            "date_added": "13211390714090703",
+            "guid": "f96fa5be-917a-4d0f-acd1-d26e0ab3f451",
+            "id": "164",
+            "name": "i3 - MIRROR of https://github.com/i3/i3",
+            "type": "url",
+            "url": "http://code.stapelberg.de/git/i3/commit/?h=next&id=58e68940f646e7f3a61d0e5128dfb5f4adef3df2"
+         }, {
+            "date_added": "13211394087480012",
+            "guid": "b88bbc56-803b-4c28-b117-9cc1ac9cae95",
+            "id": "165",
+            "name": "contrib - i3status - MIRROR of https://github.com/i3/i3status",
+            "type": "url",
+            "url": "http://code.stapelberg.de/git/i3status/tree/contrib"
+         }, {
+            "date_added": "13211396041426038",
+            "guid": "27deba9c-dc00-461c-a5a5-2f17453a542d",
+            "id": "166",
+            "name": "HOWTO: showing a title of focused window in bar (i3wm) | Bfgeshka found out",
+            "type": "url",
+            "url": "https://bfgeshka.wordpress.com/2014/11/16/howto-showing-a-title-of-focused-window-in-bar-i3wm/"
+         }, {
+            "date_added": "13211559207835116",
+            "guid": "b48865d5-e018-4043-bc5d-5a1303680862",
+            "id": "167",
+            "name": "Eventos de clique em alguns módulos · Edição nº 273 · polybar / polybar · GitHub",
+            "type": "url",
+            "url": "https://github.com/polybar/polybar/issues/273"
+         }, {
+            "date_added": "13211646787741899",
+            "guid": "ed21ad2f-0a0c-4512-868f-267a065f5a81",
+            "id": "168",
+            "name": "cor pastel terminal.sexy - Terminal Color Scheme Designer",
+            "type": "url",
+            "url": "https://terminal.sexy/"
+         }, {
+            "date_added": "13211647214837720",
+            "guid": "282582c9-48c0-4276-8d54-37e13f9cadcc",
+            "id": "169",
+            "name": "Configurando o URxvt para torná-lo utilizável e menos feio - Addy Blog",
+            "type": "url",
+            "url": "https://addy-dclxvi.github.io/post/configuring-urxvt/"
+         }, {
+            "date_added": "13213637858482170",
+            "guid": "1147e92e-b0cf-4dd8-adae-fbbaf60d9d75",
+            "id": "170",
+            "name": "Big Bang A Teoria 6ª Temporada Completa Torrent Dublada e Legendada - Baixar Filme Torrent",
+            "type": "url",
+            "url": "https://www.baixarfilmetorrent.com/big-bang-a-teoria-6a-temporada-completa-torrent-dublada-e-legendada/"
+         }, {
+            "date_added": "13213639485451470",
+            "guid": "0205479e-eb96-4126-8ea0-d30a9e4caabf",
+            "id": "171",
+            "name": "Como conectar à Rede WiFi via terminal Linux! | SempreUPdate",
+            "type": "url",
+            "url": "https://sempreupdate.com.br/como-conectar-wifi-via-terminal-linux/"
+         }, {
+            "date_added": "13214010554503232",
+            "guid": "98da5265-05c0-4cba-b954-a23c9aef2826",
+            "id": "172",
+            "name": "Instalando e Configurando apt-build [RESOLVIDO] [Linux Avançado]",
+            "type": "url",
+            "url": "https://www.vivaolinux.com.br/topico/Linux-Avancado/Instalando-e-Configurando-apt-build"
+         }, {
+            "date_added": "13214010852120747",
+            "guid": "829aaaad-bfcd-455b-aff6-c950bd172ce0",
+            "id": "173",
+            "name": "Como recompilar pacotes baixados para sua arquitetura no Ubuntu, Debian e derivados! | SempreUPdate",
+            "type": "url",
+            "url": "https://sempreupdate.com.br/como-recompilar-pacotes-baixados-para-sua-arquitetura-no-ubuntu-debian-e-derivados/"
+         }, {
+            "date_added": "13214772027878349",
+            "guid": "ddefc426-2d55-45b0-8f61-c59d8b7b63ab",
+            "id": "174",
+            "name": "O comando \"make\" gera como resultado um pacote instalável (.deb)? [RESOLVIDO] [Iniciantes no Linux]",
+            "type": "url",
+            "url": "https://www.vivaolinux.com.br/topico/Iniciantes-no-Linux/O-comando-make-gera-como-resultado-um-pacote-instalavel-deb"
+         }, {
+            "date_added": "13215397897403604",
+            "guid": "40b0efb7-fbe2-42de-b140-8f7f928e6c81",
+            "id": "175",
+            "name": "broadcom-bt-firmware/brcm at master · winterheart/broadcom-bt-firmware · GitHub",
+            "type": "url",
+            "url": "https://github.com/winterheart/broadcom-bt-firmware/tree/master/brcm"
+         }, {
+            "date_added": "13216669661598254",
+            "guid": "ced20535-7719-4cc3-b27c-59ac01721afd",
+            "id": "176",
+            "name": "Debian 9 on SAMSUNG NP-N150 Plus notebook",
+            "type": "url",
+            "url": "https://revadig.blogspot.com/2018/05/debian-9-on-samsung-np-n150-plus.html"
+         }, {
+            "date_added": "13216685935566133",
+            "guid": "fb803e9c-34c6-4a0b-9b2c-9b25afb8a886",
+            "id": "177",
+            "name": "Install font Monaco - Linux Mint Forums",
+            "type": "url",
+            "url": "https://forums.linuxmint.com/viewtopic.php?t=278440"
+         }, {
+            "date_added": "13217377829754607",
+            "guid": "ed5daac2-50e0-4240-bdf0-8a2a48377174",
+            "id": "178",
+            "name": "YouTube Downloader - Faça o download de vídeo e áudio do YouTube",
+            "type": "url",
+            "url": "https://y2mate.com/pt/"
+         }, {
+            "date_added": "13218803787261657",
+            "guid": "3ff3a980-fb71-49b8-94df-0ed16060b805",
+            "id": "179",
+            "name": "Instalação do Microcode Intel no Void Linux [Dica]",
+            "type": "url",
+            "url": "https://www.vivaolinux.com.br/dica/Instalacao-do-Microcode-Intel-no-Void-Linux/"
+         }, {
+            "date_added": "13218840162499934",
+            "guid": "9cdb2aba-c06e-4862-9819-7361e837fb21",
+            "id": "180",
+            "name": "Linux dicas e suporte: FreeOffice libera 65 dicionários para download.",
+            "type": "url",
+            "url": "https://linuxdicasesuporte.blogspot.com/2019/11/freeoffice-libera-65-dicionarios-para.html?spref=fb&fbclid=IwAR2Sa7-lx4IPYxDDi2cwn4Jp0NTrYq3vhxfAykvj56rCRfqo5feHHTtjJVY"
+         }, {
+            "date_added": "13218912174584923",
+            "guid": "39a4bccc-48e1-41b4-9173-05a558d62771",
+            "id": "181",
+            "name": "linux - Permissão para shutdown! - Stack Overflow em Português",
+            "type": "url",
+            "url": "https://pt.stackoverflow.com/questions/71220/permiss%C3%A3o-para-shutdown"
+         }, {
+            "date_added": "13219081706050931",
+            "guid": "b9b2a78f-adee-416e-850c-ddd917314873",
+            "id": "182",
+            "name": "Instalando o Google Chrome no Void Linux, usando o xbps-src",
+            "type": "url",
+            "url": "https://medium.com/@leandroembu/usando-o-xbps-src-no-void-linux-29550897f66"
+         }, {
+            "date_added": "13219588207699624",
+            "guid": "6063e156-0d1b-46f3-92fc-93f56bc343ba",
+            "id": "183",
+            "name": "O [react-native] não pôde se conectar ao servidor de desenvolvimento no android - Stack Overflow em Português",
+            "type": "url",
+            "url": "https://stackoverflow.com/questions/42064283/react-nativecould-not-connect-to-development-server-on-android/56744301#56744301"
+         }, {
+            "date_added": "13222094271059607",
+            "guid": "38b30a3a-80a7-47e3-9aa6-9346448abf31",
+            "id": "184",
+            "name": "PulseAudio - Void Linux Wiki",
+            "type": "url",
+            "url": "https://wiki.voidlinux.org/PulseAudio"
+         }, {
+            "date_added": "13223873891844407",
+            "guid": "1a90615a-01c6-42df-99ea-53eeac6fb1f6",
+            "id": "185",
+            "name": "Desabilitando serviços no Void Linux - Leandro Ramos - Medium",
+            "type": "url",
+            "url": "https://medium.com/@leandroembu/desabilitando-servi%C3%A7os-no-void-linux-745ca7db87ee"
+         }, {
+            "date_added": "13231003522604401",
+            "guid": "15455949-0acf-42e8-9450-b4450a431008",
+            "id": "186",
+            "name": "How-To :: Rosetta Stone [versão traduzida e abreviada] – Mundo GNU",
+            "type": "url",
+            "url": "https://edpsblog.wordpress.com/2019/09/10/how-to-rosetta-stone-versao-traduzida-e-abreviada/"
+         }, {
+            "date_added": "13231176472375206",
+            "guid": "539abab0-b6f3-44b6-81fd-ff91a1281a21",
+            "id": "187",
+            "name": "Domine o Winetricks e instale qualquer game no Linux! - Unix Universe",
+            "type": "url",
+            "url": "https://unixuniverse.com.br/winedxvk/usando-winetricks"
+         }, {
+            "date_added": "13231276603666775",
+            "guid": "730d3f8c-3eb0-417d-976e-28c34f099007",
+            "id": "188",
+            "name": "(1) Como Baixar Instalar e Traduzir The sims 3 + 20 Expansões - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=6yeIrd_7BPA"
+         }, {
+            "date_added": "13233108803154855",
+            "guid": "cedb51a5-868b-4dae-b23b-18dc170009e0",
+            "id": "189",
+            "name": "Abrir hd criptografado do windows (18) Open BitLocker Drive on Linux - Easy Step-by-Step 2018 - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=BS0bMxzwmpM"
+         } ],
+         "date_added": "13236035812412781",
+         "date_modified": "13233108803154855",
+         "guid": "00000000-0000-4000-a000-000000000002",
+         "id": "1",
+         "name": "Barra de favoritos",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13236035812412796",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000003",
+         "id": "2",
+         "name": "Outros favoritos",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13236035812412799",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000004",
+         "id": "3",
+         "name": "Favoritos de dispositivos móveis",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CrABCo8BCIiBAhKIARJ2CAISOAoGCgJibRABEDMaEgkA2Wd9hacFACEA2Wd9hacFADIYChYIAhGp+8OQhacFABgAIQAAAAAAAAAAEjgKBgoCYmQQABAzGhIJANlnfYWnBQAhANlnfYWnBQAyGAoWCAIRqfvDkIWnBQAYACEAAAAAAAAAACAASLDMo4apLnCgysOFqS4SACABKhhGbEVXNEVFcnNoWDQySEdVdlJwM2lBPT0SpgEIARKhAQocL0VLTGFVVXlNZGJLRWsxQmEyVWlueURuZjdJPRJOWjpBRHF0QVp3amRUY3NEbHVRR3FnK3piaXA4SDA4NFBjMXRwaGJCZTlHcmJ6TTNDNFF4ZWdJVlRGYkI1dzVtS3kxTXRNaGl6V3NIUUhqGAAgACgAMMLOvpfT8OkCOABAAEocVStHR0l0WkVEcFpzSVNsT1VhSVR1SUxkTW5JPVoAEq8CCCcSqgIKHHJzcGp5MHN3VEZPbHJLTzRNT3JQMDVJS2hVTT0SpgFaOkFEcXRBWnhoK1JrbFkva1hnOHRpVWdtTklBbTMzd3lGQmwxcVdieGYwbFgxdDRFYVJBL0IrSFExMUJtNmNZSjYxY25jQVdUeGdYMTBWNlRZYy9CckpKcGUxU3BDbXBmaFJNSUhZa3BzUTdnTk5YRnJMUHFKVFRidUpSQ0dCcXRjMytzdnNUeklzd3d3QUJSbFowNXM1OW94NjdndVVLNWV3QT09GAAgACgAMMOP2IKn2ukCOLytg9viLEC8rYPb4ixKHE1KOFZ4Wm9DYTQ0UzZXNkJjRXl4NjFaTCtOTT1aJiIk/////wAAAARmdVZpOVRJQWRydmtEMGNvL3B6WXErbG9qWDA9EqoCCB0SpQIKHG9tTTZiempnQU5iUDhMOEloOW1zMk16aE51MD0SpgFaOkFEcXRBWnhoK1JrbFkva1hnOHRpVWdtTklBbTMzd3lGQmwxcVdieGYwbFgxdDRFYVJBWmZBeHRnQ3M5Y1R4dXRlRjZxdU9FS1ZDN0tuSHplOEV5RDI0bzc1TzAwdG5TYi9NUStqRUpTMTR6MVAzc2VMRUlxelo3cXF2Yk85Uy9WVXg0ZThXT1B4N2ltUUxZYmJ1Z04xc25BYnJIdHZhT3ByQT09GAAgASgBMKfUxZjT8OkCONSJ3dXdLECf0MOFqS5KHGhDcW9YWG5Ndk5BSGgzQkE5RGFkUlV3aGU0WT1aISIf///8bE1mWlBVZ2hMOWs2QzUxeS84VmNjTnZLa0djPRKwAggoEqsCChxKVkpNZkZlbHZFUG82dEJhbkp5N0RJbnNWbzA9EqYBWjpBRHF0QVp4aCtSa2xZL2tYZzh0aVVnbU5JQW0zM3d5RkJsMXFXYnhmMGxYMXQ0RWFSQy82YW9FemQ3UkxhSk1lT2hoWjFReDZSdk00L01EaUlac3RlZjEwbS90dFBxMHE1S3phdWc0UjFHZXNjZ1RLL0FZV2ErNFR3N25Bd2hXU2lUOGFDS0hOMCtITmxvS3h1SjRBTUYrUkdLQjdjRzFLc1E9PRgAIAEoATCn1MWY0/DpAjjbrqe14yxApNDDhakuShxUQk9jbXBYV3NsSTdQUU9TS0RTSUQwa2I3UG89WiciJf////8AAAAEs0k5ZEM1eFdobytmd2VaMUEyRE5HK1cwcjFRYz0SsAIIPBKrAgocZVZ0RWphcE1sZEVmenRZVDNTTEg3YTZnRlpZPRKmAVo6QURxdEFaeGgrUmtsWS9rWGc4dGlVZ21OSUFtMzN3eUZCbDFxV2J4ZjBsWDF0NEVhUkNDWXBsOUpMSjVMS2xrYUpvbGpRSDBlTHZvaXVqa0ROZG1aNGhxRkdYaE5uQ1h3ZiszWHZsR0pPTnRhNjRZaWFpM0dHNlhCcWo0R0d0R3dDSTBzZWcwN0NhR21OenZhZmNtNE5FRWladjFoak9iQU5nPT0YACABKAEwp9TFmNPw6QI4lNiDq/osQK/Qw4WpLkocS25TK3gxL1Q3SEh4VzBHY29zYTkza01PVkdJPVonIiX/////AAAABu9NQjJqeURiZFE5VE5ZZlhpaFEyV2VFQjB4WUE9EqsCCCUSpgIKHG5abG82Mit5WW4zdmJ4ek9PWU95Q2kwV2t1az0SpgFaOkFEcXRBWnhoK1JrbFkva1hnOHRpVWdtTklBbTMzd3lGQmwxcVdieGYwbFgxdDRFYVJDY0lxdGR6ZGd6dzB6aU83WUhCT2ovL29BbEw0MVpLMUFPb3dXWW9jL3lyakNNRVphT01zTGw2QU9GbUJVeHFhU09BZEhhd0JxdmFaRlp0YkJYRG1RcnlzVCtNUDVDeFJIamdpOFB0OURzNXpiZ3VVdz09GAAgACgAMMOP2IKn2ukCOO7h2LPhLEDu4diz4SxKHFZEdXdBNGhDS0k3TU0wcG1QMmlWMU9sbm9yOD1aIiIg/////W0rRnVkTmQ4Wkc2ZUhIT1BJYzQ2YWhiOGVJdz0SsAIIKRKrAgocNUJTUXRzZGFxVDNOb3JsQWFIM2Z6R3g5aXBRPRKmAVo6QURxdEFaeGgrUmtsWS9rWGc4dGlVZ21OSUFtMzN3eUZCbDFxV2J4ZjBsWDF0NEVhUkR5TkZMMTJWdzloSG1jWmNqT0pSbmduQ3dnVExiUFBaNkZTZGtoWDZPZmNudHQrcUN6QmxsU2hBVG1sUVB6V0toakFGKzZ4bGVZamE0ZlA1RnM1RGNlVDgzVmpQNGhPaGZYUkxkOWtTTkFIWWhGdC9BPT0YACAAKAAww4/Ygqfa6QI45cDsvOMsQOXA7LzjLEocUXZnbWNsWWsyQlREaUhQZFo2MEZyRWo4Vm5ZPVonIiX/////AAAABNlwSWZjYUFVSGcyUTJMZjRzYkRYd215Z2VvcUk9EqoCCBoSpQIKHEpYTmxIdklTWDV0WXRJLzhGWCtLMXJtb0hjST0SpgFaOkFEcXRBWnhoK1JrbFkva1hnOHRpVWdtTklBbTMzd3lGQmwxcVdieGYwbFgxdDRFYVJFTUg2YVpzWE80ZFAydHRRdlBIajBmblVEL1gzVjZUM1FJYW1mMnVGT0plUUt4WU9NQ3ovWlc1NjFVSzRjSTNsUlFBa1dWaUJYdGtsdnlDdW5USEswRHNNMC9MK3dXeG1uNlJKS3YwUlV1ZzJYQlF0Zz09GAAgASgBMKfUxZjT8OkCOKGCl9zcLECe0MOFqS5KHG1vLzFXUDRPVDZxbjBOQlcxS255NE8xMGtYND1aISIf///mc1Z4TGFPdmdzSG1wR0RzUFprZjB1aTRvdFowPRKvAghCEqoCChx2eUwyZDRCNWZHeXJvNmRHWmJVRFRYUEwwM1E9EqYBWjpBRHF0QVp4aCtSa2xZL2tYZzh0aVVnbU5JQW0zM3d5RkJsMXFXYnhmMGxYMXQ0RWFSRmcxelFJdURBc1N6b0JJT3dBY2dpQzJJOVFMUXlGNlJiZ2VTLy8xRjV5ZHJ3QlVVTkkreGFuRFZwbS9EeW1lemd1M0dwNS8zUEMzZExwYklEaDJld3pzL3A1SW5SVUxYV1cwSTVyYTVtNnRJK2RmV1E9PRgAIAEoATCn1MWY0/DpAjixiY+zgS1As9DDhakuShwvbTg3VmxjZ3UvMG5HNm1Ya1FpUmxyNGFvOGc9WiYiJP////8AAAAHUTZadWZGb0NlQkVibDFqQUt0amM0NHZTYkF3PRKqAggfEqUCChxVYzlWcUZIVlArQWVvNi92TUhTcWhmeDZTdms9EqYBWjpBRHF0QVp4aCtSa2xZL2tYZzh0aVVnbU5JQW0zM3d5RkJsMXFXYnhmMGxYMXQ0RWFSR0h1ZVhqQVEydGtFTGRLNDBHYWVHTGpkZnVidHp0VGV0aE5XMUhtaTlqQTNjcUJSOWc2STlScVR3cWpVSWpQZjFjWm8vQVZBTGNEMSs4OCtpSEhaaWFxL2ZiT0JnMmdBVFVJSkR0RTVSNmhpRHB4NEE9PRgAIAEoATCn1MWY0/DpAjjB6c/K3ixAoNDDhakuShxKZ3lEbit2K2lLMVZKdC9Ea01tcXBmVzVNQVE9WiEiH////1RnQ0QrcVQ2NTc3K3hyTExxS2poQ042VFJ1dz0SsAIIKhKrAgocbmRaVTFIWHBjckdaVUlWZTFudUcwVXZ3Mlo4PRKmAVo6QURxdEFaeGgrUmtsWS9rWGc4dGlVZ21OSUFtMzN3eUZCbDFxV2J4ZjBsWDF0NEVhUkdSL3NKcmFzeEppYzVEcVJrTEl5ekZOazR5eitha3JsdDRxc01qV3lxNVFEb1lrMXB0cy9sV1FZRTVJakRaODJPZUl6TUFPQ1E1MHgrK2xLcWNMaXRjVXoyVmxCWEpRRlJyWTByTVNhbEdBZll6Znd3PT0YACABKAEwp9TFmNPw6QI4pqDjiuQsQKXQw4WpLkocUVQyNElSSS9JMFBMZWlMaFk5Q0ZHK0tTazMwPVonIiX/////AAAABOxDelUxVjh3MmxNVmdxN0RuUkdjUTd4K1p4NVk9Eq8CCDESqgIKHFdpZ2lYbnJ3Q3FzM1U0TkxIZm0rLzdDUkNDYz0SpgFaOkFEcXRBWnhoK1JrbFkva1hnOHRpVWdtTklBbTMzd3lGQmwxcVdieGYwbFgxdDRFYVJIS0MvaUhNTVE4MHNmcHN5ZnRZSW1PVFZicUdFOVY5dHZaOEtWd2doc291TDhhUnFCMzlsaE1QZUd2OUdIeTNMKzV6VFVEd2VOeHBvV3FzM2taa1EvN2dja3JScGlsMlJ3MkdKb2kxc3k0eFNEZ21OQT09GAAgASgBMKfUxZjT8OkCONvN1JjqLECp0MOFqS5KHFZqdTYzOUZ1ZEZJVHpPcUdnMVpEU0NLRHFrdz1aJiIk/////wAAAAVlRDJRNkd1VDFLUkw0TnJ5NnYvNnVEMG1aN1E9EqsCCCYSpgIKHDVIVkdndkxPT0FnbFVQUktzbzdvenpSbTFhTT0SpgFaOkFEcXRBWnhoK1JrbFkva1hnOHRpVWdtTklBbTMzd3lGQmwxcVdieGYwbFgxdDRFYVJJVTBOdUs1UWVnQkd1WW5IRjBld2xvYkhJWGt3ZlZ1VmFsWENhNzBNS0FHYmxvbGR3UEpHYktJSE5JZmozcTlhVVduR3l0cmhxc0hIVi9VeDhHYXdJKytsS05NQ3RpZTRSRENlcEt6NCtZU0QrSnR4QT09GAAgASgBMMvo8JjT8OkCONXQl7nhLECj0MOFqS5KHFVqZUVac0J2b1QwSmEyUlU1eDAyWnA1VDRPVT1aIiIg/////k9GOEFJR0ZMcG9KZVo5aGFtc2tveCs4cDJVRT0SqwIIIxKmAgocNmxVTUg3SXhmNFAvWW9WbFZUN3dwOGFobjZ3PRKmAVo6QURxdEFaeGgrUmtsWS9rWGc4dGlVZ21OSUFtMzN3eUZCbDFxV2J4ZjBsWDF0NEVhUko2R2FJSlIvU05xTjh5NFYyUkVlL015aFQyeDNjbkdIS1VhSEhVWVVtdDVsS05CYTFVaC90QVQxU0gwd3dVUnMzaHhkN051QkJlb0o3V1NaT3Fyb3ludFFQSTIwNjdDbGJLYXpwN29BUDNNd2JMYkRRPT0YACABKAEwp9TFmNPw6QI4z/fau+AsQKLQw4WpLkocRzdJclMyd21DTkZ1bllSajczOVRXQ2xUdmVvPVoiIiD////1R0I2WnBESE5UNFFVRWtqclpBSHh1aDFMdUhJPRKrAgggEqYCChxoVnVNUEd2MnhLa1NxMmxKaVJ6bFoxRjZJVHc9EqYBWjpBRHF0QVp4aCtSa2xZL2tYZzh0aVVnbU5JQW0zM3d5RkJsMXFXYnhmMGxYMXQ0RWFSSlZGV3kxS0RMM3o5MllpOXptRmprOTgwRjlQMGlXenU5SGtUSVJ2bGFUZithNHdzYkZJZjFEdnNxd1FyRGFRdDNXdkQxSUo1U2Y3ZGN4c0tBSVhab2JPUlFCK09GWnN3U1FQT2NlbVhPd0E5OUo0Vmc9PRgAIAEoATDL6PCY0/DpAjicy8XM3ixAodDDhakuShwweFpnQ2hHTUNFeG9JZ3dOc1ZjMjBLVnEwcDA9WiIiIP///6o0NUk3MnE4Q1VSVFdtUmhYa0NxTFdycFB5alk9EqoCCB4SpQIKHDBScWhZbzlFdXhEYXJZTTBwTCtUbWtaR1N5dz0SpgFaOkFEcXRBWnhoK1JrbFkva1hnOHRpVWdtTklBbTMzd3lGQmwxcVdieGYwbFgxdDRFYVJKbDM2Y3dULytrcUJqcFNxUGNGVFM2Rkwzc3FPQk8zbXBMMTFSNHQxamtQYVBVOXJlQXZLdVN1Uk9ERHVHdGtFbzBvSFlhc244S0RDeTVLUXcyNm53dm9RNzFqSlFtbm9BMUI3TDVEeGliT0ZIQjFHdz09GAAgASgBMKfUxZjT8OkCOJ/j5tXdLECf0MOFqS5KHEw3Mmxqd21RS2tJTjVvTFZyOHdVZkh1Y3JWRT1aISIf///+MUlNdmVMSnVXYnRmZnE5b1BOVHVnaEFGMVg4PRKqAggbEqUCChxaTk5oaWVmYkFMMkJSUVA3OWVlOE5KbFd2K3c9EqYBWjpBRHF0QVp4aCtSa2xZL2tYZzh0aVVnbU5JQW0zM3d5RkJsMXFXYnhmMGxYMXQ0RWFSS2VTTkU4bGJ5VVBzbWpocXZDRzFpRElSenVZUXJycmFnTkJzVUdzSUt5ak53ZThqSGhmZTBUaDFvTmFSdHR3a0lNZDVPVjNHV3RuUUZwYjltYm1kNlM0a3BSZlI1RnBYOTJENFUxYXdYUFEzbTVMSlE9PRgAIAEoATCn1MWY0/DpAjji2YqF3SxAn9DDhakuShwvaExTRlJzRHdEbHE2UWlBQm8rRzlROTRWVTQ9WiEiH///81RzZkF6VlRmMjlNK0JabnhrdXpteWw2MnZiYz0SsAIISBKrAgocQ2Z2cHF0UlNtR2s1MCt0SzhMc2crZ3dHMFFVPRKmAVo6QURxdEFaeGgrUmtsWS9rWGc4dGlVZ21OSUFtMzN3eUZCbDFxV2J4ZjBsWDF0NEVhUktoNzFnUklZNXhuMEdTZGNRZ3pNUnEzV0RkVzA4djRlbXZRbGVxdXBYWTVPV2h4RThaY0UwTTFscHNIRDdXVlBRb0liNHRGaWRJK0JWZU4vWDVqcUQ2a1FobUdPd1I1NmZFRG42MDkxekhJaUgxVVJ3PT0YACABKAEwy+jwmNPw6QI43sPLxY8tQLfQw4WpLkocam1WRDJXY3FEWW11dFlQc1NDVWp5QXJMU1lnPVonIiX/////AAAAB+9mbWJiZFIrSElaMTFUQTJmRFByZlpoTUMycnc9EqsCCCESpgIKHEpXNjJ6YldzOVJOdmFMdXlpY3MwM2hQOW1UND0SpgFaOkFEcXRBWnhoK1JrbFkva1hnOHRpVWdtTklBbTMzd3lGQmwxcVdieGYwbFgxdDRFYVJMRVRVSDRwL0gxMVdvcHIvamxUWFhLY1pvTXQyUWpOUndjWjNzUFU1ZUUzVDhHMzBxdEdjbjBRS3dtMmZLZ1B3SlhENEgvUmlXTFlrdTIwTFdQc3hESFlUdVgzVkRhblBwWXNvSWVtSktodWEzN0FUZz09GAAgASgBMKfUxZjT8OkCOPihkqHfLECh0MOFqS5KHGVqV01RbmlmQVI2T1RFbnE2MUtDSmttVXZWRT1aIiIg////1TJMeHVlK3E0dDd5YUdVSWc5YlpXM0diYnZPYz0SqgIIGRKlAgocNTFPN3JxYTZqaUJtdmFqS0sxN01aM05aRkJZPRKmAVo6QURxdEFaeGgrUmtsWS9rWGc4dGlVZ21OSUFtMzN3eUZCbDFxV2J4ZjBsWDF0NEVhUkxyT3FyaitFUFM4TjkvQkdwWFluQkJKMXFrNUhPQmxUUmxNN0QyN0NRdDEwbEI1WWJuV05vdE81Nm1VTVA1M3hhRUtvRWtUS2JPWWlrMGhWV3RadExqckZaQmNGZ2hDTVhDaEI4NWp3SXdtYUhJUld3PT0YACABKAEwp9TFmNPw6QI4tOSP3NwsQJ7Qw4WpLkocRk1rY1Z6VktzS2VtWlZJVzFkSzNObnV3YWFZPVohIh///8xET3UyNDBZczJld2UxcHltT2krcld3RTcrZEU9ErACCDsSqwIKHENqVTY0VVNhNDFPeDZ3NWg1YU5YeVhRbGVRMD0SpgFaOkFEcXRBWnhoK1JrbFkva1hnOHRpVWdtTklBbTMzd3lGQmwxcVdieGYwbFgxdDRFYVJNM3J4Tm0zRHRweml0allsMmJiVjBST000K0hIazNEaXNtcDl3eWM4T21aNkhmOFZ0WEdhbURqeE9uWmNtTTRJL0FpYnVuMjZ2a2xnK2ozRnExV3Zrb1Nha0tOMjBCZmwzckxxcHZwSVJFdXI4dnp1dz09GAAgASgBMKfUxZjT8OkCOKXUgav6LECv0MOFqS5KHGs2eGtkekd6d3RYN3pSMFdtWUpZamwrbDY3bz1aJyIl/////wAAAAbeWGk0SEF1NHZmWVFDMDc1N25Gb0c2bzNBWDdzPRKwAggrEqsCChxSMFJxMTJCMHE3Sm5Hckp1ZEdXVWJTalBaV1U9EqYBWjpBRHF0QVp4aCtSa2xZL2tYZzh0aVVnbU5JQW0zM3d5RkJsMXFXYnhmMGxYMXQ0RWFSTUVTeXU3YnpoVW9xRVNOclFNc3I5NlFhRVJWKzZ3QnVJUHZ3ZWhNRHljdkp2M3ViR282blJHOWgxeHYrS0JKdFFkQ1ZqQnRycjFWR1gvK2NvSjJmM3RISllyM3djWkprV05ySmRWRVp5QUNaMVNNS0E9PRgAIAEoATCn1MWY0/DpAjjq7cGz5SxApdDDhakuShxYOTFMb3hzRXZocjU1dVluc0orcU16TC94UUU9WiciJf////8AAAAE9kczalQvdjh2dWI0MWMxb2tzeVEzRFJFZ2h0ND0SqwIIIhKmAgocV1dqdXViYU5ZNVJkcVVkQjJOUlYyUDRBZ3lNPRKmAVo6QURxdEFaeGgrUmtsWS9rWGc4dGlVZ21OSUFtMzN3eUZCbDFxV2J4ZjBsWDF0NEVhUk1PSXhoS1NEMTF1S2t4VTJPUnBJczVwNmJ2ODVwR25ZVXhscW5ybGRoS29RSWtXZXI1VURUZ0dPcHhHRXBpUGk2aWRHRGNJSjFjV1NjaGxzNzh1eG9adlVWdXNJUzZzVysrUnFtSDAxdDNCbklxOFdnPT0YACAAKAAww4/Ygqfa6QI4srnNxN8sQLK5zcTfLEocUUpwZVBFM1NyUTRCYTBFU0ZBSjV4b2YwZlJVPVoiIiD////qUTJkV2NQQXVZYmxnR2JFdGJSbHN6ODJQeHdjPRKwAggyEqsCChw2TksxbUcxcGxWR2NWV3E4TXZwTStDaXR4dHM9EqYBWjpBRHF0QVp4aCtSa2xZL2tYZzh0aVVnbU5JQW0zM3d5RkJsMXFXYnhmMGxYMXQ0RWFSTVV4VmF3OGtTSTdsUThESVRXeVQrdG5DQTVvKzUwMVNmdE5LclZ5MkowUVZURTlBRGlDU1hlb1dtd0VGYWJXU0dPWllOOXhUS3hvZWhkamFnM1FMK25qYU4vVWVsVVE2bUpDOVlCZXY2WnpnVEgvQVE9PRgAIAEoATCn1MWY0/DpAjjzy/qZ6ixAqtDDhakuShx0NlBhbWVGbjVBRG4vV09CY3Y2L1NkN2xhWlk9WiciJf////8AAAAFsmRwOUFWbzdVeEF1bjBPMHdsdy9jb0lhRkM5UT0SqwIIJBKmAgocZ3lhTUtjK0FrWjBjSytGc0pYamNmYk9LMmw0PRKmAVo6QURxdEFaeGgrUmtsWS9rWGc4dGlVZ21OSUFtMzN3eUZCbDFxV2J4ZjBsWDF0NEVhUk1iblBDZ21VMkI3M1E1OEUwa0tUQ0NteDFlYndJellaVmVFcEw3YjBibUlKYjRZWFJJaW9EMzlOcjM4elhBME0rVk10QjNEanhjTTgwS2JKb1k5aFBRd0s0RHpPUG9TZ2VVRzJTT1FUQ0l5cFFxRTdnPT0YACABKAEwp9TFmNPw6QI4svTMvuAsQKLQw4WpLkocWUZocDhQM1JBTUo2TzA2ZG43QlVha0NQbU0wPVoiIiD////6TUZPRk91RTBncTY3Q3E1U2hpT2JsMERBMmlVPRKqAggcEqUCChw0ZXFlTzdQdzN5aTBIOEVZRFptbzRReGZwSEU9EqYBWjpBRHF0QVp4aCtSa2xZL2tYZzh0aVVnbU5JQW0zM3d5RkJsMXFXYnhmMGxYMXQ0RWFSUE4wWVo3clo2RlVjUmJTYytnU29jQ2pTdTR6YnMrZ0kyODQxRWVRUEl3VnJSOHFuUXlKaTkxd1BHa2t4SXowdkdZblhYVjZsSDRCVGwxQmRScHBsZlRoY3kzakJ3Nk4vbVFMNlFqaExzK0V0YW5kSlE9PRgAIAIoAjCQqdnD0/DpAjjx6qrT3SxAuofJhakuShxSVENjVlhvRHc1K3RXa2ZqVmR6d3lHQ01PaXM9WiEiH///+TZ6RUlPQVFMV253QW5hdW1ndjJkd3NVeGQ1Zz0SsQIIhQESqwIKHDlucjFwekJXNHhMNUxXSkpiN09yYkQ0M3Vnaz0SpgFaOkFEcXRBWnhoK1JrbFkva1hnOHRpVWdtTklBbTM0YlhuaFdzZHFiN0IwMjI1ODNtWW9BT1JpakJhcUQwMm9BbHlpNy9GSCtUMTJzbHV6bENFUk1Qc3YxNTVTK014WlM0Y0tMdG1yb3ZSdjJ5b3pBazF6eTFidi80UVpjME5UK1ZNbFI2MVdteGJraDlGTVB2MjBMK2REVVlsNmhNUU5GRTlZQT09GAAgASgBMMvo8JjT8OkCOLHx7cu6LUDa0MOFqS5KHE16Mk5jS0xaclFmakp1UmRYdG5SdVYyMmlyND1aJyIl/////wAAAA79MkVaaHJDUVVXcWVMQTNPS2JHcDVXbVQzcXBrPRKxAgiNARKrAgocMEczb2xCNE1KYXRaeTkwOTRrR1hMbmErUyt3PRKmAVo6QURxdEFaeGgrUmtsWS9rWGc4dGlVZ21OSUFtMzRiWG5oV3NkcWI3QjAyMjU4M21Zb0JJcHJ5T09BUkhaMTkrWUNiSU5NOURNWllyY1ZteVpFRnp1SU1pM0pOcnRPWUUydXZKbUt5bStsbXVWYndyMXA4VFV5UG9tWGRQcDZpOVgybTREOEU0R2FUMHBiQ1lNSEozWHpYR2NWRnZ4YVVZVjh3PT0YACABKAEwp9TFmNPw6QI4soSSl7wtQN/Qw4WpLkocdk13YzRrdjBnRUh3SjBncDlCYUZWaDRteXJZPVonIiX/////AAAAD/tVVTMrRzUvOURhdnZKQkM1cGRMeXdZMjZ0dVE9ErECCIwBEqsCChxHTUZvUEY4bFVJNGJwM0xyZmlSOW9VZ2RqYk09EqYBWjpBRHF0QVp4aCtSa2xZL2tYZzh0aVVnbU5JQW0zNGJYbmhXc2RxYjdCMDIyNTgzbVlvQm9zVUx4UUc2dHU1QTdxQzh6Nk5BaW9FSkd0LzJMaEpKMnVVVC9OdFlBbTYrMzUzaVJ4S3hlZnhiZ1Nwek9KZnYvRHdoWU1PWDJaOHhuaGFJUHk5Y28yVmJsU29yMnU0WTRoMEZOeXFIU1pldU1GdWc9PRgAIAIoAjCQqdnD0/DpAjj61ZGXvC1AuofJhakuShxCY0FWZ2tERmJsWUhmblpXSXlwQjl1YWFURjg9WiciJf////8AAAAP9k1acUpuZDJNcC9KUEt4eGt4dFpScmVsSElJdz0SsQIIhAESqwIKHFBVdlRwUDByQUp2MGFjMm1BT0JlcDhQUU93ND0SpgFaOkFEcXRBWnhoK1JrbFkva1hnOHRpVWdtTklBbTM0YlhuaFdzZHFiN0IwMjI1ODNtWW9CcWJ2SU5kQzgwR05SMU5QVmpBVk9OZkJHbWFlKzIwWXRXNnJLcHgyWWxQTTk3RzBpeWZCaTUrRkZOLzlhVnlnVkM4YkpaNnVqNDBYTkdvZmhVU2tsMTFPVytIUFZ3cUdNOUxMYlMwQzRycWNwcFZzUT09GAAgASgBMMvo8JjT8OkCOOe3qrS6LUDZ0MOFqS5KHEw3QlN2b0tBelRzUmNVUWlueXljTXl6cVZHMD1aJyIl/////wAAAA77TktPQWdsdzJVK0RZNnZiY1c4RHZiaTlYRFY4PRKxAgiDARKrAgocZlRPZFlpdTluNU5SdVljSWtzWEN3Y0dBdzRzPRKmAVo6QURxdEFaeGgrUmtsWS9rWGc4dGlVZ21OSUFtMzRiWG5oV3NkcWI3QjAyMjU4M21Zb0R5b3dUNjdkTWQ2VHZYOGh3TWpySXo1SFpscGQ3S3VnZnlWV0k5ekV0bDRqeE90TXdWRHRBeEhqRXFQOGc4bmRDZ1VNNzVkWkZ4UGRwUEEvdlRGK0tYS05ORXlZdjlHTnJaMnJtUzRhT1U5MmQ5WlhBPT0YACABKAEwy+jwmNPw6QI4zuXTrrotQNnQw4WpLkocTUk4YXBIWjBZa2w3UU4vRzlPVFRBZVRHSmYwPVonIiX/////AAAADvZhU295N3hUdVZpdkFWUlZvRVpRYkx1NnRvL0k9ErECCIoBEqsCChxaQW5EbjI5MHN2V052dmk5MFhVRldiOVE2Vnc9EqYBWjpBRHF0QVp4aCtSa2xZL2tYZzh0aVVnbU5JQW0zNGJYbmhXc2RxYjdCMDIyNTgzbVlvRWE0UUJKcmlqRnl3Unl3WlE4Z28xWTNiazBoUTkwbXFaNFRDbURnOXBOS0l0OVFCektEanJ5ZFh1Uk5qMUpoNUZIaFVmcVJZVkNrMnEveVZLbklnYXFaakUyUTVPUkd0Vlk2T2pjZDJUWFZWeFhuWEE9PRgAIAEoATCn1MWY0/DpAjjHrY/+uy1A3dDDhakuShwwdGtNNGFuRFBFRVpRaDVGUm80YjBaeTdFamc9WiciJf////8AAAAP2mNpRXZ5dmxrUEJZbkRvZEdOaXh4eGFQSWhvUT0SsQIIgAESqwIKHGU5TE10cVBZRkdXa3hRUjNONzlrUHhkWlpLcz0SpgFaOkFEcXRBWnhoK1JrbFkva1hnOHRpVWdtTklBbTM0YlhuaFdzZHFiN0IwMjI1ODNtWW9FbGR1dUxSekRCeHRzQU1RYzJ3ZDlqYmVsZXYxSjY3QTZhdGYwYlVqTE4wUE5QSENTcUdONXo0cEI2NnBiSWM1aXhRNVhJTTZBeUo4dXNWSkJpR0VEVTdRN2RrdEsvVTYrNU1JandVYytvS0FKMVdCZz09GAAgASgBMMvo8JjT8OkCOJ+tuqO6LUDX0MOFqS5KHHE5Mk1LNTh1R29yS1k0M0FwTU5hcU1jMmxHQT1aJyIl/////wAAAA6yT3JWUHRlN2hpb0xlN0pMa1lPWU9sYm1pelhNPRKxAgiLARKrAgocbStJRXdLL1FISXJOY1A3cUg4M1loNVk1Q2dRPRKmAVo6QURxdEFaeGgrUmtsWS9rWGc4dGlVZ21OSUFtMzRiWG5oV3NkcWI3QjAyMjU4M21Zb0lwUzlTS1RHN0s2NDVleUxMRldNYXZJekt2My9NS0w0OHAxS21NWEcxRXJuVlMxTlgzRENIZzJBcERXSGhlY05FcmVQOWMwbU9hUDVaOGkxVzg5NVBpNlpVbmNCZVMzMEFXTUJpU1hLVjZGNTRaamRBPT0YACABKAEwp9TFmNPw6QI4w7GykrwtQN7Qw4WpLkocVE5sMUJxbFNHbkZURkt2NjJlOFhzTmkvZS9vPVonIiX/////AAAAD+16cmtaQXFaYUt2VUxpME1RWndsRGQ3VGV5ZEk9ErECCI8BEqsCChxkcGp0OHRCQW5RZG1MLzdleWFubjhmTFRPekE9EqYBWjpBRHF0QVp4aCtSa2xZL2tYZzh0aVVnbU5JQW0zNGJYbmhXc2RxYjdCMDIyNTgzbVlvSkFuL1NpQWlCVW1FclNCWGVHVUxuckpsSUd5MjVJU3hxVVo1SGNsTnZHTjJaOHpqeHlpVWFNbElKam92UTFJNWlsRDZwZDQxemxpZEdQaGJVQlNSQkFaK05aR0JRWE4vOTdMMHR5MmpDZHFNRlZTSFE9PRgAIAEoATCn1MWY0/DpAjjL7ObBvC1A39DDhakuShxqMm1hRyt3cjRmUFd1ZFUzb092UHpMdGtzS1k9WiciJf////8AAAAP/mpybVlKSkFvMk5ReFBiRkxib29HZHpMZzNlMD0SsQIIiQESqwIKHHpNOGxDdlBscUJ5QlhBZmZoZmlPZFUrZkRXMD0SpgFaOkFEcXRBWnhoK1JrbFkva1hnOHRpVWdtTklBbTM0YlhuaFdzZHFiN0IwMjI1ODNtWW9KUW80SkVEd00xTDdZUkJkYm52cmVtb0oxQlBFMTd4TnNvaUtrd3pYSGgra0hVamNGOVc0UTZSTUZGODVrVnAyUnRTeDZkcDI0ZUxKRlgzaGRDajBVc0pCWHBlSVcwak1mSmlQWWVOQVVPMys2RitkZz09GAAgASgBMMvo8JjT8OkCOJ2Ej/67LUDd0MOFqS5KHCt2clRIcThrVmdNY1BGRFRKREhpWjkwMnIzbz1aJyIl/////wAAAA+1N2Q3SXVNNTNCckNFWWdoVDJwZjFGVXFoWEJFPRKxAgiOARKrAgocVzZUVG45ZXV3dW1Bb1I0bldzak5WZVBLcEpnPRKmAVo6QURxdEFaeGgrUmtsWS9rWGc4dGlVZ21OSUFtMzRiWG5oV3NkcWI3QjAyMjU4M21Zb0pmR0ZHV0M3YzZISUhQdkRaQW5ZOWtKaytXaGl4OCtCTFBaaVBZbUUrWmJXcTJyU1dzaVl5M0lVUFdiNGZCNzF4NWlzSEt3cEE3TFMzOExaOCtZZC9LQS9CTHpjNmsyZkJ1OWRIRS9FM1FZTnh2ZENRPT0YACABKAEwp9TFmNPw6QI4nIXgwLwtQN/Qw4WpLkocYmRIZ1FrZElVZW1GOFlGQXQvU2cySVkvL2xnPVonIiX/////AAAAD/1vazg4UWRNSTBaVlNuTmZRUlJwMjRsM2U1WHc9ErECCIYBEqsCChxFSXBqRCtHSVoweFZ6Yi96MVduZ0VmMjFOdUE9EqYBWjpBRHF0QVp4aCtSa2xZL2tYZzh0aVVnbU5JQW0zNGJYbmhXc2RxYjdCMDIyNTgzbVlvS0EyK2FlWmRWUTdKVnIvYVJkRm9OR3hZdnEzQVhxRUZscHpvNTE4MG9GL1YvYXdTTlEybUFOd0F0M1E0VXlmbTNMUUtPbkRrTlZEMElWMjBodHZEV2lmWFVlUS80SEQ3eVFxeEVnNUtZVE1nVWFwMXc9PRgAIAEoATDL6PCY0/DpAji/54H8uy1A29DDhakuShxBenRZTG4rTFVzQjZ2WWtsYlVnNWpNY2lQTTA9WiciJf////8AAAAO/mdIQjMxSlQ2ZXhuTS9Ka3RDY3lWTWpUdklzWT0SsQIIggESqwIKHGJydkg3K0pYTkhIWnFtSGliREg2Y3J5R3ZsOD0SpgFaOkFEcXRBWnhoK1JrbFkva1hnOHRpVWdtTklBbTM0YlhuaFdzZHFiN0IwMjI1ODNtWW9MYlFLMG5FNUhVMEsyQUJ0amVtTmw0MlZKaGRhOU0vaXBvdDNRbHdXSXVkMnBPOGRhQk1JYlVobGJCMUo2cXo5c2JrNnZ0Z2FJUmFDcHQ5L0VMZ2Zha05yMG83SmtSZVdnZ0gxaDlIWVZycFE1LzZaUT09GAAgASgBMMvo8JjT8OkCOJmhwa66LUDY0MOFqS5KHGlwZlBMZEt0VFNRYWpMV2Y2MnhEZjc1b09nUT1aJyIl/////wAAAA7say84NkZhVVoxcVBXeUxSTDlnK0cxYWNkYzBrPRKwAgiQARKqAgocVnlNWlZxc0pGWUY0U0FWRGdjd05XYnAwOU8wPRKmAVo6QURxdEFaeGgrUmtsWS9rWGc4dGlVZ21OSUFtMzRiWG5oV3NkcWI3QjAyMjU4M21Zb0x4a3hOZUZCeDFiVnUrZUdHd2RLYXdobC9aL3phc0FWcDVmU3REUEZ4aks4SFRTQThrK1Y2RTdEMTBkOGtKdUduWjNvbjQvMDZBYTUzRHlrMVE5NHA2Tmw3THB2K29SUXNhV3NraldzR1NCZVI1N1R3PT0YACABKAEwp9TFmNPw6QI4+5XO1rwtQODQw4WpLkocMWd3SmRvcEJta0tpLzZZRXMxamhIU1hSRFg4PVomIiT/////AAAAEFhMcHZJa1hpemIzQ1JjN1NsaTd0djl6dUlXUT0SsAIIhwESqgIKHE03cXJHSFRsRkdZVWNIMFkwVWlxSzhjT3liST0SpgFaOkFEcXRBWnhoK1JrbFkva1hnOHRpVWdtTklBbTM0YlhuaFdzZHFiN0IwMjI1ODNtWW9OdHB0Z2dqTmZUOXdTN3RNekovOFVTcU5KYjd6Z1diUWI1aEMzWTFEbC91ajJONU1uUStFOEVOb3NDVGxzTFhJRDZZVFZpQW9ZWXBrZHE1Q2U2cVdxRGIzTFdHME9iV0NFODl4aCtYbXdOSlF5NWZjZz09GAAgASgBMMvo8JjT8OkCOP64yv27LUDb0MOFqS5KHEFRVjI5S3ZCWWRTTUFNL3VPTE1nR25rTm9Fcz1aJiIk/////wAAAA9lMW9VOWozQzNRbjBKTml5NDBOazMvbFlXUTQ9ErECCIEBEqsCChxJWDdqbFVJWXU0M0srMXhaSzBEUStjWEpzYU09EqYBWjpBRHF0QVp4aCtSa2xZL2tYZzh0aVVnbU5JQW0zNGJYbmhXc2RxYjdCMDIyNTgzbVlvT1dueTFaQjRpR3Z2NEt3WUNvZGwra2h5Z3h5Y2dqN1FYS3NWQlVyWDNxdEJFSmRVd2kxNUVFaCtNSUlGNmFYMm1aZmY3QVZkTlJuSUpySDlJSy8wemhXQmlkRVdqYWo1d2JWaEduWjFabW1Sd1h4YXc9PRgAIAEoATDL6PCY0/DpAjir98Kmui1A2NDDhakuShxBNllHeExtRHNjN0VXVitDVkx5WjBEVWlqaDA9WiciJf////8AAAAO2VJBeXFROVVscGpRTzRFK1dzc2kwUU9ieTlNaz0SsAIIiAESqgIKHE9JWG1WZFYvNTVjV1lyRERIK04wU0tLS3lGST0SpgFaOkFEcXRBWnhoK1JrbFkva1hnOHRpVWdtTklBbTM0YlhuaFdzZHFiN0IwMjI1ODNtWW9QWGVJM1g0NW1rSWExOU51WGRCTHlQN0ZNV2EvL1JDRnFOTzFaVUZTSHdYbER6OEMwQkNZRGxaZXFhWHNnR3kwL1NjZWFFQkFrY21VOTlJMm5RalBTZTR3MHk0YmJ5N0tJeXVGS0dRV3FXOEdjZnVPZz09GAAgASgBMMvo8JjT8OkCOK2B7P27LUDc0MOFqS5KHGJTa3ZzUXF5T0FXR0pqckUrM0QreXB1UnFLRT1aJiIk/////wAAAA9renI5N3owalgxdXpncFFhYnpDMjBXZkF5bDA9ErECCJcBEqsCChxZbUpseGllVWFsbmFoRHB3SXJpT2pNZERaZjA9EqYBWjpBRHF0QVp4aCtSa2xZL2tYZzh0aVVnbU5JQW0zNWhiY0pTU2cza0crU3lsc3g0anVOQXYrdkZTWUFXUjJDam44dm5kSEV3MDVxOHlFWTBORTlCSldzMHlKMFNCZmJJYllQOFhlcWdvRFAwc2hUancrYk5wVDFWMjZhTXRoYnZPdk9leWNQcFA2Z2x6c0FndWtIYkptMzIxUjE3VVBzQlVyVVE9PRgAIAEoATCn1MWY0/DpAjjIpLTJxi1A49DDhakuShxucE9IVjdjcmhaOHNMekF2czR5L0szbW9tV0k9WiciJf////8AAAAQ+0N3b2NBb3FzTk5nZVJUZ2t4dnJHTTZDa0QwWT0SsQIIlgESqwIKHDNUb2pkR0lub1Fuc3RaclRNblZJQUZXNzJYND0SpgFaOkFEcXRBWnhoK1JrbFkva1hnOHRpVWdtTklBbTM1aGJjSlNTZzNrRytTeWxzeDRqdU5KM2tQWjIwVjRPUm10ekNtR0dJNXVhZG9VYXdzcFFCaEswcjZFa1FCNEluWXoxdGJsK2hLRERiU2JRbjFxWkNyT0MxK0twTG90OE92NDdKbHZMRG5SZHUrMmIxcG5iNWh6ckJva0wxb3RPekIwWUF4QT09GAAgASgBMKfUxZjT8OkCOI3NlsnGLUDj0MOFqS5KHFlaOUZnMnhvM1ZSK0tZaXhSbVluZ1h1OSt4UT1aJyIl/////wAAABD2Yk5MMHljMThSdUV3L0tyZzJUMWNqZm1TdjVzPRKwAghSEqsCChxJMmYxS29FTW5rQ0E5UzZob3RDdjJxTGQyVFk9EqYBWjpBRHF0QVp4aCtSa2xZL2tYZzh0aVVnbU5JQW0zNzhJMXl0UHJDKzE5OEs2WkRzM2FHQVEwRkZJSm1ESWlLS2ZzUXJYUnEwbG0xdHovOXY1blBLaHpqbEd4KzZzZzF1dHp3eG9xakVzdWxmKzdzUXprV1lXek96cm9OSFQvUHhXUHJmUlM2Z3FzR2U1aU9IVW94Q2ZvNmg0Z0dFV0NRblRZNXc9PRgAIAEoATDL6PCY0/DpAjjMxem7ki1AvtDDhakuShxJOG03b2o1b3VGalNub2xtcVg1VVVFNmVCb2s9WiciJf////8AAAAI+zVTY3pMTG14UWZPRWxIRm85aDVZK0hxNWV0TT0SrwIIVRKqAgocVmN3WUJOMEY1TkNGd1pWMkFHelM1cmJ6dVRFPRKmAVo6QURxdEFaeGgrUmtsWS9rWGc4dGlVZ21OSUFtMzc4STF5dFByQysxOThLNlpEczNhR0IvL05UdnBDMjJSQW8vbHNnN1JLdkd6cWsyRk5ZVTYwYXl0Y2NHV0dZd04vNHJDWHlGT1gzcTM5cnBKYzFuVzZiQ1BhYTBjQ05hbmFCYyt3TDlaQW5lQlZ6eERtZHhZSjlmdUJycGx3N2RremtJczlRPT0YACABKAEwy+jwmNPw6QI4mujEv5ItQL/Qw4WpLkocc3hlSS8vUHlyWE1wQWlTMEdPRHNnZlJVcldzPVomIiT/////AAAACVJNcTJreVgyTDhyb3RTbGduTGQvaXk0UHFVOD0SsAIIWRKrAgocT1hFUloyK2Y4OE14aTFSOFRzN25QVkp4aGI0PRKmAVo6QURxdEFaeGgrUmtsWS9rWGc4dGlVZ21OSUFtMzc4STF5dFByQysxOThLNlpEczNhR0I1bmFHcnVSeEQ0ZXkxMWxqUkhWeDZ3QWh0L1gvSGZBb3pmZWFPcGxCTW40TENyNmFCZ0VDTXFiNjFQUHdIV3Bvbm5JYXNNeDRVT1FweU5jNDJhUEdoaXc0K2NXRnpMQjVDbHhmdlcxZEs3L2wrSVBnPT0YACABKAEwy+jwmNPw6QI4ldXT4ZItQMLQw4WpLkocSUdRZW80QjJiQUZkWG1QdWo5VS8ybTlPeVBRPVonIiX/////AAAACe13c0VXNFBZcFI1a3QvaHB2RTVISGxvZU5LNDA9ErACCE4SqwIKHFh3SkF3ZVFXdXI1RG1IYnJRM1MxMkxKR3RkST0SpgFaOkFEcXRBWnhoK1JrbFkva1hnOHRpVWdtTklBbTM3OEkxeXRQckMrMTk4SzZaRHMzYUdCbUlJa3h0WTNtTG52T2gzRVFiVE1lT0VkN3NDOGR2Smh1SnNIWFkwUzc4R3RXcWxLaU9vUklrZ0QvOU52NEdtMEtJZE9BVnNKQnY0U1JnWkl4ejZrenE0dXV0YVRJSzdqTHVrSnlZR1IreDAwamxMdz09GAAgASgBMMvo8JjT8OkCOJ+/2rKRLUC70MOFqS5KHFhQdXhXUEp2Ujg5dmo4eStRZ1hvL3N5VXdzOD1aJyIl/////wAAAAi2a3AyZVNGUllXNnR4dTJ3UGcvTjd3Vm9FQmd3PRKwAghREqsCChxGeTFtT0ZGYVhUNVVORENTN0VZeWZmaDZFOXM9EqYBWjpBRHF0QVp4aCtSa2xZL2tYZzh0aVVnbU5JQW0zNzhJMXl0UHJDKzE5OEs2WkRzM2FHQ0piOGlZVmVJYk9wTVBzVDA0UXB2V29jVDNFRGtmYVNTenZmV2tON2RWTW1HeHd6MzdPSWhpYkRBTkRKSlYwRExVQ0psOHVYdXFnREJ0MCtpSGp3QncwQjRHZGVvT2NqcjFVL2RnZ1Z6KzBCOXI1eUE9PRgAIAEoATDL6PCY0/DpAjjcwOe7ki1AvdDDhakuShxjdUFQbitGa3RqdmZSbmtVYUowVjNvRy9wUFk9WiciJf////8AAAAI9m5Kc1B0RE9MRDlsMEhwYkVBRS8yL3MvNkpicz0SsAIIVBKrAgocalpVblErY2dxekhVQzVUaXE1MElVMGtyaUVRPRKmAVo6QURxdEFaeGgrUmtsWS9rWGc4dGlVZ21OSUFtMzc4STF5dFByQysxOThLNlpEczNhR0NhMXMzbkNEbUEzU09PTjk5S29TQ2NxN2xBTXNjQVEwS29XR1hEQ1hlTmw4ZHBLYVVuTTJSOGw5YWwySkwrMUF5ek1FSngreUdRc3hGU0VwWktqbkx3WTh5L2NrSS9Bd0RKKzNuUWNoWDBjRXNhUGl3PT0YACABKAEwy+jwmNPw6QI4xMCtv5ItQL/Qw4WpLkocRWFuRWRmV09hUUFXcmhwaysvVkhyVy9KTE1RPVonIiX/////AAAACP53U3cxZEFNaWR3Umd6eUVOVnJPVTl1NmFWbWc9ErACCFMSqwIKHFVHWEcvRXEzV0VkaU55UjdQS0ZNeFEyd0JtOD0SpgFaOkFEcXRBWnhoK1JrbFkva1hnOHRpVWdtTklBbTM3OEkxeXRQckMrMTk4SzZaRHMzYUdEQzFpQ0xFZ1QzcnZNRk5JUkVHVVJOa0J6MEtnRG4zZzhremNDNHcvZkNRNXdhdWZzeU12YnNpdXlVbSthemdkSVVCUXZCRFY4OG1IN29FYXR4eU1wUlNVV1ZBSk04a3V4ejhuVUg0cDY1SDU5Q3BBUT09GAAgASgBMMvo8JjT8OkCOMe7ur2SLUC+0MOFqS5KHDFqdlVZdk1yMUxCaWI3Y3Btbk13eG5iWWhSUT1aJyIl/////wAAAAj9ZUk5YTE1cWJnajhsaDN2MmFIRXJ0dVk1RlRFPRKwAghXEqsCChxzaEY2bkZvajRZSXMzTnJNQUVwMWNoaFRHNjQ9EqYBWjpBRHF0QVp4aCtSa2xZL2tYZzh0aVVnbU5JQW0zNzhJMXl0UHJDKzE5OEs2WkRzM2FHRE5PenpXNlpEWElZeFZjNi9lanNjTk80Q0pkMFA5WlEvVzlDVHJqK0xoNDV6N08wcHY4MHBPWkI1VFZJQ1M3NDVjcVUxVGcvZmFCT0Fjb2NMcUxQQU9sWUxEWG0yNUg0WlRHNjV6Uk9JV1R2NlorZWc9PRgAIAEoATCn1MWY0/DpAjiKhqffki1AwNDDhakuShxSVU9CL2F1R0hHdzd3VkgzZEdTaG1qZjhUMFk9WiciJf////8AAAAJtTVRU0RwdTRDUEl6Z2Q5ZUY4Vm53TFEzbkFhbz0SsAIIWxKrAgoca3VlSHVHaWlDL2FFTU9jVk5KU1hndVg5aUlnPRKmAVo6QURxdEFaeGgrUmtsWS9rWGc4dGlVZ21OSUFtMzc4STF5dFByQysxOThLNlpEczNhR0dIdGNsRlRVSWNBcXZaWnpUKzlXSGJ0MFBpSnNNNWc4dkxJU0RTYmxCc214NWhaVytRYzVONmxobEc0S205eEtBcGtRV3pDNHJ2bnFFRy9Jam1ObDJGSXMzLzFjZ0RQTkZMclV0dzY5SGJtM01OdDRnPT0YACABKAEwy+jwmNPw6QI45p/u85ctQMPQw4WpLkocTkVkanR0ZEY0MEFHS1pXa1dyQWhva1dFMVhrPVonIiX/////AAAACft4OGc4YVY3VE56TlNIR1F5YjZJckNwNDZveVE9Eq8CCFYSqgIKHGZMZWN6TXZDNllXRFo0RVhOQ3NDOENxL0lEUT0SpgFaOkFEcXRBWnhoK1JrbFkva1hnOHRpVWdtTklBbTM3OEkxeXRQckMrMTk4SzZaRHMzYUdHZXQvSDcrUE1QRnJrazk1dkhJS0hwemdjUk56VmZoQ0xEWkNxK2FrdEJya0JjbHgzQzAvZzk5VWdLYm1ZT0xSWUVPL0ZTdWJLdVZvSHZLMmNlMVM3SUxHc1VSQTg4cm1wS1pGbHE2Qmt5bE51WW04Zz09GAAgASgBMKfUxZjT8OkCOLef2r+SLUDA0MOFqS5KHEl0azVwNUc4VGJCYUF5TXgvK3pzQzFNOE9BQT1aJiIk/////wAAAAlqS3dzR3NNRkJRb3BaclFaTStwbTNSRnVHVG89ErACCFoSqwIKHEYyQmRYSVRHcmorbHJkRThCRVlzaDBmQ3htUT0SpgFaOkFEcXRBWnhoK1JrbFkva1hnOHRpVWdtTklBbTM3OEkxeXRQckMrMTk4SzZaRHMzYUdJZmw5eXRVczZTeWVaQTFMWXlZeUJKZmFad0pLNmJmTUZzWDFvOUxOYUh5N3NJS3h1cjFmM042eGlTNWwyZi9peEp1eUdzVzdHSFNHM25zNFJaVlFic2NZTElUM1Yra05PQmJjY0UvZXlBQ0g4aWxxdz09GAAgASgBMKfUxZjT8OkCOMiI5I+TLUDC0MOFqS5KHDRxeTBLUnpuaVRIOFF4UmQvNTNVd0hRcERqZz1aJyIl/////wAAAAn2L1RsNFJYWENoUThqTWwvaUE0MGdidnZ1Wm00PRKwAghLEqsCChwzcm5jZG1Wa045MGNYQmh3YjZFQXpBZ0RaQjQ9EqYBWjpBRHF0QVp4aCtSa2xZL2tYZzh0aVVnbU5JQW0zNzhJMXl0UHJDKzE5OEs2WkRzM2FHTHVudzNkZC9YNkkwU0pPQzZqKzBWVFZSdWVXaWkxRnBUUGE1cVgvbVJJaEJsZ3BhM2QzRHFsUVdrL2NKYlYzM1F1Q0h0K2lGQmZIWUNQVXo5K2tpM0pSNHIrYXhacU0rNVdjWk1LaXEvTThJSFFSN2c9PRgAIAEoATCn1MWY0/DpAjiTifuZkS1AudDDhakuShxtaWQ2eHFMZkZCcHNuellkSy9uZWtpK2tQRHM9WiciJf////8AAAAH/TlQVlZCckNTZzN0THN6NlBCQ0Q0QXd4SGN4MD0SsAIITxKrAgocZThzOGVQc3dPOVJvZDBMTjhoaUNpSDlyRGI4PRKmAVo6QURxdEFaeGgrUmtsWS9rWGc4dGlVZ21OSUFtMzc4STF5dFByQysxOThLNlpEczNhR0x6UmJaRlNBZHhnQVBJWnBMQ1N5ZTB2a0dpRzRtc1c2SHBGc1NsNlZCeVQvZGNVVElWb3F6WDlRY0RDNGZBYXFDMDM4aFRBS294K3BLWUQ1clYvV01zMzJqM1BnZEZxbnhPMU4vSlI5K0tGWVg2MFZBPT0YACABKAEwy+jwmNPw6QI4tPj8upItQLzQw4WpLkocZ052RmVvaU8xeFdrMlRSWUNIZ0ovMThMYTlzPVonIiX/////AAAACNtNOFhEQ2s3YVBLajFnTEVvTU5ZTXRMUXZxL1E9ErACCFASqwIKHCtMTmVUVGRpd2o2SnV4N3FpNGVQdmtMTFBWST0SpgFaOkFEcXRBWnhoK1JrbFkva1hnOHRpVWdtTklBbTM3OEkxeXRQckMrMTk4SzZaRHMzYUdNc0ZFbnhRZFhKVVhnT3h0UFEvWHpwdVNGY0F5bXQ2TnEyMjQ4Q0xpL3FoUXZDMkdSUTJiRk5GTU5QYnJpNElRdW1SdlAyck1XTkZlNHhyUkp5djdGKy9lalJjZSt2VVAwbkJ3Ulp3YlBGOE1xRHhlZz09GAAgASgBMMvo8JjT8OkCOPCJhruSLUC80MOFqS5KHFRnRUlLbUxyQjljNHNodzRjdlB4amVIOU9pVT1aJyIl/////wAAAAjtY0JEeUFiUlRvb2JiWUg2UHdHZkpxdndmaDVnPRKvAghNEqoCChxrRUxFS0ZmNk8wbDEzWm9XVVJmOTBmLyswS2M9EqYBWjpBRHF0QVp4aCtSa2xZL2tYZzh0aVVnbU5JQW0zNzhJMXl0UHJDKzE5OEs2WkRzM2FHTkc1eWlTYWVWMlcxRExpTlJ4UU16MktRZGRBUzErUlIwUENkR2p1YnljK1RQVWNZKzBiQ3pRM0hyb1FybUEzeGY3dGdoSi9IcTBwZXBHQm5ZTEV0c21yd2xWTC9OUWZ4cFR0aUFKbDU1RnpjeXE0cmc9PRgAIAEoATDL6PCY0/DpAjj2iYOykS1AutDDhakuShxRZXJUbDJPTXNZcWU5ZzUzUjFucG5oYjhKZTA9WiYiJP////8AAAAIbEtkMHltOGRMdFVLWTZwN2FXYi9zVUtPUStFPRKwAghYEqsCChxFbUNzTUFZRDN4R2g3WklEVm5SaGRadnRiTVk9EqYBWjpBRHF0QVp4aCtSa2xZL2tYZzh0aVVnbU5JQW0zNzhJMXl0UHJDKzE5OEs2WkRzM2FHT0Z0eDhGU0tuSGx4NUkxL2lxOHVKckhvdVNrRXJIMjRkYWVvNEhiZmNiRi9ENi9GQTdGSFRLOWxmdUNGTTdhUm03N3pkaUFDMWlQS2E2aG5xV2NFS1RVYnIzcWxwSi9LNkZrcUx6WWNJSTRmWjJZSHc9PRgAIAEoATDL6PCY0/DpAjiz8pLhki1AwdDDhakuShxxeG5jMERaY2dMTXdQczdsditqS2ZBQUlHOHc9WiciJf////8AAAAJ2lFuankwYnF3blM1TEdqM21JdmEwYnlRVUQ5WT0SrwIITBKqAgoccXRGN0YzVGVoTlpUOXZ6dkFNQytmWFFndy9ZPRKmAVo6QURxdEFaeGgrUmtsWS9rWGc4dGlVZ21OSUFtMzc4STF5dFByQysxOThLNlpEczNhR1BZQVpucmVJdlJvL1RsUTB2dExyMjFaek5IK3ZYWDhpblp3VnFCK1RIdHI0VzJ0UytvVDduMy9scjh4OTJGN29HNlR0NUlQNWlmcnpIYTNLZUlXT3NaSlQ1VmNJSXJZN1ZPN3QxRE14KzhndmsrNTdnPT0YACABKAEwy+jwmNPw6QI47tzam5EtQLnQw4WpLkoccXlXcmIzWWwrUmpyNjVmaEluU1dqNlhQUmlZPVomIiT/////AAAACEZkbjAyYVhUR0w3dDhqN0JHY3BRS081cDM2ST0SqQIIFhKkAgocVnJYS1drRUtGanFTVzRiVzE4Y3E1cWhaN0tZPRKmAVo6QURxdEFaeGgrUmtsWS9rWGc4dGlVZ21OSUFtMzhoM3A1Tm05TGNxOG5sUjl4QzBEMS96VnMyTmoyYXk2OWJ5eVYrcEV5VU55Q2VZMEpEWVNhT2piUjJscXJKNDN4V2x3bi9GM1lWeUgxdktkaGxXOGJZTEdCK1dGYUQzcEt3RnJNU3A5cnRySXgrQ3RkUVgvdmpLL2d2eDRadTBFZUozV2hnPT0YACABKAEwy+jwmNPw6QI45q2ojdosQJvQw4WpLkocdHErS3dEMHd4MFgvL2t5TGw2T3AwTHhhSXRJPVogIh7//ktvWVdydDE3MnRGczczR1J5QnFBK0kyQkxITT0SqQIIEBKkAgocM2xKbjNtc2w5V1NselhvQnRlMit6VGJ4ay9NPRKmAVo6QURxdEFaeGgrUmtsWS9rWGc4dGlVZ21OSUFtMzhoM3A1Tm05TGNxOG5sUjl4QzBEMTBjcDZHbVlRNzRabkRDZkZMVVIvejgwQWZ5a2tqcnJjMDJtYnI4QnJQdmVmeGZybnNHZ1I4aGx5SFpyTDMwdUNwbFhocGpTT3U2Y2xjc05ha0xyZUU1VTF5c2RKVHAwNVNrM2N5cnZHTHNQbU5qbHdBPT0YACABKAEwy+jwmNPw6QI4xoSa4dksQJjQw4WpLkocNmxhN25tZFBlUnN2di91bjU5NkpheXcvRW1JPVogIh7/u2Y0VXhhQ2hwNmJ4ZFhZTTZZeWN2MFFtZ3hBWT0SqAIIDxKjAgocd2VoejV6UXhRcVdLNFZ0QjRlMzI2S3JxNFJnPRKmAVo6QURxdEFaeGgrUmtsWS9rWGc4dGlVZ21OSUFtMzhoM3A1Tm05TGNxOG5sUjl4QzBEMTFpTUpkaVQrSUo0dGNyRWsxWU5lczBDcXNRTmNkNFBPaTBOdWZjVFUzTnFFNHZsUDg4ZDVjWWtIRHdNVWdKajZXVGhqeUEramY5eXRvd0V3THJNcVoxdGdaUFdoR1VUbUdneEFuN2R6MXQrM3hKOUxBPT0YACABKAEwp9TFmNPw6QI4zrXh4NksQJjQw4WpLkocKy9xaWZqa1dNNllRM3h6Z05JTEM4TXNsTGJNPVofIh3/dlgzem0xc3I4OG8xNzZEVXFsQkR0VU5ReHlrPRKpAggSEqQCChx2bEV3K1V5djJFcXVhcVR6cG1SSlorQ2JoOTQ9EqYBWjpBRHF0QVp4aCtSa2xZL2tYZzh0aVVnbU5JQW0zOGgzcDVObTlMY3E4bmxSOXhDMEQxMis3VkxMYVFlT0UvTG12Z1BwOVdJMXU5SzlEaTVia0IwSmhNelJTSnJUb3pqNjRNbHRXT3ZnUlZtTE9WMDNHeVNrS3NWcU4xWjRmSGZjTGE2Wi9OL3NORFhaQlZWTC91SGRSNVFyTXpTMTJ1NDVGZ0E9PRgAIAEoATCn1MWY0/DpAjiSsZXo2SxAmdDDhakuShxPTm1abFErZ0JuUCsyUmlzK05lWnV4Y25RQWM9WiAiHv/uVEdqNVpCTnp4YTd0NVZpZXlSanE2S0lwTHVNPRKoAggJEqMCChxvRlE5NDV6Wkw0T2lHOFJ6cHE0VVNBSmd5cDQ9EqYBWjpBRHF0QVp4aCtSa2xZL2tYZzh0aVVnbU5JQW0zOGgzcDVObTlMY3E4bmxSOXhDMEQxMkdnL1RyVjBNeWdXdC8yeEJBK1hTZHMxYzZZZzVxZ0RQQUhacHFRZDdMdHlaNHAweFRpSkhmblhyNG5mNElaVy9uV3U4Q0NMcitObTN3MnlFcUM3bFg5ZWlpWk5EQkJtRUFlNjk2RHlMUmhRNGUvR0E9PRgAIAIoAjDL6PCY0/DpAjjs04De2ixAktDDhakuShxITHBRVVdpQ0pkblJjeHgwWnV3TTJNSDh2cXc9Wh8iHfFBR0s5cGtvU1ZieEw5aTVWRGl2QVM0OHlCMjg9EqoCCBgSpQIKHFYxek5Wa2FlOS9yOXVQVXRPWFgwczRKY1ZWMD0SpgFaOkFEcXRBWnhoK1JrbFkva1hnOHRpVWdtTklBbTM4aDNwNU5tOUxjcThubFI5eEMwRDEzWG5kUHRlSmgrWWNQN0pwbHJJZ3BwblNMc2MvelBwcmZHcnFDTkd6dnUrbC9wUmF0ZXRXUHBIRTVrNS9IV3A5dzBjbnJ2UUg2QzgvZmsvcVVGMGMzaFdYT2VuWE9xUXh5UXo2a2o1RDVIaHlEUUFLUT09GAAgASgBMMvo8JjT8OkCOMvEjsDaLECd0MOFqS5KHHJBQkE2SlIwdmJ5bHlTT3FVQk92NXUxVi9vWT1aISIf//+ZMTh0bVkvdXVBWFVrNUZQV3RtVHVyRndvZDRFPRKpAggTEqQCChxVYkc1MVRXRUhuY0pJbThyVDR1SkdTSmdWT0E9EqYBWjpBRHF0QVp4aCtSa2xZL2tYZzh0aVVnbU5JQW0zOGgzcDVObTlMY3E4bmxSOXhDMEQxM2d2alpqU0xJWUZtaXlzWHpCNHlsQXMyM1FpMGtNRXhPTk1jV2ZmVFVvck9aU295RnVlNDRIL3JHd0xJb1pPbEV1MS83TmYxMm5ndTVaK0M3akZoSDEzSHJObndjZWJYa0dMOTY1ZlpwZFA3OHBDbXc9PRgAIAEoATCn1MWY0/DpAjiQ1L3q2SxAmdDDhakuShxSNUtxZFRmbDRoOWRtSjh5RnZ5bU95L1ZDR2M9WiAiHv/3T014QXEvWG9wdHM1bndjdzVGTDQ2UmpXdXZrPRKpAggVEqQCChwwNEVmY2VFbzZPYnFoUUF4QStVR0NQblpXUkk9EqYBWjpBRHF0QVp4aCtSa2xZL2tYZzh0aVVnbU5JQW0zOGgzcDVObTlMY3E4bmxSOXhDMEQxNENxdU0zdjZsS3lieGNPL3ZxNFBwTzVnS1hnRkFUdFBzVEtlU0V0VmhBRThCeG0zRnJ6VkRSaTZGNkZjWUpxdTBENCtGbEsxR1ZaV0YyL0x0enRXckZPY0tVMXJ0UTE4OThLQ0o0OE9keGVaczl6c2c9PRgAIAEoATDL6PCY0/DpAjjP4bnr2SxAm9DDhakuShxScnBTQW5qTHlpa3NoZ0h4T3hNZDJrR3lLUW89WiAiHv/9ZWhubEVaT1JKcWEzbDNCT1lrNFFDUWFpbDhzPRKpAggXEqQCChw3WStFZEhuUS9yOEdLZkRWRWRVdm1sZkdmNjg9EqYBWjpBRHF0QVp4aCtSa2xZL2tYZzh0aVVnbU5JQW0zOGgzcDVObTlMY3E4bmxSOXhDMEQxN1psMjV4UnlEYk9MRkJJZm1ZLzVWZXhJUjdYTCtrZERMOGErQ2JBb3hLcUkwMEFpb1VOWmduVXFIMDVuRFVaT05PTzNGbGJOSEJGN2cwWmFpYyt2MFUvNXV6Wk1BNlo0TWg2cFNnbEsyQjFWWXF6aXc9PRgAIAEoATCn1MWY0/DpAjj54fy/2ixAnNDDhakuShxoUFRTc1BybUt6V1hIZVVTaVJSa1dmTVNhajA9WiAiHv//M2tSVVFmMFZObXY2NzJlaDRqbWVLd3ExR0JRPRKpAggREqQCChxBUnk4UXRYMDBIQWdrcDhOeUU0UTlHdXlZY0U9EqYBWjpBRHF0QVp4aCtSa2xZL2tYZzh0aVVnbU5JQW0zOGgzcDVObTlMY3E4bmxSOXhDMEQxdzNkaDJUQ3I1bDloOHhqQzY4QUplZzVzSlB5b3hncFNvcm1GaDE4NmFJVG1wVXpkQzdVd3RCNE9SNFRWblY3UFhBbXFKdHc5UDZvOWxrSWFlbGVRWm1aeEVGN2dJWnF3bDVSY1loeit6c3lZcCtjR0E9PRgAIAAoADDDj9iCp9rpAjjf9bLl2SxA3/Wy5dksShxPc0tTNXNEL1g1RCtTMHRaYVFsaFNWTzkxYkU9WiAiHv/dVDQ0YUtLbFFuYzlDMXBFMHk0bkdiUDlpcm5JPRKoAggOEqMCChxNVWxpdFhPWFYrL0ozSW4wRCtaSm0rcTI5VFk9EqYBWjpBRHF0QVp4aCtSa2xZL2tYZzh0aVVnbU5JQW0zOGgzcDVObTlMY3E4bmxSOXhDMEQxd3dJeU1QNkFqZVAvUTlwUWFTTWxlYU8rU1Z2ekxBdjdTdW52ZDBqRVpUN25lQmdIWWo5UWx1NzFOQnQrUWtTQWtndmsrc2xEYnNhVkQyS2J2aUk1bXQ5TVdmTGNmOFN4N3ZWdU9kOHF5NDVLdjkzSXc9PRgAIAIoAjCn1MWY0/DpAjjD4PfQ2SxAl9DDhakuShxmd1QyUUNBV2xyV2V5aXMra2RLenlFR2V3ZVk9Wh8iHf9YK0ZyZ2dsM1Vqd0dsTHpmd25sVTk0Z3l4WVU9EqkCCBQSpAIKHENhdlNRdkJpUzh4TUtPZzVQc2RXc0U1aE9tOD0SpgFaOkFEcXRBWnhoK1JrbFkva1hnOHRpVWdtTklBbTM4aDNwNU5tOUxjcThubFI5eEMwRDF3ei9YZTlsU3ViZHlKTEt4NWdmUnB6OGZnbmg4Q3MvTFcyR3J0Tmg1WFZJa1I4WkswckxPb3B6Zlh6YWVKK1FsWDlLdGs3SThJa3BLY3lPbXNZSXlHQ2toMVRqVnhGWVhPQTZ4T3Q4ZkQzTVJhNUh3Zz09GAAgASgBMKfUxZjT8OkCOPKd7urZLECa0MOFqS5KHHFKU3p3ZEtQaW05VFVxZUpGNDhQU1UxajdIZz1aICIe//tRRDBiNFdRL0t5QkJvT29WY3dJWm1CTVp1b2M9EqgCCA0SowIKHGl6ekgyeEU0WVZYQ0dhTDhFQ0RHa0hCQld3OD0SpgFaOkFEcXRBWnhoK1JrbFkva1hnOHRpVWdtTklBbTM4aDNwNU5tOUxjcThubFI5eEMwRDF4WVZ1Z29NNlg5SThrampRdGd5UlNYaG5raWlKWmNJaUxsUHVzN05lVHpuQmJuWkkrYVJ3eFZibHlvSnF0SzZXcWFBcjdyTndRNVV3MTE2cUZ5ZHVEeE1sZFdvN2VjRFFsaE9UNloyZGVYVDc0eEFhdz09GAAgAigCMKfUxZjT8OkCOKawo9DZLECW0MOFqS5KHGd0RFVxa3VaUitva3Byd0poQnM1MEtsMUR1MD1aHyId/jMzZGk3aStDRUJkSit3RnV2a3J5UVJGeVhjMD0SsQIIrgESqwIKHHltb00xd0FGYlJZZjlpSlQwR1E2dkxJN3hQVT0SpgFaOkFEcXRBWnhoK1JrbFkva1hnOHRpVWdtTklBbTM5bVh3MDlDSWZUZ2FCbFFhL3BteVMrcEZ6RzBNLzNGVjF3c3ZKMzJFbC9pREMzYjB4d3E4T2JTRnEwUDErOWE5MjgzYmNZRUFpTHNVbzBZbVRZZ3ZTNldBWGJsdFlpMGVYbFo0dXk5TVE0SGZxTzlyQW9nUURibUJ2Z1Q4cFl3ck9Jc3ZwZz09GAAgACgAML/cjIOn2ukCOObz0ejZLUDm89Ho2S1KHDQyU2tHU1c0SitGK05ZS01RNHR0MkFldXFXZz1aJyIl/////wAAABPeKytFOC82OUdPOEk0eXUzNkRMN2RhTU5QaUxnPRKxAgiqARKrAgocSFBOSnhpbDU1dTkzdzJleFM5RmwzQk9UMTdFPRKmAVo6QURxdEFaeGgrUmtsWS9rWGc4dGlVZ21OSUFtMzltWHcwOUNJZlRnYUJsUWEvcG15UzIrY2Y3aW9pdFpkeXhaaEZFOGRpc1NRWmJlYWdFQmozQ012WnBHRE5tSHFkQ1JhYzE4ajFDVlhXVm9nMDU3c3p4aXhkYk9rZ2gwVmkwTWNMQlpLSWEyTzkvWFpWK3FQR285VngrZmhab3BqWllsclN3PT0YACABKAEwy+jwmNPw6QI4stnpy9UtQO7Qw4WpLkocNDdYYkMvZGtBV016RUs5RnZRenJFQlZMZHBJPVonIiX/////AAAAEv1EaEVIa20vbkdTL2VFSUY0ejNETU9LT0s5cEU9ErECCKsBEqsCChxoS2xsQkVYektHZ21EZ2s0T1Q4TG1WMnByTzQ9EqYBWjpBRHF0QVp4aCtSa2xZL2tYZzh0aVVnbU5JQW0zOW1YdzA5Q0lmVGdhQmxRYS9wbXlTM090UDhoSm5kaFFBdlJwdk5Bd2dsMFJXUjlPeGxOM0VuRkdab1ZTVUpoZndyUTBaenoxYnMxVzh1OEltcU8rQStWTWd1TzFHcFAwZzdvSjFJWHFZTHc5MUZrV1BCcTZmenY1SnNqL2NKZnVQWTB1T0E9PRgAIAEoATDL6PCY0/DpAjiLgM3M1S1A79DDhakuShxpQVpxRElYQ25RNUU0UnNqOW1XL1BkcmQ4V3M9WiciJf////8AAAAS/jNjaWw3VjZJeVdneXRaeDFYVXF0NVJPUGNoUT0SsQIIrwESqwIKHFFwbnVJbWNJQ01nRWNacDVKUFZYNTFrR1UzYz0SpgFaOkFEcXRBWnhoK1JrbFkva1hnOHRpVWdtTklBbTM5bVh3MDlDSWZUZ2FCbFFhL3BteVM5TzFyOUs0WUlKNUIrMVZHYXhLQXo2cVdHUEluWjhPV3k0cDNCMW01enlZd3FXVGVKanhCcUVvcWpQN1dPM1Y2SUZFQUNMcWc0ZlN0eHdoSVhpYWprb2R4ZGE3bDFpZXhPTTEyYldTSWp4ak5PdUFPUT09GAAgASgBMMvo8JjT8OkCOLv5iZPcLUDx0MOFqS5KHEt1cTZRZGpESWU0VkpIY045MVBVaUU5dFg2RT1aJyIl/////wAAABPvV2wyb3NSU0RKY05QT3FyWDMrRGxQTVNxNDk0PRKwAghKEqsCChxSRm05WGFhZHhkNlNKSWFqYlB4UzRHbGhxTjg9EqYBWjpBRHF0QVp4aCtSa2xZL2tYZzh0aVVnbU5JQW0zRTlCendYcHdYQTl2KzJxTU9DK2EzWDRlcldJVG5lSEpGbUkwT08rSFpHMDMvbkFZYUFhNmc1b2kwWjdyOVRYMnl2dnBNcENLYlN3NUVqZWJHZVRJZHhIQ3ZqQThsWHpJL1NxV3JqNDRscDlvT3NObWFMMUY1aktRRW9kejkyWTBsWmpjWmc9PRgAIAEoATDL6PCY0/DpAjiGu4bIkC1AuNDDhakuShxVVWY1VU1TRCt0djNpaWNwN0MxUkNER010c1k9WiciJf////8AAAAH+3h6Q0JvRzVMejNRWGMxRUdqOWJqVVprNVlTOD0SsQIIsgESqwIKHGZqWG1RbXB1NlZCQ3NOOENOT1NWMk9zcnJpdz0SpgFaOkFEcXRBWnhoK1JrbFkva1hnOHRpVWdtTklBbTNGejg4TklXeWJvZlpId2NoZG1nbmFKOGNFUzR0aytFVEJrTTAvNW81R2ZtV2VaNTNZcFI2SHZCWHlZSXUxUW45NWFkUXExVHE5UnFtc2JYaXZjRUYzWkZSYTlZa3pMSnZ5MXJYbFhudFRFbTRUcm56NVdHT2hxcnAyOXBKa0thRDF5bkpTQT09GAAgASgBMMvo8JjT8OkCOPq2l8PjLUDy0MOFqS5KHEMydFZlVXBpZzBnL0FFTHkrcFlQZHQ3ajc5UT1aJyIl/////wAAABP9bndXQmxkSE5WN2ljTVhVQzgyUGZmQ2hvblNjPRKoAggKEqMCChxaKzE3djFuckxlT2pDdC81dCtqR1BjSEMrZFk9EqYBWjpBRHF0QVp4aCtSa2xZL2tYZzh0aVVnbU5JQW0zSTlaWE84V0NySklYeCtIYnBSTDF3Z3FiWUpqRndmOXJXeSttSElFbXJPMEJZVkdzNVp6ZkhhL1NtUGs4VnRvLzBzclVXbTY3VmFUSjBTSmxRSis0NGNqUEVTS2tPbjREUlBQcFFkTk5SUjhMQkZId0RsVk1uOGpSTC9QU0dNSWQ5a0ZKNnc9PRgAIAIoAjCn1MWY0/DpAjjl/euU2SxAk9DDhakuShxGR1I4ZU5TdWVKR0UzM1lHNkM4VitSdytvRXM9Wh8iHfZsdm8zZTQwNldaWExLSUJGNk9vMmRROXdxcVE9EqgCCAwSowIKHHR2V3B4czlLMklRYWJ3cDdhVHNPSmRPUlRldz0SpgFaOkFEcXRBWnhoK1JrbFkva1hnOHRpVWdtTklBbTNJOVpYTzhXQ3JKSVh4K0hicFJMMXdqRmFIK1U1bW1vakZyU0YzVzdlUExSdUF1UFVveWt1QnFGTXNwNTY3SnFmNTh0ekVCNDI1dk0xRjJuR1NOeklQVTV4aFlLdkFXVXRua0RWMUx2Y3FMa2ljNEs2L1U1R3Avd01JRWdoOVlnTTErYmZCZz09GAAgAigCMMvo8JjT8OkCOM+a75jZLECW0MOFqS5KHGdaVXFaODV6dmxuOTJwU09PWm1zM21xVWpWVT1aHyId/TJubEdXWVh3dW5RQytySldnbVNpV3dzV1o1VT0SqAIICxKjAgocNzd0aUV4Qml0ZDFlVXVVcVlXMCtIM21rK3FZPRKmAVo6QURxdEFaeGgrUmtsWS9rWGc4dGlVZ21OSUFtM0k5WlhPOFdDckpJWHgrSGJwUkwxd2tOVHdsWDlBWWFyVUkxMUVydTU1SmR0Q3pvc04xZ0xacllkQVlsTXk3U1Q3bEloVkVsOHV3UDVhSndsdlV0WkZETzdDdEtOSXh3Tk0zSE9UT3orZFFBZ3pvd2xSZ2FBN09DWEJMak5jZldiRVlLNEVRPT0YACACKAIwy+jwmNPw6QI4xNjdldksQJTQw4WpLkocVkJiRXYzNzd2OUtyMU5qMDROV3MyM0FVcFVFPVofIh37QUFBWm52dXZEQk14TGNsYlp3YmhlNzFSUUlvPRKoAggHEqMCChxtMUZOVGU4YlNVVnloQk9lK00vVXVaVGV4OFU9EqYBWjpBRHF0QVp4aCtSa2xZL2tYZzh0aVVnbU5JQW0zSTlaWE84V0NySklYeCtIYnBSTDF3bUo2RzhkR0pwRThRTGlqOE5icFArQnZlbnF2WlFFbVBJK1Iwci84Z1JVRFA4UWRWUk1XakRRQ0Rod2pRSi9hRWI2bENSZ3Q1RHRXeUloU2Z6QkU5cHRkZVJrT3F0NFg5NHByVllrWElvMDM3S09oc2c9PRgAIAIoAjCn1MWY0/DpAjj68bOQ2SxAkdDDhakuShwzVjJWTXFZYStMNXFLeW9ZclhIcUZxY2FSLzg9Wh8iHdhYeWY2NVRFZE5LdHRnOExUdlFqdTFOOTQzRFE9EqgCCAYSowIKHGtRQlBSN1FuaU9CRENMKzVOa0tBYmI1VFBLMD0SpgFaOkFEcXRBWnhoK1JrbFkva1hnOHRpVWdtTklBbTNJOVpYTzhXQ3JKSVh4K0hicFJMMXduOXB3U0lRZHZFY3pZOHJvMFN0dy8rZVI2VjNEMk1UR3lkZXFtU2FvZ3FDOG9jdGFZNDIvbXBZRGZxQ05LTUhLZzZXZlhyOFppaTRpem9kVHRXa1REMlR4M3lQN25oQnl2VU1Wc0hJbCsxSWRWQjMvQT09GAAgAigCMKfUxZjT8OkCOPrxs5DZLECQ0MOFqS5KHGMzRzEwK2dFK00vZzR4dUtQV2hhaFNraklFdz1aHyIdsFIwbldUUFlDTFB2SnV3REV1NEsrNFRPRHNZVT0SqAIICBKjAgocMFdoNFNSV2FkKzNoSW1aYUxZd0w5VEgyTk9JPRKmAVo6QURxdEFaeGgrUmtsWS9rWGc4dGlVZ21OSUFtM0k5WlhPOFdDckpJWHgrSGJwUkwxd29QVkhoZC9kMXppQWZhd3FIblU5NDBoN29jd3FhZVVmTVpsdEZKdlIvUE82dVVTTWJ2YzJOeWtBNHhleHVXTW54ZmRpMGtSVGUySWJQNVVyNEIvbHNacHdNYldheDhlSWtrM0FkdXRIZ3ZPUWJUVTlRPT0YACACKAIwp9TFmNPw6QI4+vGzkNksQJHQw4WpLkocejFTV1grRUtqR1E3QVJCdUJLK3Q2a0JvYVVzPVofIh3sekZkUjBuaHppWmNIZXA5VTFKS2IzSjRHeGdvPRKwAgisARKqAgocY2ZYQTZzNVlxWklvWUZBZHZzc2VNNk1ESjI4PRKmAVo6QURxdEFaeGgrUmtsWS9rWGc4dGlVZ21OSUFtM0ticVJqSWFKdFFjdTIxU2tkeVU3YmJlUmRNUmFDL3d4dkdRK0w1YnFxWjRXbnNabTJvenZQbjZoUmJPZkdEM0czMGUzUlFVMVBwNDdkUXZYOER0MlltTHlrTkJyR0VvbTBuQTkrQ0FKNTdYdHU3cGtCaHdVUTc5ZzF4WE9qekcycXNCUmlBPT0YACABKAEwy+jwmNPw6QI4h6HF/dYtQO/Qw4WpLkocUzNHeGdxeStTejFFRm5aZDBCaWVvQmtxdDN3PVomIiT/////AAAAE3lMTjAzODNJMU8rZDV2QW9lbGJWZ3djME9JST0SsQIIrQESqwIKHEkzSlQ5c01GMTFWa3R3RDIyWmxJUHFKTkJzdz0SpgFaOkFEcXRBWnhoK1JrbFkva1hnOHRpVWdtTklBbTNLYnFSaklhSnRRY3UyMVNrZHlVN2JjRktoMWVMVnFyekRhZzY0NndrcDNBb2V4UTlTZlpHTVNKakhmVnFleThDQ3h5eDBDbWhjcmx6L3VYNVg4M2krbXlkdk1TeXhyUEFuRS9xK3NSRkxMSUowU2lES0pKbDdlWTNMNS83UXQzVUxmVkNSQT09GAAgASgBMMvo8JjT8OkCOJm21/3WLUDw0MOFqS5KHFRMMEFUL1p1NVQxc0U4LzlmWWVLSk41cVRFaz1aJyIl/////wAAABO8NzloV3A5NVFHMURnVFI1SnlWbXpCTjFob1c4PRKxAgiVARKrAgocTEhWYmhUaWg4NHFXUkFkUHB0VmtYSlJBT1BVPRKmAVo6QURxdEFaeGgrUmtsWS9rWGc4dGlVZ21OSUFtM0xGN3hnS1JJUk9acEx6NmpaM0U2a2lzd1JiYXgzYVMvalluNXJYVnBZUE9EbVpaWFVQTkNmZlF4TEdWUkIzbkdzeVZES0VXdTBzOExQb1paVmxHOXZsUEJoQ1d4Rk9IRVMxcEs3Y29sRXhPY1BuaFBXMnNQUmNPYWFVd2dtMDVqZ1BsWDV3PT0YACABKAEwp9TFmNPw6QI4p7W8wcYtQOLQw4WpLkocQ09oR3FFL1BoT1hJYStDZzVpK3UzSjZ0UWRBPVonIiX/////AAAAEO0xUVk5cUdhdjlzZjdDL3dzNEsyVlZ2cWVIbTQ9ErACCJIBEqoCChxtMU1sM05ZVHNsWXhlclZFUkxzT1p2TFFNWDQ9EqYBWjpBRHF0QVp4aCtSa2xZL2tYZzh0aVVnbU5JQW0zTEY3eGdLUklST1pwTHo2alozRTZrblQxOVBsRHJCLzlzd0NITkh1RGF6WEhET0Y1QzVQYkcwc2p2d3gvMVd0NHdxNmhhYmFGVGg2S2JYYVRJK0JvTk1UenFQV05NMytFUjRybkhkOExtOVZFNit0aFFJcjNzNWo4TWh1b1V2S05WOE9tQ2c9PRgAIAEoATCn1MWY0/DpAjjLw4z8xC1A4dDDhakuShxTL1oxd1BaYTJGZ1lPR0NDUzU0bHpldFNFNGs9WiYiJP////8AAAAQbXBsVWdLN2dZMXBnUE45RjhscTNxV205RHdvPRKxAgi5ARKrAgocSVd1ZHUyOHlRTU1kdXoxbTUxZzltcUlqMS9JPRKmAVo6QURxdEFaeGgrUmtsWS9rWGc4dGlVZ21OSUFtM1dSY21qbExRcmx0Q01DV1prZTc3Y3ZUM3VteTFLL3JtckpwN1RQRC8vTEkwa0lYU2twcFp2OGwzaS9FTy9vREV6MUtGM2R6anA4S2lJclpueGpOYSsyd3V6RnA0YTFidXFyUVRoMVR2cWVjMWRidC83b256ekN2QWU2RFBRMFVTTGJIblFnPT0YACABKAEwy+jwmNPw6QI4hMzf3PstQPbQw4WpLkocMWR2OWhKcGtNLzBzUmh5anpkK21OekE5SWZ3PVonIiX/////AAAAFPtacms3OTBmMmNtb201Um5BYm5veE5KM3dKbDA9Eq8CCDASqgIKHHc4dHNLc3k0OVFaN3NsODM0WE93U3p1YkpiTT0SpgFaOkFEcXRBWnhoK1JrbFkva1hnOHRpVWdtTklBbTNYRXNxL1ovcGtlUlphZ0FveDE1a01nVHdhQjJhUFU2QUlDQm0zMXczWE91U3dKMUpHVWdkZ1Fkd1F6dWZIK3RJT3RKZjUvbVpzWXg1UXYwUjkwMVhEUkdnTGVwUGpuY1pEMkxWVlFtM1BnV0tQcE9RUWJ4eGd6TnIvZmJpOVg2TXRHdFRoZz09GAAgASgBMKfUxZjT8OkCOKWOzIvqLECo0MOFqS5KHEY1SmVhbWRYWS9Na2N2UkZNazVmM2hyZWU5MD1aJiIk/////wAAAAVVcEFyd3g4SUdUUisybFFkUjhSbGpaU1ZSTTQ9ErACCC0SqwIKHEdGYTFjeTJqbkk1b1NWdEZhdGFoMzhxbFBZND0SpgFaOkFEcXRBWnhoK1JrbFkva1hnOHRpVWdtTklBbTNYRXNxL1ovcGtlUlphZ0FveDE1a01nZGZXeUo0ZThObVNIS0FrLzBEbDlGaFYraWl4bG5KQzRuTDN2dFA1K1FrWXRpOVpOQnRreE16b3RpOHN4K0tzdDcyMWdScE1GbmNVRFJWbHExdEx1NDhtblBYcHZ0RXpSaDNQVHRYbkVQc1JNb25lQT09GAAgASgBMKfUxZjT8OkCOKXfmO7pLECn0MOFqS5KHGhVMGdiS3ZYZGUxLzJUUTllZVZaSXpIM2dSWT1aJyIl/////wAAAAT9VVp3L25QeWVkUktCaGFNQTZLN21GWmlDWjQ4PRKvAggvEqoCChw3blFTNkl4RU5ZNTkxNmhRME5qanVPVEZ6aGs9EqYBWjpBRHF0QVp4aCtSa2xZL2tYZzh0aVVnbU5JQW0zWEVzcS9aL3BrZVJaYWdBb3gxNWtNaWtFaWhLSWo0ck5tZmxWdjNPemVaenVRNy9FV3VoUmliNkVPVmFBaVduS2M2UXVuWjllNUl3aVhMQXJ0aEhqajNRYVFoRVVQcExHNmxjb2M0YnN2TUZ2YVE3V2VVeEJoTHdxaCtpeWlueXhRUHIyRWc9PRgAIAEoATCn1MWY0/DpAji695Lv6SxAqNDDhakuShxiZkhEeTdlUHcxcTlBYi9raGZJd2p3T2RiWlE9WiYiJP////8AAAAFNUlrb0tlZFM3UkdoUWJHdG1VK05BelBxcTE4PRKwAgguEqsCChxSNXpMTkVCSUdkcTFkQmc5OElaU1RiZGcyWFk9EqYBWjpBRHF0QVp4aCtSa2xZL2tYZzh0aVVnbU5JQW0zWEVzcS9aL3BrZVJaYWdBb3gxNWtNb3c0U25DT0szTnFOS3lFS0ZhKzd0MWl3alVSOEVkbE9JRXNzZDROL0pwRzFOZWRIejB3RTN6NytodjBFdllvSHVzWlRVQXZBNEUyTDhoM1hzT2lUUG5QS2ZGaUxwdGpqNTZMR0MwL3ZScGU0ODFSTnc9PRgAIAEoATCn1MWY0/DpAjjN0ufu6SxAp9DDhakuShwreE40VTBhQUtXQUtlbjJqbU1ZQmV6NlYxWDQ9WiciJf////8AAAAE/m1iYlBFQnhIbzY1OXgzd2FMMExrMERrc3hHdz0SsAIILBKrAgocOWlYSkMzOTRkYlMwa2oxNXF3bG9QeW5RV21vPRKmAVo6QURxdEFaeGgrUmtsWS9rWGc4dGlVZ21OSUFtM1hFc3EvWi9wa2VSWmFnQW94MTVrTXV0bE1CcUU0a2c3RU5TUWNNTXIwblRORFpMdU95Q1JaVnJKUHdNK3p5N214NVNKU0kwRWp0NVFYMy9UY205dVhVbWlOd2srWkxBSDdXdWRTTnVJYTY3aVJTQnZJMER3b3VMZG01cmZVRjh4Mzl2OEZ3PT0YACABKAEwp9TFmNPw6QI49ZS9pOksQKbQw4WpLkocckRtUjN5TGt0MUxaMkVoMEkrZjNsSkRJTXZRPVonIiX/////AAAABPszUnluQnlQWnNlQkhsaWpid2o2VWlVWGlFUlU9ErECCJMBEqsCChxEcjBuN1lWV0czYmpkRFFWL01nR1RtWER1dkk9EqYBWjpBRHF0QVp4aCtSa2xZL2tYZzh0aVVnbU5JQW0zY1V6NUFNT254VGQyZlJxT3YxTXAyazdlaVBFVENoMlFadkU0djBVUEI4UUZNSWc4OUlmMmR1NVF5cUQyenNnOWVCcVJkZy8xdk1MdWpCZC9oZjZjekx3bUtxN2FVQ1dMSTNxVTVibGRiWDBkb0xmc0xIN2UvMGkrcW5BT09yaS9RS0wwQ3c9PRgAIAEoATCn1MWY0/DpAjjTquCVxi1A4dDDhakuShxyVE5CS2Y1MWFMRmdCbmgxeHRmSnNobmxRZnc9WiciJf////8AAAAQtlRDL0lxajJ2enpJYU43MTd0NUxXcTFKak42WT0SsAIIkQESqgIKHDBOa3BYUW9ObDJLYnBCL1d6YVdVUTh1TlBHcz0SpgFaOkFEcXRBWnhoK1JrbFkva1hnOHRpVWdtTklBbTNjVXo1QU1PbnhUZDJmUnFPdjFNcDJ0NVdxVjVSYjByeCtiYW8yV1ozZXkzSFhHVVIxY2ZiOWNZYlhwbVhqczltS0xLdWgxYWQxeFFhK09NSnRQd0wrVGhuY3hZU0g0aEdoZXFXellIUC9Hd3o3U3l4dElKbVRaYlIxVUpuOW9RV2hGTUJGZz09GAAgASgBMKfUxZjT8OkCOKG//IvDLUDg0MOFqS5KHDdvMmlKV1NSbmpoUW5DZGl1WGJUUjdja2FZcz1aJiIk/////wAAABBZbkU0OXRrVjQyN1lMVHlpbGZycHd1MXlUNFk9ErECCJQBEqsCChxsSjlOaW9EbnplbnlGS0Ftclk5Q0J1ZXpGSFU9EqYBWjpBRHF0QVp4aCtSa2xZL2tYZzh0aVVnbU5JQW0zY1V6NUFNT254VGQyZlJxT3YxTXAydFF5ZUdESnhGU295bkYrek1mMzh6QlVCZFJrREhTeTkxQWY5OG45TS91VDNqRldwaEQwd0NPa0hXOVV5bHd6Y3RDc1ArWng2YTBrNjRQT21aU0d1ZkJHazZYQWJJeGg2cDVucFgwOGIwVWJxSGdyT3c9PRgAIAEoATCn1MWY0/DpAjj9pYW7xi1A4tDDhakuShxKRVFCeDZGNjhPbW02Z1pFL2JTRDIvNE9HZDQ9WiciJf////8AAAAQ2210dUFSVmtYcHlORGJ6TTRnMkVJMGNIUEpMOD0SsAIIYhKrAgocbFFHcG1ETGphZFZJNEhkUlpTM2IxdzF0VHVVPRKmAVo6QURxdEFaeGgrUmtsWS9rWGc4dGlVZ21OSUFtM2VHb2oySXc3UTF6UklTSlFZOU5LWVFpaDRqSktTWmMrbWloVEZpV3didzhtUW45aE51WVREMk1maTNad0pBNXBQbE9NNCt5NXFsQjRPOFJRa0l0NmdnZlhCclRwd0JwcXk2dHI4VzA0emw1Y0UwT3RXaEY5K2VzVDlYODlxNU0yTy9JZmN3PT0YACABKAEwy+jwmNPw6QI43azi6qEtQMbQw4WpLkocMkh6NU41bVpPWHRReXp5N3g1Z0wvUjhDblNzPVonIiX/////AAAACvdjdVNpRU9VbGxIREh3bk1Lek51bWI4dE5yV2s9ErACCGASqwIKHFpvbFRXMEd0MjBWa0Flc2lzc04rTmgrd1dtST0SpgFaOkFEcXRBWnhoK1JrbFkva1hnOHRpVWdtTklBbTNlR29qMkl3N1ExelJJU0pRWTlOS1lSWGh2QkdWdWplMlcrZWw3ZkgrVHV4RkovSXR1S3BBbzdRQklKTkFDWlpSM2xFdmRBc3MxbnZFMEVKRDk4dGY0NjErL2w5aURvdGZZN1BrdkhZbXpvbko0NjluVk8rSVBQaGI4VHU3eG9qbGFzR0Nidz09GAAgACgAMMOP2IKn2ukCOKHy5ombLUCh8uaJmy1KHDlSL0RlUE16c045WVQydnR5ODFrNnQwbHIwRT1aJyIl/////wAAAArednZxR2xEclZLeFE5VEpMUG9JYkFZVlZLellVPRKwAgh9EqsCChxuaG9LTXFMYXhMZSt1S0VlQ0xyS1NqT08vWW89EqYBWjpBRHF0QVp4aCtSa2xZL2tYZzh0aVVnbU5JQW0zZUdvajJJdzdRMXpSSVNKUVk5TktZUnFvYnhsdzM5U25XUEF4a2U1bFVua2FiUDR1cjhDVS9hUnNqSWhOLzNFOWpiZjFaWWdhRzJGaHQwMDNKdFhVOWpGZkY5RDBRYUpBUE9XemZ2MlhiN3ZCbHdCTzhJRzduSUlBOUxUczZFd1UxQ1g1L3c9PRgAIAEoATCn1MWY0/DpAjjZ/tmXri1A1dDDhakuShwxamhBa29uSWlFb0gyTWxRcG9QYS9qaGtac289WiciJf////8AAAAN/VErcEI5K2dmMWFtUkttcnd4OGRnb1lPd1pacz0SsAIIdhKrAgocOUJQaDVxMGtXdTFUQkRoRjIzSWgwTFUzRmZRPRKmAVo6QURxdEFaeGgrUmtsWS9rWGc4dGlVZ21OSUFtM2VHb2oySXc3UTF6UklTSlFZOU5LWVJzQXlBbUJiZHFiMGM3Tk5pTTVTT0NOczVJbnBuWVlLTkdObllMeUhqL3FoZEdhRWVhUENQVnY0Qm5wTDhRZzlZVTl1Y2ZLODZxTkw5YlRSM3hnNVlPTDNWQ2xKRFJHM20xeWd5ZW9uaUxlRUpNOUtBPT0YACABKAEwp9TFmNPw6QI43r7d26wtQNDQw4WpLkocM2tvcDRvOXFCYkM3YnNjdS9oZnZHK0diRGhZPVonIiX/////AAAADP52Uy9PeklONWxJcnd6RDJFR1ZXd2c1eG5wUHc9ErACCFwSqwIKHFFpZ2plUE9CUU5QNDcvNVVXSmloaHlZTS9uRT0SpgFaOkFEcXRBWnhoK1JrbFkva1hnOHRpVWdtTklBbTNlR29qMkl3N1ExelJJU0pRWTlOS1lTMmMzVGZzZnVvZlZSc05BTEtoOHkveng5UlhJSTZYSUY1enU4RUpJV3RzOG5jWSszdEUyd1g4bUJBTXcxNVhoS2VJUjdyc1oxYngyWE54T1A3MkRZMzY5N09FUDZqOHpjU2JHT1dWYTlDcXpvVmsxdz09GAAgASgBMKfUxZjT8OkCOO787JCaLUDD0MOFqS5KHDNrd0M3Y1hKL1p0UnNnTTUwNHhzMTRRY0NqUT1aJyIl/////wAAAAn9eFVRaHVDM2lBWHhVME50M0VlVndna2s2dUVvPRKvAgh3EqoCChxaUWFWd0F4VGwzN3JFQUg4OTRhazRKbkhFbFk9EqYBWjpBRHF0QVp4aCtSa2xZL2tYZzh0aVVnbU5JQW0zZUdvajJJdzdRMXpSSVNKUVk5TktZVEJ0cTZXTSs5K3ZRT3UvSGlJdGtydjZYd2dlTUZUTjB4QUM0Y0RFMmkxYmJGTlpwdW83ZzFRN0pWRXlPMzRySmtEa01ZMUJQMWZnSEVnWUYvdDJMbTJaSVYrQ3VCbFdQSjJoWmFsKzkvRjJuVDV0d1E9PRgAIAEoATCn1MWY0/DpAjiqgNvmrC1A0dDDhakuShxhZ3FxMFdxOXo3S1M1Vm9iTVU4L1pFeU9uM0U9WiYiJP////8AAAANb3NqTVhERDlXdXdJZ2NGc0dkdUNQVHduWDNZPRKwAghpEqsCChxBVlR5VTNSaGtOdVZLV09zLzBkd1RUSlhSbEk9EqYBWjpBRHF0QVp4aCtSa2xZL2tYZzh0aVVnbU5JQW0zZUdvajJJdzdRMXpSSVNKUVk5TktZVUtYTjhnRmQydE5LdmlRd2FyNXVNZ3huMUkyZHB1eURuUld5cmF6M3kxcVlPNlZIcS9yUVNyRXQ2QU4yV3VKQkkzQzN3eGtLbGs4WERaTDh0NUVRN09hQXd6K1FhRnI2VVpGby9rOFhHbUsyT3N5VVE9PRgAIAEoATDL6PCY0/DpAjiw2Zyzoy1AyNDDhakuShxEaGJuTXk4cGQ2U1hyQVAvaGs3ejJEUkFXazg9WiciJf////8AAAAL1XdWK3ppOFNSbmdoa2tCU0JOVEI2OUVvdnQ4ND0SsAIIZBKrAgocRzFkaWNWdHJuOW94d05KZFp3ckVlQ2VLVWlRPRKmAVo6QURxdEFaeGgrUmtsWS9rWGc4dGlVZ21OSUFtM2VHb2oySXc3UTF6UklTSlFZOU5LWVYxZUFaSTgyZ1p5ZEM3NWtJU1NaNVl3WE1aSG5mdXJwVHByUTQwNnE0cWU2VmsyUE1NVnIzMGZ3SC8vOUNZdW1GbzFSKzdsWS9sdEh1OGZRSE4rT0tNeXUrNHZuckJ4MnIxTFYyOVFQQStsenZocWl3PT0YACABKAEwy+jwmNPw6QI4y5iqxKItQMbQw4WpLkocUGF0YjVqTFZDa1NIMGg4UzUzY0ZGZnVsdmJjPVonIiX/////AAAACv1keXErOTJsa2FKeEZqNS9DMVkxL3VzaGdSNFk9ErACCHgSqwIKHG5HQ2I3ZFRTcmduY28raTFOZXpqTnoxS001TT0SpgFaOkFEcXRBWnhoK1JrbFkva1hnOHRpVWdtTklBbTNlR29qMkl3N1ExelJJU0pRWTlOS1lWOWRYRTVGNUdxbmoyRVA2MCt2RUt6LzBYWXdDRE1CM1dQZlUvWlhaYWpvYmJaV0xOcGMrNWUzSWFBdm1PNllhdHVDL2RmYUdwZlpaUlVTZy9MeHNiODJ0M2FpTkVreU8rWTV4KzJ3QnBWYmZRTEJWQT09GAAgASgBMKfUxZjT8OkCOIip7OisLUDS0MOFqS5KHGVQZldFSDdtb1o4SFRicXRrWUp4MXdjWjg5ST1aJyIl/////wAAAA23SFZ4eG4zemE4ZTNaV1FYUWFzQ1BrNkhlc05RPRKwAgh7EqsCChxoMzVFQ05BbFVTb1pVMTBQQTQybzZOYXlSVk09EqYBWjpBRHF0QVp4aCtSa2xZL2tYZzh0aVVnbU5JQW0zZUdvajJJdzdRMXpSSVNKUVk5TktZVkh6ZU5KekdtbGNpWWMxSkVNQ2lpMS9oUitkMHdCbUxJdTlnc21iL1Bqb2tHOFV1Y2tMZVpzc2hYVUJMSjFzOEdRRHlJZzdSbkp0U3NlZ0twdSt3cERFRkhQUUNZUnVVRW9yOEZaR2NoOXZNZ2lhd1E9PRgAIAEoATCn1MWY0/DpAjigooCXri1A09DDhakuShxSNDJTRm5VRzdxQnYwcjNyblNvckpWTjFTSUU9WiciJf////8AAAAN9nFYcTdJV3Riclc5L24yS0VmWDIxcXRuSE4zYz0SsAIIahKrAgoccFBtdGtRK2s0eU1NWnFoT00yMEVySzFHMk00PRKmAVo6QURxdEFaeGgrUmtsWS9rWGc4dGlVZ21OSUFtM2VHb2oySXc3UTF6UklTSlFZOU5LWVZWZUloS2pBc1Q2SWhDWG9tWUpPT1JiN01NQWh2RWxHalk1V3gwSmdua1pselVWQmh0UXhKN3RTUDhwOWdzVkJCTmI3VnhpQTlJSkVYbXcwelhpZTF1YUNPdGlzVDZRbTdSR0tzczRMcTB4cmhXUkx3PT0YACABKAEwy+jwmNPw6QI4+Nj606QtQMnQw4WpLkocYzJabllXclJkYlZ3RnZkV0ZId2JkOWQ4TkNvPVonIiX/////AAAAC+o5eTVndktWUlRCaUhtL3ovcm1oNUhINjQyNUk9ErACCGsSqwIKHEdURSsyZG5VbFJGdnJUR2FuZ09kaFUvdmZTbz0SpgFaOkFEcXRBWnhoK1JrbFkva1hnOHRpVWdtTklBbTNlR29qMkl3N1ExelJJU0pRWTlOS1lWbUJRT0VRNjkrWk1udUpMc3c4S0N1a0hFdHg0dkF6STY3SHR5dy9KdWRCOWFIQXU1aitxbjl0WTI4SCtqaEQ1Z1RSY0R3MDg0QUhBeUlBd1NxSVRkMVBycFFiZWtEQjFhRVpXUEFxT3dyUmVyYm14dz09GAAgASgBMMvo8JjT8OkCOM79l9WkLUDK0MOFqS5KHFI1SlFseTZNYlZOQmIxMnNPVmxGK0VKcnE4TT1aJyIl/////wAAAAv1RVFpUFJWbzRkL2M5dEh6b1Qway9mREE4MkZjPRKwAghyEqsCChxjRXRiSTRnOVhpU0xLcVJIejhmL2pjYXJUdjA9EqYBWjpBRHF0QVp4aCtSa2xZL2tYZzh0aVVnbU5JQW0zZUdvajJJdzdRMXpSSVNKUVk5TktZVzQ0dzZaMCtidkxuVXJSTzZBb0FJRHBNVGduS1c0eFN1MVFrS1JJaUhBZW0xcHFqbStKdE93K3c3Vk5EdmdYYTBHNGFHdU9kRzR4WWlPZFRwVCsvMERYUitvQUFkR0RieWdpK3lOSzVWMXplTjliQmc9PRgAIAEoATCn1MWY0/DpAjiQqo+XrC1AztDDhakuShxzZXliczNHT0xDeXZqVkdSTC9tTFplR3BlL1U9WiciJf////8AAAAM6W5vQ04xUmtxMW5TMTdzc2dtclM4R3R3cDkvbz0SsAIIbhKrAgocK1c3Q3V2dTdRNXB2N3phVmJSajhsQm55MktBPRKmAVo6QURxdEFaeGgrUmtsWS9rWGc4dGlVZ21OSUFtM2VHb2oySXc3UTF6UklTSlFZOU5LWVdpR2Zla3orWDF6U2VscTNSTk92UU54eHV4OXRLMFFQNk9XVk9pTnFYME9FY2N5Z0xUcmNSdUl2bitITU1WK2hORTFubHc4SmkrVitIV1Z1K1NDWnlnZmxTM0lRQWhTVzU2RkdMbnpsY2t2a0R6R1dRPT0YACABKAEwy+jwmNPw6QI44YHw8KstQMzQw4WpLkocUSszdC93bThqZnV5K3RmamZIdFZOUE1qZFhFPVonIiX/////AAAAC/5vdUx3VHdqd1BnVVlSaHd2SVB0S2hwek5OTDQ9ErACCF0SqwIKHGZaUHpTeG0rWnA4VXpoaERVQm9jV1RyVnpkOD0SpgFaOkFEcXRBWnhoK1JrbFkva1hnOHRpVWdtTklBbTNlR29qMkl3N1ExelJJU0pRWTlOS1lYTEZ3bzhiSjBlOFJJdFM5eUV3QlltZjYzaFRHb3lDNjloYUpIUGYycDdtYXpuK21OKy85Tmc1dUpGZ0FxWkRISnBaNEdKU2RSMTZnUUVtRnZEcEdGWnpPT3dZakVua09zZHhZdFMwMTJuMWNwbjRBUT09GAAgASgBMMvo8JjT8OkCOLvs44ibLUDE0MOFqS5KHGxjYkwyWkxYcFBtUTdJMGpWcjFsR3ZYaU15Yz1aJyIl/////wAAAAn+YUE1WGZJM3dGeEorREQ4dEk2bjcrOWZUVEtrPRKwAghzEqsCChxoWFZuRG9WV3h3WlBDb3psOG5aMFp1d0x0aUk9EqYBWjpBRHF0QVp4aCtSa2xZL2tYZzh0aVVnbU5JQW0zZUdvajJJdzdRMXpSSVNKUVk5TktZWUZHczdMdFYzaUdlZ3lQd3NQbTI5ZXdhbFNvV3FRcXAvNG9Jekp6eUVWMHlGY2RJN3ZpR2hwUjlTWldScW9aVDhwOGhOSnhiNTJJNlFwcDRqVStLMWVxbFdiR2RVNzRCcmoyVzdOSFQ3MGZzVUZNRUE9PRgAIAEoATCn1MWY0/DpAjjPh6i0rC1Az9DDhakuShx2R01tTEFyVnQxRVhFdm5Tbnl1VkdlRGFhTVE9WiciJf////8AAAAM9ER1Z0hJY2hINTFRVzVBQm1hM2tab3JrVitEND0SsAIIfBKrAgocemxBbEhOMUlhVEI5U3JyQlVBTkdUc1kwNmpvPRKmAVo6QURxdEFaeGgrUmtsWS9rWGc4dGlVZ21OSUFtM2VHb2oySXc3UTF6UklTSlFZOU5LWVlRd2RFM2JmL0lPdWNlWkNLaXhzMVl0UFh5WmdLV2t4U3dmdHh2MGFNMFhZZGt0THlRYlZ4bG5kcU9GVHZTaFIwem9iOG1oRmRubFZMQnJzWTBmTHhkcFJXMzR2TXJER0hsQVhsUHQyT1hXZnBja2l3PT0YACABKAEwp9TFmNPw6QI4qPKTl64tQNTQw4WpLkocNnI0UStkNE9hWlNtbjJZTTk5ZWNsTGxhV0RFPVonIiX/////AAAADftMcE5qV1F6b05tZElLYUJLRFN4YzZZRkVqN0E9ErACCGMSqwIKHDV6S2dWMjRycXVZdWJIMjNJRUpkZEVKaW03WT0SpgFaOkFEcXRBWnhoK1JrbFkva1hnOHRpVWdtTklBbTNlR29qMkl3N1ExelJJU0pRWTlOS1lZcGsrTE00Ty91U1pkQ1EzcjlFWWdSN2U4QlJ4ZXNFcWErbHpKZ3pvZGtPSVJpblI4akpUdUtIaXhhMjBRVDFjQUNFOWxndC9DaFBZZkczbmk3N1ZvTytrdlBybWx1Qjd6THpHMFBqckw0TCtjTmlxQT09GAAgACgAMMOP2IKn2ukCOJClj8SiLUCQpY/Eoi1KHE5tQ3BUNFdRdE1qUmhjOEIyZXJEZEMyZkdURT1aJyIl/////wAAAAr7aVo3MzR0ZW1xaXRFeGxkS2FkN3FUQVVvQTF3PRKvAghvEqoCChxLeStNNGduOVArY3l5MWNYWVZURmtVVzNmR3M9EqYBWjpBRHF0QVp4aCtSa2xZL2tYZzh0aVVnbU5JQW0zZUdvajJJdzdRMXpSSVNKUVk5TktZWmY4a3E4SjdYOEVHWTJlUWtlajl6aHZZcUtpWm9zNEw5QXplYmgvbi95Wit1LytXbWpYMmV1Z2tBZ1NRR1FZeUZPSVJLSkE0Q1h0YUoxeW1aY3hJeS95Y1hybzFlak5PWFFVdHdVNElRNUNoMFNqYkE9PRgAIAEoATDL6PCY0/DpAjjbg/vwqy1AzdDDhakuShxIOERDaFRPL1lmR2g4UUN2ZWlTSlpvRDJGU289WiYiJP////8AAAAMT0RtTjh1MFlXM2kwVkZTcHpXb2k5ZlJtRmJjPRKwAgh6EqsCChx5S3VaeHhvVnVMQkI4TmJJZGFRcTBtaVlhak09EqYBWjpBRHF0QVp4aCtSa2xZL2tYZzh0aVVnbU5JQW0zZUdvajJJdzdRMXpSSVNKUVk5TktZWnZYNDZzM21teG5RZ3lDRnZ4VFNkWXpzQ3EzYnRpME5PUkxxeXEvUUJaRlY1eGxQTThZVWZDWi9Rc3RZM0tXa3c5RWpEUDNQcHFhQzFSazVvLzAyODcyYWhnVHBidC9IWUNQN0ZJOVpab3QrbkRjSmc9PRgAIAEoATCn1MWY0/DpAjjArqyVri1A0tDDhakuShxzYm0xbElnZEVrVlNsbjFzc016clJZeE9LQzA9WiciJf////8AAAAN7VhBVTd1UE4rTG5uSUJ3ZHFRNFc4eWJVVHYzOD0SrwIIfxKqAgocNUcyczRtWHFyenlnclZUdlhjRnJvMkhaUHlRPRKmAVo6QURxdEFaeGgrUmtsWS9rWGc4dGlVZ21OSUFtM2VHb2oySXc3UTF6UklTSlFZOU5LWWJBWGZ0Zk1NdkF3VmhyVTlCZWxDSGJERys1V3o4SmhOZkhiRDFuUTdMTnZtYjI2Ui85TU1WdEJsMGQ2OEdxV0h3b2wyZEZ3d2REd0RlSDBBelowc0wvZXlwZC9HUG15SytaVG04bHl0aEhlbXk0WUd3PT0YACABKAEwy+jwmNPw6QI4ssrb+rItQNbQw4WpLkocYXFTQUZ6c2YzS1NORDFjZ2w5WXNTMzJkQkxFPVomIiT/////AAAADmRuREovekp5Q29iQTRnVnIvbyt3YkVjUnBKMD0SsAIIfhKrAgocb1FhVExhWTJWdjQ5L05PWEI2MHYxY01aZlBJPRKmAVo6QURxdEFaeGgrUmtsWS9rWGc4dGlVZ21OSUFtM2VHb2oySXc3UTF6UklTSlFZOU5LWWJGcE5XSmx1SmVRdU5WM0J0REdVZFhHeWdwTGhERmNmRGxua3V5NGNaRlZtVEdIYkJtWVNyanVTNmpybmxCK25OZzlKaWxBd0pnZFV2NVhQekVCdVIzSUt2OE83RkF5Z09RR1NsUHljSktZSVVGa1pRPT0YACABKAEwy+jwmNPw6QI4u8Xa+rItQNbQw4WpLkocOFhWWklXUE5SK2xlMEFENHI3cFdQQVVqVmJ3PVonIiX/////AAAADf41OW80aVRxaU5kMExBV1ArN09uMzlUUThzQnM9ErACCGUSqwIKHHpTdnpEakR6NEpGalgvL1pYWE1rWkRGQ3N4dz0SpgFaOkFEcXRBWnhoK1JrbFkva1hnOHRpVWdtTklBbTNlR29qMkl3N1ExelJJU0pRWTlOS1liRzRZdmRNZVI5cFREa0k3TFQwd1pHVXhjdmw2Ujc3ZklxeWtkYktSZXloWEpEZWdLMnN6Q2o4a0hKN3hYb2JUdTdCOGsyNy9sZFFZY0VzVHZaVGZmQXN1Q2ZLb0Z2cnY1dUpndVhScDN6RUx0cWl4dz09GAAgASgBMMvo8JjT8OkCOLeb+euiLUDG0MOFqS5KHEZ5aDZmVFVGOXQwUGhIOW9HeXRWaHMxRzNiQT1aJyIl/////wAAAAr+WmF1NStZdk5DNFVTMVZIdkxUeTVNbXJtYTZNPRKwAgh5EqsCChxoM3dRczhwSnFseDJic2RBRGgrdmI1YTVnU009EqYBWjpBRHF0QVp4aCtSa2xZL2tYZzh0aVVnbU5JQW0zZUdvajJJdzdRMXpSSVNKUVk5TktZY0dWQVdlMHdaYkZrcjhaZlRYa2hMSm9QaUxJd2llSWt6RmsvVkx6Zk9mYjBJZDEyR0dxL2I2TG5VQTUwWndqRVlXY21PSzNYVmx1TUhtNzZPTDFhYWxHaC9YZGlCL01HSzdRTTFWOWRqSXZIZzdiR1E9PRgAIAAoADC/3IyDp9rpAjjy6p3mrS1A8uqd5q0tShxuVGxBa3kvSFlrT1pnMDMzZ1BjbFRXdXhNbzQ9WiciJf////8AAAAN21FsOXpsd0x0elBvS3VTZFJ0eElWTTNNRkFYcz0SsAIIcRKrAgocajZxVUc0Q0lmSCsxZERmZnpwbHdmNU90Y05FPRKmAVo6QURxdEFaeGgrUmtsWS9rWGc4dGlVZ21OSUFtM2VHb2oySXc3UTF6UklTSlFZOU5LWWNkYTROQTJ0RXF4elE4b1l6dG5IRERMd1lJOFNJQXBDRExYOE43L2F5QytReUpVTGF6NDl2aGs1cFV1VVlNeWxmOVBiNHYreEJ5bythb2wyWllLQWVQSjVHc1B6K1dFQ2VqNEtxL2dMSHY1VU0xQ21RPT0YACABKAEwy+jwmNPw6QI4xuKNl6wtQM7Qw4WpLkocdTdCRnl6N0ZkbkxDUS9OdDl1QVk3RTVoMUF3PVonIiX/////AAAADNM3ZHcxb1QrSUVwWjRDVnFpcDh6RGF5YVhjZVU9ErACCF8SqwIKHHE0RU1JZk9rYm1QMEFoeHNQeGE3VE5aUUZwST0SpgFaOkFEcXRBWnhoK1JrbFkva1hnOHRpVWdtTklBbTNlR29qMkl3N1ExelJJU0pRWTlOS1lkY3d5T1pYZWI4Q212Q1JBUjV5a3FtbWxnRk9Fcmt0S1VVaVorUUZOVEVmQ1MxeFd1WGl5NzJ6VUVPeXBlYnQ1N1RFdDJVRXVWamluSVIrMWJLWktmLzcraWU4USt6SW5raTZ3Yk4xY3ViOW9KZllEZz09GAAgASgBMKfUxZjT8OkCOPjm4ombLUDF0MOFqS5KHFBBeWQxMlhTSWVTdVdOandWZCtLblZSZ3lwST1aJyIl/////wAAAAq8R1dQaFp0c3ZqSUJET2cvWlNZb2V1OStPdUZjPRKvAghmEqoCChxMcTdnYzk3cmhWZDQ1TE9PaW1GclpLMmRLVnc9EqYBWjpBRHF0QVp4aCtSa2xZL2tYZzh0aVVnbU5JQW0zZUdvajJJdzdRMXpSSVNKUVk5TktZZTBnQUVGR2t2Um16QlozTWdYemZPSzhwc3pkbjB3OG1oMnhTbTQ4V2FYQmhrOVE0eG5OMXVMRmcvMkp4VXFCa0pwblpqRUN3VC9RTDNDZkZCMVRYK3UyZlZoL1ExYmY0K2V2VnpTbzFod21Zc2NEUmc9PRgAIAEoATDL6PCY0/DpAjigzLPsoi1Ax9DDhakuShxIcTR0Sk5VRVcwNVc0TmJJeDRpUGpmTWdpeHM9WiYiJP////8AAAALLy9CNW9hS1BBK1RxWUw1MStxOThHUXhQWjd3PRKwAghhEqsCChwxWHRFaTBQVnd2aVFDWFpzT1lGU3dVVUhhYkk9EqYBWjpBRHF0QVp4aCtSa2xZL2tYZzh0aVVnbU5JQW0zZUdvajJJdzdRMXpSSVNKUVk5TktZZTJkZnBwdU1iL3Z2M2MyelFXbWdCbnlBOGIwRHlBY1JpRmFndkx1cHVYWTEvYTdJbHRnSFBNdGRtVjJKY2gzbmRqaVd5R2ZiNVJtNVBWOHI0UnJ0b3BwRmF6dVJ4ZUtBdTJuVTh0TFVKNFY2QnpjN1E9PRgAIAAoADDDj9iCp9rpAji1n9HpoS1AtZ/R6aEtShxLWFJRRkJjbTJJWjhkZVZVR3prTHdkbGtjbDg9WiciJf////8AAAAK70pwaFJNbWJrT3VqTFZMMEh0bk5NdWtKdlVVcz0SrwIIXhKqAgocdmNsQkxxVGNadUc1azcvTERVbjRlNzhaeEdzPRKmAVo6QURxdEFaeGgrUmtsWS9rWGc4dGlVZ21OSUFtM2VHb2oySXc3UTF6UklTSlFZOU5LWWVtOU1hN2xwOWt3V3pwSzFNSVUzWG01Skh6WGdvK0M5bUhrMGtnOEZJSWNQQk1LRVRNMTNPTGNiNlJGWFlKRUlkTmp3aDVaR2c1UGpKRGhLbmtXKzJKSWFHMXl4RFdkckZSRlpMSjNXbDhJdy9QQzlRPT0YACABKAEwy+jwmNPw6QI43KnNiZstQMTQw4WpLkocNnU2TnZTRUlKV0F3blR6MmN4VmNKSVVIM1hnPVomIiT/////AAAACnhjbTVVTDA3cnJFNkhsMGlPalVSeUJEL01iMD0SsAIIcBKrAgocaGlxZVlVNmtVdUkwWHRoU0ZOaTR1QlVUZEVRPRKmAVo6QURxdEFaeGgrUmtsWS9rWGc4dGlVZ21OSUFtM2VHb2oySXc3UTF6UklTSlFZOU5LWWV0K2lUYkhKQkNSQXcrRm9PaE1UTDdMK2c1cEpwTnlnNVRTTnFMcTBrNmFha0hVc1UvNStCVjBQUnR5eE82dVdFUm1BejhHYTYwZGpDb2x0WDRDcldRM2ROVHVxS1hQb2lCdzZLUmo3b2pRa3VxZ3NRPT0YACABKAEwy+jwmNPw6QI4h6WE8astQM3Qw4WpLkocVGxDVkh6cHJtc0oreHZsUGtBaUlScWF5OTdvPVonIiX/////AAAADKczVlM1d0E5U3dBbVdIVkJzMFNONTl3Nk9hdUU9ErACCHQSqwIKHDJiZHhXQnJUVjc0MGpXWHpVUUxnWU9WT0hCST0SpgFaOkFEcXRBWnhoK1JrbFkva1hnOHRpVWdtTklBbTNlR29qMkl3N1ExelJJU0pRWTlOS1lmR1RERU92ckZ6blNpRDBOa3F3aFZTT3F0YmE0KzR5WVpkTldPQWoxRXJwK1JWbWtvekI2eDhzNUVXMXpjcHZ1bnIxdnVnc0RWbDNBbUdQRlRMNUFWYW8yd1VZZlZSR1djUkFwaFlZNGNhOC9sS1A3UT09GAAgASgBMKfUxZjT8OkCOJazwbysLUDP0MOFqS5KHFQvRmlmOUQ5Q0FJT0pFcGw5TFBZeU1RWCt0ND1aJyIl/////wAAAAz6VEtkcythbXVsT2x6WUplMDdRWFlTQndQdXZvPRKwAghoEqsCChxINUl4WFhuSzVUSUFSV3lJWnRQZmtzZm5hdm89EqYBWjpBRHF0QVp4aCtSa2xZL2tYZzh0aVVnbU5JQW0zZUdvajJJdzdRMXpSSVNKUVk5TktZZlN4Mnk3WTMrMCtTMkxBbElyajQwd0JYZzY0eFdSdTZkZkJkY1NKUkZaTE15alJmc0hVYkpBcXYyckMxZk83dExhTUU5MmkvZUVEYSswQ2FWUjdCWG11YjRlN0gvQXJSWmZ5S2pRSTEyV0dCN2Ivb2c9PRgAIAEoATDL6PCY0/DpAjiSmpWzoy1AyNDDhakuShxxcTdlcmlqS3Y4c3FKT1p5UHZ6bVdUaG1YK2c9WiciJf////8AAAALqkxLNFZ4RnU1UXAyQjhJUkdiclgyRFRxOEFCdz0SsAIIdRKrAgocVlZNV0xTNHYzUCtNOHg4L0ZxVXo1OXNaeTJRPRKmAVo6QURxdEFaeGgrUmtsWS9rWGc4dGlVZ21OSUFtM2VHb2oySXc3UTF6UklTSlFZOU5LWWZWdFUrdnA3RFUyRG4rWjFvVWxsMUI1MWoxM3RGbWRFWHE0R1Bwck5NVjRpZEhEY3VzS3BObDJwa1RsL0lDQmhubkJWemVNU3FaYjZlVUVpK0lqcmVDZWZGVjFRZWlJcGN0VENIU3RLZys2cTZUaXBBPT0YACABKAEwp9TFmNPw6QI4tf7XyKwtQNDQw4WpLkocbHVIMkVhOXBTUFB6aFIrM2VyWXNVTFFpbXNZPVonIiX/////AAAADP1sQlpXZWxDMG5JMFc2ZU8vYndCZU5sa1NJSE09Eq8CCGcSqgIKHHRWdkJPYWNyV25oV2wwSkJ1TnBxcFBaWE52ST0SpgFaOkFEcXRBWnhoK1JrbFkva1hnOHRpVWdtTklBbTNlR29qMkl3N1ExelJJU0pRWTlOS1lmdEpIYkNtcUFpTnh1SDdFUlRDbGxiYVBDSDNURlJzTjVoL0pDR01SK2M2Z2xwMHdob0lkNHkrcGZQS29FVGlVZzFodUlXSVlQenpmU3hTby9mbkUzWm1zbjl6VmdNeG5hR0E4d1lVVnZZOS9wblN5QT09GAAgASgBMMvo8JjT8OkCOLPH9bKjLUDH0MOFqS5KHEorcjBYRkJjVWpsZGtHVW9sUzVBN29zYWZTTT1aJiIk/////wAAAAtUTmpKWnRFendnZEQ2TXRGcVp4Z0oyWG4xNWs9ErECCLsBEqsCChwyZFo5R3U3T250ZEE2b3lxNGNLT0FFRWtaMU09EqYBWjpBRHF0QVp4aCtSa2xZL2tYZzh0aVVnbU5JQW0zZiswQVBtN25DYlA2THpTS3RPL2N2VWVVQ21BM1FsbTFiVWd4UHB0ZlJyeTJNa0hlcmhrN05ON21SbkxOU1NHeC9zRnRDalVTRlJnTU9vZWczeEw3ZitGQ01SeldGVWdYa01qbGgyTysxc2grM0RuSzEwVHZZdzFyWGQ4OUlMM2dXWTFDQkE9PRgAIAEoATDL6PCY0/DpAji33vH2li5A99DDhakuShx6YjMrMTd1eHIramlQTkxRMWJ2Qi9ncGEydjQ9WiciJf////8AAAAU/lV1Nzl2YkdpWGxUYldHSUNwOElCaE5DTzVwVT0SsAIIvAESqgIKHENHVHQ2dVkrVTRaN2VNZE44YVNXUU5DQ3Jqbz0SpgFaOkFEcXRBWnhoK1JrbFkva1hnOHRpVWdtTklBbTNmKzBBUG03bkNiUDZMelNLdE8vY3ZmS2hpdVJWOXhPSEo2Q0FPS2tUR09QSm82ZThQTUNhTEdxbHVlVUNtbThKTEYwa3RXUkYrOHhZblM4T1FsN0NsZWhMRzZlcDc1dURKQXhOeU9TWE1EWFpNSTNINk5tNExkL0VkQ05OejR2OEhYNnZRdz09GAAgASgBMKfUxZjT8OkCOJOi0aaXLkD40MOFqS5KHEVQeEw0ZUc0RVRxU0ZLR05YTkJrMmpkQWh2WT1aJiIk/////wAAABVoYWswN2NlTURyWVZmaTNPRkhtMVNBYjNKQmc9EqcCCAUSogIKHEg0b1NGaEZIclpZbFN6Z3NhK21oSmk3V0FBZz0SpgFaOkFEcXRBWnhoK1JrbFkva1hnOHRpVWdtTklBbTNpMVZndC9zRHZ0TVRSR3JVdkU4MVkremE2NUtCby9JMXZtc3E4dXEyOUdNQklvbXBvSWR6c2EydnpOSzlqK0paZ0xqMU9zK1hzRDFmOVNSTWVBVkdibVVoRFMwcm1TSUJBcVJTK01McjI0cmZqWmgzazFseDFPRGR1TWZSRFQ3Sm1nOEJnUT09GAAgAigCMKfUxZjT8OkCOKjaxLnXLECP0MOFqS5KHHZuK0M2YWtSWUc5M2RLYmoxY2ZLSXlVMHBVMD1aHiIcYUNiUC9zWm84Ulh6Ni92OUxSTUpTZVI3RHYwPRKxAgi4ARKrAgocbzRXaGo4dlBRb3RkQXV3UUFyYlVmZytHUUpNPRKmAVo6QURxdEFaeGgrUmtsWS9rWGc4dGlVZ21OSUFtM2pHQkJaWXhaYXVYd2tCUFdjd3BzSkswVDNZd01YM3lzaGRPZGJGUXNwMUV0T0VCNzJPZTY4MlpEcEdXYTdxeC9CZ0Zrd0xHNzZaMDh5MHVsTXJaSHdpRVE1dGhKUjZkM0VCR1JBOEZ0ci90TmlQL0p6OXR2emRVTm8wRkI4eks4aGhVQXJBPT0YACAAKAAwv9yMg6fa6QI405SUjPUtQNOUlIz1LUocNFJqOFByek1SOEdtSlZrbGp6emY4TkFTNkRZPVonIiX/////AAAAFPZkRU1lL1FSaUV3Q1d0enBGSVgrSGIrVUsxRjg9ErECCLYBEqsCChxRZ1FTZnJ5aENMdnpaYThxc1lWYUJpdlM5cGs9EqYBWjpBRHF0QVp4aCtSa2xZL2tYZzh0aVVnbU5JQW0zakdCQlpZeFphdVh3a0JQV2N3cHNKTjV4ZlNORHVWRTE5K1JzOGdVREphMXhMMTgrcHQ3TlFiaElZclRCcU5JSzByUEtYNTk2Z2ZQQUJqWVB6VnpwUmc4ck9pWHFxeFcwZ3J4Y0hQUHVoOVQ5Nlk1Tk5nY2xMTTFYcXVmclp0NDhIemYzRXc9PRgAIAEoATDL6PCY0/DpAjjD5NPv6S1A9dDDhakuShxUcDFxcFljODBoZjBSU2kxNzFlSDFuOEpIczQ9WiciJf////8AAAAU2zhoaU1hSE5ubEZQbXlmV2lNSjlQbThkU3UxMD0SsAIIRxKrAgocTU5KTyt1WmI5TnR1K0VnWVNlL3FaQ3pXSGFvPRKmAVo6QURxdEFaeGgrUmtsWS9rWGc4dGlVZ21OSUFtM2tpcDM1cjFwN3dXaE9OSWh2NmpvRWpQQStZSFlVV2UxbDdKc2ZzMkFqUW1EaHNkbU1ZVWRLbjlHSmxpV05NRTd5alpvUm41U2w5aUJaaDduZEdVRCtpeDl2czVmWHB4ay9GNFlUUHYxRnhtM2VBZ21rVWpkaGVheWFLZnRGb21UOE9kd0NRPT0YACABKAEwy+jwmNPw6QI43qvexo4tQLbQw4WpLkocTVo4OFF4RHoyV0tEVmlVVHcxYmE0QjdFTmhvPVonIiX/////AAAAB95YdWNMVE5CNDZjNmUrQjNVeWRHVTBUWFRrS1U9ErECCLcBEqsCChxhalIxUlBNQ2d1NHZPY0VVN04rNUNadURuMm89EqYBWjpBRHF0QVp4aCtSa2xZL2tYZzh0aVVnbU5JQW0zbkpWZTZhVzZNTUNLVzdTalZqU3ltQUEvblpmUzZPY1BJYnhPMXlxc2hRVWdCeURzdUpGOHhJODhmdk5SMW5jYVVZNUllU0J2ang1VU1JRXR0d2FsR29sQXFvZjVjakQzTllCekJTZUQxS0JVcUUzRkpwc3ZqUDZXbUVSWkJFaXdObXJrWnc9PRgAIAEoATDL6PCY0/DpAjjTmJbh6y1A9dDDhakuShw0UG1aWlRsaVJVSWNSWVFwSVZEZlpIRXMzNGM9WiciJf////8AAAAU7UlDb3JuZktKVnNGZExIZVNIWEViOHlkQ2IyST0SsQIIswESqwIKHDNMTWRJaG5naTZtY1lXeXZLQjdid3h0a0xRMD0SpgFaOkFEcXRBWnhoK1JrbFkva1hnOHRpVWdtTklBbTNuSlZlNmFXNk1NQ0tXN1NqVmpTeW1Bak1SYXdRZUlqekl2cHJ4NGxoUy9WOGNIRVZNNEJtOHJuUytBRmduZnZ4c1k0RWR0ZUwrYlBOZkdNU3pHOVBETFQzU0tnVU9PVzFLaE5kOEdFRHdUdExlcmJEN2VxemQ3WFVnelNNY0pmVm1EblRXUT09GAAgASgBMMvo8JjT8OkCOP77kOvoLUDz0MOFqS5KHE1ESGVRSVh3U2VaditxSW9kVmhsWFR2aU5FWT1aJyIl/////wAAABP+Y0RpRUwzVm1zNHYrZFlyaThiSGVscmFKaUNJPRKxAgi6ARKrAgoccVFweWhuS255OTRpZDA0aFRveGJ0bDNCbWdNPRKmAVo6QURxdEFaeGgrUmtsWS9rWGc4dGlVZ21OSUFtM25KVmU2YVc2TU1DS1c3U2pWalN5bUJnU0dhb3diV3BjNlQrazRVcTFLSkR2cVhVTVk2a1JTeTVoQlNjOFFnNGNaWEYxRVNnZlBaR01KVUI3WXhabS8xZDNSUWljZ21lOHM5aTRxYW9kLzBuRVRvbDZTWEFvOGVtZEdMVjk2RUl4d1cwcXdBPT0YACABKAEwy+jwmNPw6QI4rdy1pJYuQPfQw4WpLkocMUQ4TE1tUlY5cEJqNHFpUStTb2ZHNGZUdTlZPVonIiX/////AAAAFP15T0U1M3JhcEVxUDFQTCtCVVRnaXVOeEN2M2c9ErECCLUBEqsCChwybHRTZElKUFJqYmJXUXpzTjhFZnBnbWFqQ0E9EqYBWjpBRHF0QVp4aCtSa2xZL2tYZzh0aVVnbU5JQW0zbkpWZTZhVzZNTUNLVzdTalZqU3ltS084WnVjZ0Q4ZUF5QWlSd1lWUlh0dlM4YXFWKzZqUWZoUXZvS1VSRGd6WXNpdHZJZ3FtdmVNMktMYUtLNHFuUDhpMUdCMkNoWVRJcHdUSU9taU8yWjVRRFJEQUxLTW5lQ2xvVHhIYllERXdIeDJocEE9PRgAIAEoATDL6PCY0/DpAjiUtOie6S1A9NDDhakuShxzNXU3ZWtZSW9BOXR6K1hUY3d3TkMxVjdaSXc9WiciJf////8AAAAUtjJuTld1TTQ0ZUlCdTNCQmpEeTE1WC9jaG0vVT0SsQIIsQESqwIKHG0rbjM1OXo0KzFLczJoQ1hnYXNycm42dGxVaz0SpgFaOkFEcXRBWnhoK1JrbFkva1hnOHRpVWdtTklBbTNuSlZlNmFXNk1NQ0tXN1NqVmpTeW1LY0VneHNaeG9paXRiZE1Jc0ZwN1BFQjJ3Wk5xMHZYWlNsdW4yUHp0ZWNuNWJneExQS0xzUGdCWjA4V0lFb3FBTVpyTUMyUzUzeU5mTUpiL2UvS0U0T0pDYnV0QkVrODRRODAvL3FyZmZlcnc0ZUVVUT09GAAgASgBMMvo8JjT8OkCOM7HofngLUDy0MOFqS5KHEYwV2xNQTRIcTV0MDhMcDFSTnc0RTMvZllRRT1aJyIl/////wAAABP7ZUJRWDUzdmFTMHo4eXVLSlBPUitCREpZM2w0PRKwAgi0ARKqAgocaENvSGloSTRlRkdyb25xakpsd1BnRXhjNXlBPRKmAVo6QURxdEFaeGgrUmtsWS9rWGc4dGlVZ21OSUFtM25KVmU2YVc2TU1DS1c3U2pWalN5bU53SXpyRm1BUVhNZzE0REh0NEJ2OWlWTGNFV1R5WWt1eE5IZCtFaW1XcXNiZ0JMOGJjME0wMzkxY2x4SWNVdEswenNESmVZN3pqWVFJcG1FQWxwczBqMkpTOUp6OUhTMHd1RlNSaGFSeWN0dmtRbENBPT0YACABKAEwy+jwmNPw6QI4xZG9/OgtQPTQw4WpLkocb2J0Yms0K3gwVjFLdTRyVE5wT3lJV0JUUDB3PVomIiT/////AAAAFG1pb1ZLaHVabExKMXNJVEF1SG5HN2tDc2pYcz0SsQIIvQESqwIKHGhSR3NFK0xFajNsZU16WmNXRHpHL2l0Vks5TT0SpgFaOkFEcXRBWnhoK1JrbFkva1hnOHRpVWdtTklBbTNuSlZlNmFXNk1NQ0tXN1NqVmpTeW1PU1dBUEtFMEVDUUEzQ0tRNXB6V2YyZTJJbXNIc3FoVDBmY1RmSDR0RjE2aFl4czYvb1BiNGJBZkJ0eFZScUtTV2xBZ1lURDg2bm5EQlFDckVOQTVKRWdYSi9kSThWQmdTNDVRQWdTbHB2bm84Unc3UT09GAAgASgBMKfUxZjT8OkCONPspZCeLkD40MOFqS5KHFZoOWE2WlVObDZma1B1RUx2Nk5iQ1FtQ2FLTT1aJyIl/////wAAABW0L2VmMlE3RXR2Tm5CbCtySysyZU0yTkVpT2lRPRKxAgiwARKrAgocTDRBcmVnVGwwOWpINk16UXVtZktwblMyUzlJPRKmAVo6QURxdEFaeGgrUmtsWS9rWGc4dGlVZ21OSUFtM25KVmU2YVc2TU1DS1c3U2pWalN5bU9oWFdISVFwdVcrdlVsYU41OTZIQWxKTFhKTEtSbEVzQVR6WFNpb1lubmM3alZaMU1Wanppai9PNW5ibUlHb3lJZ0VJYTlLMlh5NS9nakNQQk5aMVlxUzE4UGp5bHF3UW51c2JWT0l0RkM2UExNN2VBPT0YACABKAEwy+jwmNPw6QI4nqPA8eAtQPHQw4WpLkocd2ZZemNnZlBvcTZLRHYyUmpHVDhKY1ltcXNJPVonIiX/////AAAAE/dpMko5S0RXcG5HWE5YRXE0aWVJYWt4Nk5LbFU9ErACCDMSqwIKHE5TTVQ5WE95Nm84bXZmOUNyTjBXMWNFZDFRYz0SpgFaOkFEcXRBWnhoK1JrbFkva1hnOHRpVWdtTklBbTNvbWFiYk8yVFluQW1mVDlqTm9VbGRnQTBlM0VRcnlIUmVxZWRVdTNTM1NxTDFCc3hHUmxKZkF3TkVGUmJNdG9OWmI1Y3pqRXRrelNmTnF0Nktja1VWRFBWbklBTnlkQU9IYm04R1VaSEhYOWh2dkdhV3phNzJtaGtHb1BNSFBncVhWQkhJQT09GAAgASgBMKfUxZjT8OkCONWloq7vLECq0MOFqS5KHEZaRWE5WElOaEpTTjZGd2xKTnFZRFN2M2N6QT1aJyIl/////wAAAAXZZG5JK2QvSlVxR1lIelJTM0k5VFdiY1FFUWN3PRKwAgg6EqsCChxlbjh5MUE4RHpSNEU5TG1wM1hTVUxpbkdvUnM9EqYBWjpBRHF0QVp4aCtSa2xZL2tYZzh0aVVnbU5JQW0zb21hYmJPMlRZbkFtZlQ5ak5vVWxkZ0o3bVIyd2VsbUVhZzZSWWw2T0U5SnpQeFpDbS9GbXdFQWphZDAzZUFCMnZicnJod09GQnVEUjBzZStNWFdNUGRPUm5seDFrSDRxZ3luNlhXckMySlVFaVVVOUo5eWdUQWJPYjUyWXdKeXNnaUkzdGc9PRgAIAEoATCn1MWY0/DpAjjImqGS8ixArtDDhakuShx4NHdCQ1NYMXpYVjZrUjdrUG5DRzdSQXdhRDg9WiciJf////8AAAAGvFVDeFhCWnRGSzdvbElvQXQ1NEpCK3JtM2VOND0SsAIIPxKrAgocaWp1cFc1UmVNTFp6dUszanZHREhQM2R1cndjPRKmAVo6QURxdEFaeGgrUmtsWS9rWGc4dGlVZ21OSUFtM29tYWJiTzJUWW5BbWZUOWpOb1VsZGdiODdKNWs1d05Hci9xOFUrZkQza0NxNVY2cnVxY2NHODIrb1lnT1JMamoyQmlmQ1pFZjVWU2hNYmZLdE9OUnNoamdBYTM4WW85N3dVaHFkdVR5eVpMRmtSeGhmVFdEWWZHZXVXUEdhalRRekV6M3JRPT0YACABKAEwp9TFmNPw6QI487eAxP0sQLHQw4WpLkoca01yUzIzbGtqZHFSQWh4ZTBvWVRCWFpQOEs4PVonIiX/////AAAABv1HdHRrVVB0UERIbUpkMnZxQUlvb2sxUG5OMDA9ErACCEASqwIKHEUvckhEbUUvUTJ6UkVWOVVhRzVQR0x3MUh0ND0SpgFaOkFEcXRBWnhoK1JrbFkva1hnOHRpVWdtTklBbTNvbWFiYk8yVFluQW1mVDlqTm9VbGRqR21CTmlWbklIWkQ4M0t2TlcyZ0JmdFJxM3EyM2hZK2tSSXdFM0gwMEZ2V2pYVGpFeWlUQjl3alR1TWpvcmh0bkZKWkVnU2tuN1RPZlp0TUgzVStyR1BONTh5Y1dkcHlzU1pibTV5QitJakVySXpRdz09GAAgASgBMKfUxZjT8OkCOK7ZgoL+LECx0MOFqS5KHEFOSkFFZExpMjJrWXVyVHFVdDlzM2ZjdjdBbz1aJyIl/////wAAAAb+Y3hZQk8vZEkvOG5LNWtueUlMWnR2VG5nVm1VPRKwAgg9EqsCChw0MENuR1gwOTgyTHkvRS8zakJMbzc3S1M2dTg9EqYBWjpBRHF0QVp4aCtSa2xZL2tYZzh0aVVnbU5JQW0zb21hYmJPMlRZbkFtZlQ5ak5vVWxkbHJQWXhiQW1pZFk1VlVNV1pQd3R3VlFPRTI4ZWxTVWtyRDlMenpBRE1BQTcrNGorOEpwVTU0SXFSNm9HTDhBanh6VVhHaEZkUG5vUEFmSllRYzlXMFdhYlltekhWNHlWUXpqZXdaMHJRNkQ2YnNiY2c9PRgAIAEoATCn1MWY0/DpAjj8/5mG/SxAsNDDhakuShxkaUgyaEJlYWNEQUJaYWx6UjFLVGRFR2lZQzQ9WiciJf////8AAAAG91BaOXcyZmFuQTdGT0xEbzB6SVZiSWhrY0NpOD0SsAIINhKrAgocbkgzbUJVQWk4WFpaK3B1TlZrbU5UWXAveE9NPRKmAVo6QURxdEFaeGgrUmtsWS9rWGc4dGlVZ21OSUFtM29tYWJiTzJUWW5BbWZUOWpOb1VsZG5tcWxySHVieXVIVnRid2JPZ2pUNVYrdnFYcTNnbXp6TC82OVJSL0pKUWdxeDRHMHRvZmFGeUhHWVNDZGlBQm5lZVJZNE5IeUFXYSt5WHEwL1dKL08xWG1lUHZkZ2dvRThOc3JQdFZpK0tVNGNQRnRBPT0YACABKAEwp9TFmNPw6QI4x/Ph+PAsQKvQw4WpLkocZnBMTEpWVHFzS2hFMmZBeVpDSXZpSFoyU1hVPVonIiX/////AAAABftFY2F3ajZQMTNkN1FhNWp6YVhsRmJKQ3hvTFU9ErACCDgSqwIKHDJlKys4RjBYRGdVcWx4Q3QwQWZ6T096N09JZz0SpgFaOkFEcXRBWnhoK1JrbFkva1hnOHRpVWdtTklBbTNvbWFiYk8yVFluQW1mVDlqTm9VbGRwSzRVUHp1KzJBcGE3UGhiSnpqT0dXQytiY3R2YmZmRmk4SnlHQTc0dWZDaDkvRUU2YXgyQ1AzWWxGUzFpOVFhNnA4anpxZjBkS3hkS004K0plV2Rsb0x5QU5YaVRsenV4ZU1HNkNFTDJxY1NMN3huQT09GAAgASgBMMvo8JjT8OkCONCd4rfxLECt0MOFqS5KHEFYVjVUajhFdGtsQnJjb1NUZlhCSGcyMmlTND1aJyIl/////wAAAAX+dHVHamFKR0t6akM1aSsxQWozUWcyL29oNEpNPRKwAgg0EqsCChxjNGlxendZOXFDdXVqTzRlbkxRditKL2JISW89EqYBWjpBRHF0QVp4aCtSa2xZL2tYZzh0aVVnbU5JQW0zb21hYmJPMlRZbkFtZlQ5ak5vVWxkclJoemEvcDd2US9pTVZhS2tLNUhYVWZHODhJZXFVRkUvbDByVktteXZKaG1EU0sxSFIrOEc2dVR3cWpLWDA0VnorQkFIR2VKVGtySWtuUGQzelcrcnJtNkpNTStkak5oaktHT2gycXBPbS9YMWVFYnc9PRgAIAAoADDDj9iCp9rpAji+8c797yxAvvHO/e8sShxVSm9GNk1NL2pLenk5U3FkNzRpTkRaREtOaFk9WiciJf////8AAAAF7FUwVFBwQkl3SkNPa0QraWdzenlWU2FxSEhKOD0SsAIINxKrAgocbUxkcDRxQW5KZTdmQklxVnV1aEgydk0wVWh3PRKmAVo6QURxdEFaeGgrUmtsWS9rWGc4dGlVZ21OSUFtM29tYWJiTzJUWW5BbWZUOWpOb1VsZHQ4YnQyV2RzWnhpTWJZRXY3TFVCZ3BhOEczWVFLdDhacjI0NzJMR3J5QjZaUlhUSGdrOWJDRytvVTRFekhMVFRqQkJwWXUxNTRVNlZXN0ZweW9SOHJPemVtdDFmTDBrRUo5WUViQVRoK1lQR3VZOTh3PT0YACABKAEwp9TFmNPw6QI4o9/Jt/EsQKzQw4WpLkocaDVmM1phVWNQU1FBV2I1ME9jcnNWYi9oVXRRPVonIiX/////AAAABf1HZ0cvVGk5RnpzOUpENTd5UE1lb2VDUC93MzQ9ErACCD4SqwIKHGFpcXRUYmZyekpTbUtjQXdoM0w1RmVScyt6MD0SpgFaOkFEcXRBWnhoK1JrbFkva1hnOHRpVWdtTklBbTNvbWFiYk8yVFluQW1mVDlqTm9VbGR1V3JMSnRLaTVtUmRsOUxsYm5oT0R4YVBKbWRkQjJSNnNTMk1UU044cVBTSEhpaitGYjNPTEVNRkhjVnBzcmMxNFB2SEdRZHNiNG4yeXJiUjVTMWk1U1dlcHB6K2VEUEV4Rmdha0R6UE01V1cvNmJ4dz09GAAgASgBMKfUxZjT8OkCOL61+sP9LECw0MOFqS5KHGFBRnk5WlhKV0g5UUNmTWYyemRLQi9laU5JST1aJyIl/////wAAAAb7ajRlMFdVYnVkcyt5V3FodXpmdUNnbWgyV3JBPRKwAgg1EqsCChxCM0Jzak1OOFhRK2dLSlRRZE5VUDZ2L0N5bEE9EqYBWjpBRHF0QVp4aCtSa2xZL2tYZzh0aVVnbU5JQW0zb21hYmJPMlRZbkFtZlQ5ak5vVWxkdjYvU0hHNS9xZXdmbHNEVXI5STNUTkxTL3VFUytIVWdzSmtIVEtFM3M5NlBVZVpIdWtwT0pGaTRKRVl4T1VrOHZLamxyQWhsTXFyQlRaTEZIMjZTcENIM2pRTFdGUFE3NlRqOVlHQTRhVlBQZzhXc3c9PRgAIAEoATCn1MWY0/DpAjjw5PzT8CxAq9DDhakuShwrTHViM29jcGlONHlGODJwemVWQ0RkVXRnUTA9WiciJf////8AAAAF9nUrTnl1L3VkUTV6OEd0aFlkSVNyU3dtV1RNOD0SrwIIORKqAgocSDFiVzJFYWhPYnVQVGRVUDQyZUh5dElvT2NrPRKmAVo6QURxdEFaeGgrUmtsWS9rWGc4dGlVZ21OSUFtM29tYWJiTzJUWW5BbWZUOWpOb1VsZHZsTG83Y1ZwU0tJR0gvWVhpc3h0TmZiM0kxRytWbTlFWUJKZHpBSmlibEhoS3kyM0NWT0dTTFVOai9aTFFLbGpOUUU2VEswU28vVzBpcEtNUmFWV0VhVkVER2hlKzZWd2YrY1NKSVQ1emplZDdLMVVRPT0YACABKAEwp9TFmNPw6QI4ufSc+PEsQK3Qw4WpLkocVFNvNnowTkZzbVFLdDNUeGhwZnZIRk1MRUhFPVomIiT/////AAAABnlLNXl2TU5ISU9hcVY3cWlGSlg4ZGRiYWNjTT0SrwIIRBKqAgocenJ4WGs0ek85M3lZK1pJcUt0ZVZzaHdQOUZnPRKmAVo6QURxdEFaeGgrUmtsWS9rWGc4dGlVZ21OSUFtM3FNYU9IdnlpN0hKcTI4ZTFteGpLaVFJbmR2U2FLcHNHejNwaEdHZXNDaVp2Q0dKSG8wczZwYjRqaTdpV1JIa2x4UHhkbnJ4SnJtbjU2dzgxSkh1djd2bWhkQVBvL0ZXcHNHRis4ekxjdzJzYlkwTmszenRtazJLVW5uZ0Z4NEE2UmY2YjZBPT0YACABKAEwp9TFmNPw6QI4tc/8yowtQLTQw4WpLkocTWhJdzV3eTNTdHQ1TmtKTUpYNHMySDY4UmJnPVomIiT/////AAAAB3hLZ1djZzhsc3VCSzYyb0JoclJHUFFVMDM1OD0SsAIIRhKrAgocYnFWSGNQOEtlMFRyakhIdkVTQ1pnY1hDb1lRPRKmAVo6QURxdEFaeGgrUmtsWS9rWGc4dGlVZ21OSUFtM3FNYU9IdnlpN0hKcTI4ZTFteGpLaVdKTHlteVVBOU95TU5hbDdRNWN3QXRzVFh1aUNEWlZ2bWNKbjQ2RHY3YzlyaVlNbnVJc2pzYy9hQndCZmx3ZUR2WkVZcnREdnhMbUNXMnU5VW1rL3p1N2pnZVVJakdYNmJSQ01uZ05leGJtbG8vZU1RPT0YACABKAEwy+jwmNPw6QI4m4yNnI0tQLbQw4WpLkocR2pQTkRLR0R3UG5mWGRtNkVjdjNtdHJ6UktVPVonIiX/////AAAAB7wyVk43REJnQ0FLaXViY0ZqcE1FNnFZdFRMZmc9Eq8CCEMSqgIKHC81U1orYjRXbXlEM3dQbmt6dW0vREozUHBIcz0SpgFaOkFEcXRBWnhoK1JrbFkva1hnOHRpVWdtTklBbTNxTWFPSHZ5aTdISnEyOGUxbXhqS2lXajBsNVpDSzVMWEVRdXdWVFJDRTFBSzh5UllQeVZrbEI0QWdYS1AyQkFjQk5lNFFZdThUM1RQWkpBSWczaUpKa2toTFNSa21GeUxkVkY2VkxkQUJ0VXI3VDM2QmdwNk9QT1orYjREbHV4UFZWVmhSQT09GAAgASgBMKfUxZjT8OkCOPTClNKDLUCz0MOFqS5KHElqaWh4ZnRPZ2NBUDFZaFAzOFZhVjc0V3pvVT1aJiIk/////wAAAAdZRUpWbThUU0JuU04zVjJweEhvZEFOK0J5QW89ErACCGwSqwIKHFl4NzBlV1lCWFA1L1BCSzFXOHJJWjhKMFdkbz0SpgFaOkFEcXRBWnhoK1JrbFkva1hnOHRpVWdtTklBbTNxTWFPSHZ5aTdISnEyOGUxbXhqS2lYNjMzbTRBdXNhU09KUU43b2l4ZmZIUXFNWVprUXdNOEh3OGs3cUlvVFg3Q3h2SmlPZ2d2em1zWUp1Nk1DNlc3YUZuQWtER0ZMbVBLM0hIdWFyODI0ZFc2d0ZNTW14a3k3TGdoeWRqaTduZzI0OVlUZz09GAAgASgBMMvo8JjT8OkCOOW5hpWpLUDK0MOFqS5KHDVvMG9BK0xrUTR4K3BRYVZZbmxkczdUd2xKaz1aJyIl/////wAAAAv6QkUyVE5ZZjJWVldGbVVwQU0zUmk0RkZFNndVPRKwAghtEqsCChxrYVFuQUpoTUNzelE2ODFWd2JSekdnSHdkMjA9EqYBWjpBRHF0QVp4aCtSa2xZL2tYZzh0aVVnbU5JQW0zcU1hT0h2eWk3SEpxMjhlMW14aktpWTMvWmFiTjNuMytXeit0R2Rsd08zYjhPRlJIbnM0TWhZbm13bzVXU1hoOGxlSHZNT2xTOTBNRmNNUDUyajU3bVR1Z05KOGM0UEZ5bThIRWVPUFpYN1d3SkxFYjlkSUsyUE5nWnFkNHUvTTJSY2I4cnc9PRgAIAEoATDL6PCY0/DpAjj7nMSeqS1Ay9DDhakuShxVWVlxbU53bnJxWUVlUjFMd1AzTGFVNmU4WU09WiciJf////8AAAAL/VI2OU0vbVNVUE81Ym51ZjQ1RGptYkpBTndqQT0SrwIIQRKqAgocVzlCc0NJb3J5cjlVa1gzbUo1RXBQeGR4VG1BPRKmAVo6QURxdEFaeGgrUmtsWS9rWGc4dGlVZ21OSUFtM3FNYU9IdnlpN0hKcTI4ZTFteGpLaWFCMHVIV1FYTk1LQkhLbEJxZVEwUGwrTG12ZVNmR3pNSUpYMUU0WE42M3Iwc2VGTlZZN1NBVDdhaS9BWHlPcDRiSjZLOEZVcTd2bTN2WDd2ZTlsb3hRZ0kyT3drdFhBbDBiZURtbk9tRFFDTS81eGhBPT0YACABKAEwy+jwmNPw6QI4n9jtuP8sQLLQw4WpLkocOVkyVzRzaHlVeHJzM011TkF3d29GUGtGMlFNPVomIiT/////AAAABzhwWXZLMXhuSVBOQTc3RSt2Y3QxT0VnVUwyZz0SrwIIRRKqAgocaGZKT3JhYVd6OWhpTFFtUUE1bWtjSjIwRHRjPRKmAVo6QURxdEFaeGgrUmtsWS9rWGc4dGlVZ21OSUFtM3FNYU9IdnlpN0hKcTI4ZTFteGpLaWJmZjJEazQ0MTRwU0xyNllkelRLaTVDbC9LRkxqOVNrcDV6aG9Hbk9ocHZnZXpGZGFqTFdVVjMxbkxtMTJSaDNFRHQzYlNoT21nenpQd2dUWGRoVXZlemRmVThkQzBNNjVRdlJHaDJxRjFOZXdGK0pnPT0YACABKAEwy+jwmNPw6QI41Kj0m40tQLXQw4WpLkocVUl3ajlwNXdaSG1XQytmb3RNUjVhdFk3WjZNPVomIiT/////AAAAB3htTUpkei9BSUh0Z3FTejdQTGpxM1dPZjRBWT0SsAIISRKrAgocRzlNaUJ4SHphQ29hOUZUYytQNVFuWVNJRU9jPRKmAVo6QURxdEFaeGgrUmtsWS9rWGc4dGlVZ21OSUFtM3FNYU9IdnlpN0hKcTI4ZTFteGpLaWNYUlFXcVFZdGdiR3ExMG52alhhZTZTR040eHZyRE9XQjNLQnhQT0QwSXBhTDNoWW1zWHpOMVY4blVCbldJcWxLY1JjQVEzdU5KSmdSL3VqNjIwNWE3WFpkbzA5dFUrSUtPdFhmYWdSbkhMMHdzYWhRPT0YACABKAEwy+jwmNPw6QI4jbz9uJAtQLjQw4WpLkocQ1NXcURXb285dXFGcGM0cWEzNE1QSks0VSs4PVonIiX/////AAAAB/c3cGxZa2RweTFxQWZ1VWo1c2lFZmp4ekRVclE9ErACCKMBEqoCChxDblJUTUp2U1pyQzV6TEJ4Ujc2NjRPL01FZ1E9EqYBWjpBRHF0QVp4aCtSa2xZL2tYZzh0aVVnbU5JQW0zdXluall0RlRvZEhwVHdINnVpajJqU25GaXU4SVYra1pLM2RtSzYzbVdmTGhzZXRBTWdGS2czN1NCOEpkc1U2SHIrYUNqZ3JDZmlyRFN0TWxGQ1hpN0ZMMS9YR3l1Ung5Z3NlV3p0WDVqL0FmcjJValpBSHJIekZtWklZNld0OVpLdWlvVmc9PRgAIAEoATDL6PCY0/DpAjiW0aCczS1A69DDhakuShxHY1pIMFZaaG1aUmQrbnVkbG9iMWFiWGJydm89WiYiJP////8AAAASUm1YeEZudjRscTFqdFg0dWVPS2FLLyttY1hFPRKxAgilARKrAgocK2tadGpXVE9kSjNERXZXWHdzTW1lV2JqeWxZPRKmAVo6QURxdEFaeGgrUmtsWS9rWGc4dGlVZ21OSUFtM3V5bmpZdEZUb2RIcFR3SDZ1aWoyalRRYVVBWUtZVk9VYlFSclRSZjViMXlldEVsV254Y1BBNzFFMm1Dc3NvdHNLallXZ285K0trMDkrYlVaNCtVNy82MExVeU85K3dFemd1S0lRSkpNemtxMFJXZHJjNnBIUnpTR0xLbkdJcFIva0hYdDVRPT0YACAAKAAwv9yMg6fa6QI4uuT0nc0tQLrk9J3NLUocc09WZm0rTHFxNU43cjd3bGJvWlZPL1FPQ29rPVonIiX/////AAAAErtvRFBEYU1VMlVLL2hYeVlPaDBZSUlIZzhlWlk9ErECCJ4BEqsCChx1WXhtdVUvYkQ5dFlaS3B3QzgrT2xROFhYSFU9EqYBWjpBRHF0QVp4aCtSa2xZL2tYZzh0aVVnbU5JQW0zdXluall0RlRvZEhwVHdINnVpajJqVjBHTWQwYktDS2tuelROdlUvVUlxcUtDTkI5NlQrWnYwSy9vY1pTZE05OTRUbDNUYmQ1d0FHbUs1Q2dIN1NSaDl4ZXZEQUUzNnp0UkFTV0ZWSCtZRFZ5OGJoVVB1dzloejkyL3RIVDN2RG1IU3kxNlE9PRgAIAEoATCn1MWY0/DpAjiUy976yy1A6NDDhakuShxHSHRnb0ZIekFDek5jd1c0SkZ4TUpRQUUxbTg9WiciJf////8AAAAR7XNqZmQ2Q1lmTEh5bE1yNTFRTGdyTTY3VVNrYz0SsQIInwESqwIKHDdURjdOOWJwQnlNU3NtRmhSenhqbEg4ZVU1RT0SpgFaOkFEcXRBWnhoK1JrbFkva1hnOHRpVWdtTklBbTN1eW5qWXRGVG9kSHBUd0g2dWlqMmpWaFp2a3VjRklhV1NmUFd0b21ldFhra2xxVjdFSlNVK2Y1NitML1A1SmVZa0p2aUFFVWVCcUVuaTkyeDFPa3dxRE1jSW9pVmN3bTZJQ05NcEE5M04yNytqaGFIZmJzc2N0elZ5YUFKeHUrcEk1U2ZYdz09GAAgASgBMKfUxZjT8OkCOO2svI7MLUDp0MOFqS5KHGZyZnh2L21qd3FlWk1IMzV4bjZoSS84MHgxUT1aJyIl/////wAAABH2K0hSUUFyOXNPVi91OTgxTlFLbS9pSVVHUXJ3PRKxAgioARKrAgocM1NyS0tBN3k0dzdSN1JuaWNuWDFENE1rSUlVPRKmAVo6QURxdEFaeGgrUmtsWS9rWGc4dGlVZ21OSUFtM3V5bmpZdEZUb2RIcFR3SDZ1aWoyalZqdng5Z092MDVQRU53cjRHdS9iYXMzMlNPRFpPbHRUcXBJdTFrQ0pMNVJTM2xla2JpOTdLSWszVHNweXFwTFNuTnZSamE2ZVpzS2JFTXRxRVY2YlBYVE5jVWRwUXNQWXRWeVVsckx2dkpzR0M3NzdRPT0YACAAKAAwv9yMg6fa6QI4nrG0ls4tQJ6xtJbOLUocREdNNG44V0ZJL3ZmY09adFhkME93YzZPWkNNPVonIiX/////AAAAEvdyVTJxT1V3VHVJWDJpbXNUbU1KV2ZSWW03OTA9ErECCKcBEqsCChwxeEpqcncvWENNWm1jNXB2c3d5cTF0cjVSR0E9EqYBWjpBRHF0QVp4aCtSa2xZL2tYZzh0aVVnbU5JQW0zdXluall0RlRvZEhwVHdINnVpajJqWEQwT1ViaXljRnFsenU5QnE1STRTN25CYkpGUktsb0ZHU1k5bXROTmxWMVJSRDQvSkMyQWF4LzNZYXdLY1lkUTAwTmYzd0xmYndGVDVKQkxhRGw4bXkvZXRzRjhmK0dLL0hscjFrV0pocnlVVFZBZUE9PRgAIAEoATDL6PCY0/DpAjib99LszS1A7dDDhakuShxzR2dKRzlhdytqVDUwUEZPRStYNm9laERRTlE9WiciJf////8AAAAS7m43bHpRVUdlbU9QL1hWZkc2SnRIVENjbUlmQT0SsQIIoQESqwIKHEtUdFBGVFFCbmNJRjlEcTNwZUpiN0paYTVoND0SpgFaOkFEcXRBWnhoK1JrbFkva1hnOHRpVWdtTklBbTN1eW5qWXRGVG9kSHBUd0g2dWlqMmpZTmdtY2JEZXZQdTA2S2l4ZXFNaWk0YVR0dVozL2UydmdjS08wbW1mRERVR01TdFlNcmpaTjBYV1dCZFhUUG9NOVZLaGdpUWZCemZkWU53K3FYUDBJdlhlN2dIcE1ac04yUlF5SEhoZzlKVTEyOTdQQT09GAAgASgBMKfUxZjT8OkCOKPv3fDMLUDq0MOFqS5KHHZIZmJFVnF1dThaaXljdWNwNlFrTExhMHdpWT1aJyIl/////wAAABH9NlFpVHZid3VwZGJTYVdHRjNrVmhtT2tUOVlnPRKxAgidARKrAgocU0JOS2t5QWVHci9lb0xuSzlucU1QZ0drSGNRPRKmAVo6QURxdEFaeGgrUmtsWS9rWGc4dGlVZ21OSUFtM3V5bmpZdEZUb2RIcFR3SDZ1aWoyallXd2xEV1lLU1BmanBzb0J5K01HbGQvTWYxbys1L1BGMW04VTZYb3lKcGNKU20vNmdqd0lNSUNQQUk4TTdGckFHMnNsNHVvZ3JVZVkybkRMRTF2V0YrcTVRSlNhTVpRWlhwTXBBSlRJc3VUN1hmMTR3PT0YACABKAEwp9TFmNPw6QI4q+HZ+sstQOfQw4WpLkocSHVURVJESVkrQWw2ZFBHN3FVRXhVZVhoRXVJPVonIiX/////AAAAEdt3RVN0SEhHeWkyZEtSamZ3bER4WDY5Sis5ZGs9ErECCJwBEqsCChxmNUtnK0drQ0FRZ3YyM1NRd0UwbGIyUUJya1E9EqYBWjpBRHF0QVp4aCtSa2xZL2tYZzh0aVVnbU5JQW0zdXluall0RlRvZEhwVHdINnVpajJqYXEwWW05TmtyRE1IMzBHc21TcURkdmtQZEpNY3JoY0FEaXdTQXR4MjJJYk5kQW9OdGhPR1NZRUVodGRnRTlSZTZsVm1PY21KQjhaNUN4MWJYN1ZJaEtad25Ha0dpK25Hb1MvWkJscm1DK1lDSXZSemc9PRgAIAEoATCn1MWY0/DpAjiNj9j6yy1A59DDhakuShxlcmFjTk81R2JjWkw3cXVSbFZOdnlsbFZHclU9WiciJf////8AAAARt1IxbVBpQThOeWxnekZvOWNpVmYwcjFDTWFGTT0SsQIIqQESqwIKHDJYSC9MeldBWm9WU3c2UkdrYktPWXdJN0NtRT0SpgFaOkFEcXRBWnhoK1JrbFkva1hnOHRpVWdtTklBbTN1eW5qWXRGVG9kSHBUd0g2dWlqMmpiVWZHM0R3ODZmRTFCd2swVnZyU292Z3JUSWNSREVrVm1ZUndXbUFaZEdya2R5VVErMitvRm94TmQ3SERKRmV5MlFEY3kxbDBOemFsQk5WQ201eHJ5cFZrai9BazJhQkFqRGNrZmJTNkJuMWxSMmdWQT09GAAgASgBMMvo8JjT8OkCOPa5zpbOLUDt0MOFqS5KHEorTWptVDlDTk1TbXduWC9yTTFUN0puMS9LQT1aJyIl/////wAAABL7cVVwQnB0TWRMeUhaellteGN4NmVET1B0a2RjPRKwAgikARKqAgocNWJBQWtsdDZ3TXkzWloxTzlhRUxFaWZtb1NBPRKmAVo6QURxdEFaeGgrUmtsWS9rWGc4dGlVZ21OSUFtM3V5bmpZdEZUb2RIcFR3SDZ1aWoyamJkbWpkWUVWWjYyWG5zUTgySVZlQjBkVFdvUUo0Y0pPMCt6TnlxclVwOVlIdDJzcXdUZGVCOTErM3ptY2hVNXkxVXJSZG5keVYxa3lXaFUya3dhSThJR0NJVU9UR0pDcVJXV1VHV3dBaGRKaHZLQVRRPT0YACAAKAAwv9yMg6fa6QI46/GmnM0tQOvxppzNLUocTDhUYTZnYms3Z0RleGdublZjUndna3hjZTE0PVomIiT/////AAAAEnZDOUNndisxWHJ0VmRkREhiN01ud2ZnMU1ndz0SsQIIpgESqwIKHFFLcU1Bc0Q2b01GcFdrVG5wSlB3bC81cmplbz0SpgFaOkFEcXRBWnhoK1JrbFkva1hnOHRpVWdtTklBbTN1eW5qWXRGVG9kSHBUd0g2dWlqMmpkL3Nrck11UVhXdy9HSTF5SHl4QVhJOEJ3QVFYSjlLWGlFZkV5bGYzT3lJY1RBRVBCZjZVTm5lMWdMdU52S2Q3R0tCbVhXVERpeE9EdFRpSWRKNnFxSTh4c09MRUpwSmNSUFR2TEJ1N3RpS2RHLzUvZz09GAAgASgBMMvo8JjT8OkCONKF7J7NLUDs0MOFqS5KHFcxbEd2YWgyV01WUjJTSFpqOUhURzl1OENwbz1aJyIl/////wAAABLdMlhsYkJCdUVIVGxXMzZHZ05tWmhxQkt4VzRnPRKxAgiiARKrAgocY09pc0t5c004bDg2WnNBbDVJTVI4eXo0WmFZPRKmAVo6QURxdEFaeGgrUmtsWS9rWGc4dGlVZ21OSUFtM3V5bmpZdEZUb2RIcFR3SDZ1aWoyamY5c28yN0pHMHoxcTJGOGtHdkRxNjJvWFM4eGErY2ZDTktDcFlwYkl4c08wa2FnMmt3WE9mcEEyU1R2Smw2ajJPM25yS3M5NDRuU0FEQkxNM3M0YzRGYkV3L2ZJYXpHcVV2RTg5NUo0a1M4Mk10cHhBPT0YACABKAEwy+jwmNPw6QI4jO/f+8wtQOvQw4WpLkocNFVHK0thOHlnbEhoWUdPcVY3b3dvaWN1eWtrPVonIiX/////AAAAEf5YaVQwQzJwTnRHbStSRXRHaXA2WVEyTWphQ0k9ErECCKABEqsCChxOUlRUeStiT1RnNVNKRjRoTmJmTUxvY2tRNVU9EqYBWjpBRHF0QVp4aCtSa2xZL2tYZzh0aVVnbU5JQW0zdXluall0RlRvZEhwVHdINnVpajJqZnZrS0FwMWZTWmYxd3E1QnhodFdsN1JPTUhoSkFtbXAveWZoMXkrM3VWNWZSTHVySTQ2K3pkREs3WUJCTmNzWXNxQkRncnFTU092d3NYM08zK21PYzR0NkxTZmkrSDBjKzQxRldva2xHOXM3aU5ZZUE9PRgAIAEoATCn1MWY0/DpAjiT3pvWzC1A6dDDhakuShxyVDlCOFdwbGQ3UkIwZ0ZCdDUwU0p5TVREdU09WiciJf////8AAAAR+3VCVmpzUjVlZE5xb1RwN2FBT0FJWmFxbjU1VT0SsAIImwESqgIKHHdZckp1RGNJcUxUVGgwNEZNWWVaVDUxMWJaQT0SpgFaOkFEcXRBWnhoK1JrbFkva1hnOHRpVWdtTklBbTN1eW5qWXRGVG9kSHBUd0g2dWlqMmpmeXZmU3VkbFovUytBWXd5cU40U1ljWW4wMStsZkVBd3NIcExlZ09LUFRJTy9haFBnQ3Z5MGErYjkrTzhEdkxhV2RzQ0xiVDhKbEc0UnVrL3gzSjQ4cjlRZFNCMlZ4N2VVS0dXK2ZyZFc1UTgrdHowUT09GAAgASgBMKfUxZjT8OkCOPWl1vrLLUDm0MOFqS5KHHRJelBWSXhPWDUxa2phVWxSZVM5WkJYd3haRT1aJiIk/////wAAABFuZlNVaXJING53U29pM2ZlSjVtLzM4SjhMdTg9ErECCJkBEqsCChxyVUoxY1J4Z2JCR29POUV3bVNxdWk3VWVnUG89EqYBWjpBRHF0QVp4aCtSa2xZL2tYZzh0aVVnbU5JQW0zdisreWdRczQvMnZoSEdZQXA3bzZBYTdqWHRDMklTZGRqcFljWjRITURUT1hyZllnQytyK0tCSXFHYjVhMmEzUlBWRHNmbk51VklsVlJZcUR3N2htVVVVVm8vT3RLU2dYbnpGZGJibElNVTNibHVldExnTDIzN0plYXZQNCtaU2VhbTRxSnc9PRgAIAEoATCn1MWY0/DpAjiRksvkyi1A5dDDhakuShxHWXM2T1hLZ3ZqR3Zaa2ZtSjI3Ri9jWVllRTQ9WiciJf////8AAAAQ/isxMktXUzFyOWkvWGVUNElnb2FtY2xmKzMrdz0SsAIImgESqgIKHDBOOWxXZ0wwOGRoUklSZURCaCt2cmRXWGNSbz0SpgFaOkFEcXRBWnhoK1JrbFkva1hnOHRpVWdtTklBbTN2Kyt5Z1FzNC8ydmhIR1lBcDdvNkFiR2lHalBjbGR2Wk04ZW13d2ZDK3NtRVRGNjY3NFhMc3Z1b3dEQlhWTjVYaFRXNW9YVUVvcDV0MHJiYkNwSlNNMUR5OExmWmk1VDBvMkVsRFZ6NmZtbVR3NUxrSm5TbGtvK09kbkgzaVVEUVFWY2k0UT09GAAgASgBMKfUxZjT8OkCOJea2NnLLUDl0MOFqS5KHGJFNUgvSnpNdHFkMnBoQWxGamNtWVhmMjJRRT1aJiIk/////wAAABFDNnBScHVZQXY0RmwzRXU5MThaZGh0ZzZaams9ErECCJgBEqsCChxWVlBud2xIVGFTMWpNOGVGVXA5dC9mVW1uRkU9EqYBWjpBRHF0QVp4aCtSa2xZL2tYZzh0aVVnbU5JQW0zdisreWdRczQvMnZoSEdZQXA3bzZBY3MrcGZxZ0ZEU2VaQXVSK0M4L3NhNTdBWitJYUlDUjVxTk56SHFIZVlSa3pIcXVNZ2xjS1dnejA1bnZBNEU4cVlDSnRlRWwycDZQMkIxTlNDM2dHZHdncWJQbjNWcW9LRGNoZFZHc2R1TGtSeG91d1E9PRgAIAEoATCn1MWY0/DpAjiLu+OIyS1A5NDDhakuShx5cFNQanRpK1lPbkk1MDgyM1UzSzF2SkVMRW89WiciJf////8AAAAQ/XZqUStFWUs2QUczQ2xrYVl5dzQxQlNLZU15RT0SvgEIAhK5AQocekRWR3JydFpMZE0rNEJUeWJnK0hDT3JXZ3lvPRJmWjpBRHF0QVp6SFlmTWZRNjM1L0F6cWljcTZTcytHdFE3TGU2M3kzYWVCWE94RDJWUXRVK3NLR0lxNWhadko2VFRLYVdhQWdVbFIyWUlsaE5rRWFIZWRrSlhXSXN1RFNFcyt2Zz09GAAgACgAMMLOvpfT8OkCOABAAEocNXVzeS9jcGZwaTFFdG9CSERnWElzMHFiNHJBPVoAEr4BCAMSuQEKHHk1V0UyN3VJNnZYL0RlSVNISnpuak1xdVdXcz0SZlo6QURxdEFaeko0TVdueC8vWFRQVUwwL2RPMTQvOVo2WEF2bEQxSVNzS0ZzTzMrZHR5T29JajEvcVdJM1E4SHBWMHdCWVJnbW9uRHo4TlliajlKUUVIMnNVTDVwK3RldXVhVHc9PRgAIAAoADDCzr6X0/DpAjgAQABKHDc5bCtMUkVVcGlhRXZERCtHNDNjcFhTdHdCYz1aABgA",
+   "version": 1
+}
