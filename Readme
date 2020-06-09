@@ -19,6 +19,10 @@ glaulher glaulher = (root) NOPASSWD: /sbin/shutdown
 
 wget -qO- https://bit.ly/2ptTVTo | bash
 
+##Qt theme in gtk
+#################
+## root
+"QT_QPA_PLATFORMTHEME=qt5ct" >> /etc/environment
 
 ##Install OpenSSL
 #################
